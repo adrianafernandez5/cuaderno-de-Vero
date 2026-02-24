@@ -1,0 +1,1259 @@
+accession	description	tax_id	first_public	scientific_name	base_count
+AF006567	Drosophila persimilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7234	1997-09-11	Drosophila persimilis	3502
+U65746	Drosophila buzzatii alcohol dehydrogenase (Adh-P) pseudogene, and alcohol dehydrogenase 2 (Adh-2) and alcohol dehydrogenase 1 (Adh-1) genes, complete cds.	7264	1996-10-21	Drosophila buzzatii	8725
+X00607	Drosophila simulans gene for alcohol dehydrogenase	7240	1985-06-13	Drosophila simulans	4607
+M37276	Drosophila mojavensis alcohol dehydrogenase-2 (Adh-2) and alcohol dehydrogenase-1 (Adh-1) genes, complete cds.	7230	1990-09-13	Drosophila mojavensis	8783
+AY279325	Drosophila orena alcohol dehydrogenase (Adh) gene, partial cds and alcohol dehydrogenase related (Adhr) gene, complete cds.	7233	2004-03-31	Drosophila orena	1724
+KU559568	Drosophila virilis strain 15010-1051.0 alcohol dehydrogenase (Adh1) and alcohol dehydrogenase (Adh2) genes, complete cds.	7244	2016-05-31	Drosophila virilis	14750
+M63291	Drosophila silvestris alcohol dehydrogenase gene, complete cds.	47010	1991-04-04	Drosophila silvestris	1635
+X62193	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3483
+X62220	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+AY040854	Drosophila melanogaster alcohol dehydrogenase gene silencer sequence.	7227	2001-08-19	Drosophila melanogaster	1180
+JF735882	Drosophila nigromelanica alcohol dehydrogenase gene, partial cds.	499227	2011-10-24	Drosophila nigromelanica	626
+X62214	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3486
+X62228	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3464
+M60791	Drosophila adiastola alcohol dehydrogenase gene, complete cds.	7261	1992-06-06	Drosophila adiastola	912
+X62206	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X64480	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3470
+X62204	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X62195	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X62199	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3475
+X62226	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3466
+X64486	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3475
+AY238778	Drosophila miranda strain SP235 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY238777	Drosophila miranda strain SP138 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY081440	Drosophila tripunctata alcohol dehydrogenase (Adh) gene, partial cds.	141217	2002-08-09	Drosophila tripunctata	217
+AY750123	Drosophila melanica alcohol dehydrogenase (Adh) gene, partial cds.	7252	2005-12-31	Drosophila melanica	911
+AY750132	Drosophila euronotus alcohol dehydrogenase (Adh) gene, partial cds.	55945	2005-12-31	Drosophila euronotus	911
+AY750144	Drosophila medioconstricta alcohol dehydrogenase (Adh) gene, partial cds.	311480	2005-12-31	Drosophila medioconstricta	911
+DQ471630	Drosophila barutani alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+HQ631470	Drosophila bipectinata alcohol dehydrogenase (adh) gene, partial cds.	42026	2011-08-30	Drosophila bipectinata	290
+AF264077	Drosophila nebulosa alcohol dehydrogenase (Adh) gene, partial cds.	7271	2000-05-30	Drosophila nebulosa	405
+AY006411	Drosophila picticornis alcohol dehydrogenase (Adh) gene, partial cds.	7235	2001-09-04	Drosophila picticornis	510
+AY750118	Drosophila longiserrata alcohol dehydrogenase (Adh) gene, partial cds.	311474	2005-12-31	Drosophila longiserrata	911
+DQ471667	Drosophila repleta alcohol dehydrogenase (Adh) gene, partial cds.	30043	2006-07-20	Drosophila repleta	711
+HQ631471	Drosophila bocki alcohol dehydrogenase (adh) gene, partial cds.	103765	2011-08-30	Drosophila bocki	290
+HQ631473	Drosophila curveadeagus alcohol dehydrogenase (adh) gene, partial cds.	2609304	2011-08-30	Drosophila curveaedeagus (nomen nudum)	290
+HQ631484	Drosophila pulchrella alcohol dehydrogenase (adh) gene, partial cds.	187394	2011-08-30	Drosophila pulchrella	290
+U26839	Drosophila borealis alcohol dehydrogenase (Adh) gene, complete cds.	40368	1995-06-30	Drosophila borealis	961
+AF059889	Drosophila melanica alcohol dehydrogenase (Adh) gene, partial cds.	7252	1998-04-28	Drosophila melanica	290
+AY006409	Drosophila adunca alcohol dehydrogenase (Adh) gene, partial cds.	46893	2001-09-04	Drosophila adunca	508
+AY006413	Drosophila nigribasis alcohol dehydrogenase (Adh) gene, partial cds.	46820	2001-09-04	Drosophila nigribasis	510
+AY750116	Drosophila lacertosa alcohol dehydrogenase (Adh) gene, partial cds.	119604	2005-12-31	Drosophila lacertosa	911
+AY750127	Drosophila paramelanica alcohol dehydrogenase (Adh) gene, partial cds.	311477	2005-12-31	Drosophila paramelanica	911
+AY750130	Drosophila neokadai alcohol dehydrogenase (Adh) gene, partial cds.	311476	2005-12-31	Drosophila neokadai	911
+AY750136	Drosophila okadai alcohol dehydrogenase (Adh) gene, partial cds.	311481	2005-12-31	Drosophila okadai	911
+DQ471655	Drosophila americana alcohol dehydrogenase (Adh) gene, partial cds.	40366	2006-07-20	Drosophila americana	711
+U94203	Drosophila petalopeza alcohol dehydrogenase (Adh) gene, partial cds.	58309	1998-02-23	Drosophila petalopeza	204
+AY006417	Drosophila neoperkinsi alcohol dehydrogenase (Adh) gene, partial cds.	48320	2001-09-04	Drosophila neoperkinsi	510
+AY750139	Drosophila sordidula alcohol dehydrogenase (Adh) gene, partial cds.	55950	2005-12-31	Drosophila sordidula	911
+DQ471659	Drosophila eohydei alcohol dehydrogenase (Adh) gene, partial cds.	54075	2006-07-20	Drosophila eohydei	711
+DQ471661	Drosophila kanekoi alcohol dehydrogenase (Adh) gene, partial cds.	50033	2006-07-20	Drosophila kanekoi	711
+GQ376034	Drosophila pseudoananassae alcohol dehydrogenase (ADH) gene, partial cds.	65964	2009-08-02	Drosophila pseudoananassae	410
+GQ376035	Drosophila bipectinata alcohol dehydrogenase (ADH) gene, partial cds.	42026	2009-08-02	Drosophila bipectinata	410
+U90956	Drosophila tristis alcohol dehydrogenase (Adh) gene, partial cds.	7284	1997-11-14	Drosophila tristis	428
+X68165	Drosophila pseudoobscura Adh gene for alcohol dehydrogenase (PS314)	7237	1992-10-08	Drosophila pseudoobscura	3460
+Z00032	Drosophila orena alcohol dehydrogenase gene and flanking regions	7233	1986-07-02	Drosophila orena	2617
+AB261136	Drosophila pallidifrons Adh gene for alcohol dehydrogenase, partial cds.	88884	2007-11-03	Drosophila pallidifrons	861
+AB932648	Drosophila bizonata Adh gene for alcohol dehydrogenase, partial cds.	188282	2015-01-14	Drosophila bizonata	844
+AB932646	Drosophila angularis Adh gene for alcohol dehydrogenase, partial cds.	309934	2014-10-26	Drosophila angularis	840
+AB932662	Drosophila multispina Adh gene for alcohol dehydrogenase, partial cds.	1503162	2014-10-26	Drosophila multispina	852
+AF260692	Drosophila montana alcohol dehydrogenase-related protein gene, partial cds.	40370	2000-09-20	Drosophila montana	456
+KM016471	Drosophila simulans isolate KY32 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	479
+U26842	Drosophila montana alcohol dehydrogenase (Adh-1) gene, complete cds.	40370	1995-06-22	Drosophila montana	957
+X60793	D.melanogaster (strain NC16) Adh gene for alcohol dehydrogenase	7227	1991-10-07	Drosophila melanogaster	2763
+AB033644	Drosophila brachynephros Adh mRNA for alcohol dehydrogenase, partial cds.	106246	1999-11-16	Drosophila brachynephros	711
+AB261135	Drosophila siamana Adh gene for alcohol dehydrogenase, partial cds.	157059	2007-11-03	Drosophila siamana	855
+AB932664	Drosophila nigromaculata Adh gene for alcohol dehydrogenase, partial cds.	198721	2015-01-14	Drosophila nigromaculata	849
+AB932678	Drosophila transversa Adh gene for alcohol dehydrogenase, partial cds.	193351	2014-10-26	Drosophila transversa	839
+AB932679	Drosophila tripunctata Adh gene for alcohol dehydrogenase, partial cds.	141217	2014-10-26	Drosophila tripunctata	836
+AB932680	Drosophila unispina Adh gene for alcohol dehydrogenase, partial cds.	193352	2015-01-14	Drosophila unispina	848
+AF260699	Drosophila buzzatii alcohol dehydrogenase-related protein gene, complete cds.	7264	2000-09-20	Drosophila buzzatii	2795
+AH000980	Drosophila melanogaster alcohol dehydrogenase (ADH-71k) gene, complete cds.	7227	2016-06-13	Drosophila melanogaster	2474
+U95266	Drosophila willistoni PA2 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1159
+X57374	Drosophila yakuba (individual j) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+X57376	Drosophila yakuba (individual l) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+U95260	Drosophila willistoni Lima alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+X57372	Drosophila yakuba (individual h) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB154553	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh12.	30033	2004-04-01	Drosophila kikkawai	675
+AF201429	Drosophila simulans isolate TT01 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AY156525	Drosophila navojoa alcohol dehydrogenase 2 (adh-2) gene, complete cds.	7232	2003-03-03	Drosophila navojoa	878
+KX976486	Drosophila yakuba isolate Yakuba_SJ7 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976513	Drosophila yakuba isolate Yakuba_2_11 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60980	Drosophila pseudoobscura (strain AH54) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-01-26	Drosophila pseudoobscura	3476
+EU532128	Drosophila paulistorum from Brazil alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	562
+HQ110512	Drosophila neocordata isolate D_neoc_c1 alcohol dehydrogenase (Adh) gene, partial cds.	30039	2011-05-06	Drosophila neocordata	830
+HQ110514	Drosophila neocordata isolate D_neoc_c3 alcohol dehydrogenase (Adh) gene, partial cds.	30039	2011-05-06	Drosophila neocordata	819
+HQ110515	Drosophila prosaltans isolate D_pros_c1 alcohol dehydrogenase (Adh) gene, partial cds.	30042	2011-05-06	Drosophila prosaltans	859
+KX976489	Drosophila yakuba isolate Yakuba_SJ14 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976512	Drosophila yakuba isolate Yakuba_3_16 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976518	Drosophila yakuba isolate Yakuba_1_7 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60988	Drosophila pseudoobscura (strain AH165) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-04-30	Drosophila pseudoobscura	3467
+AB154543	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh02.	30033	2004-04-01	Drosophila kikkawai	675
+AB154544	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh03.	30033	2004-04-01	Drosophila kikkawai	683
+AB154551	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh10.	30033	2004-04-01	Drosophila kikkawai	683
+AF201449	Drosophila simulans isolate MDW86 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	481
+AF284481	Drosophila sechellia strain SS77 alcohol dehydrogenase (Adh) gene, partial cds.	7238	2000-11-02	Drosophila sechellia	700
+AY095943	Drosophila curvispina isolate cur3 alcohol dehydrogenase (Adh) gene, partial cds.	126591	2003-05-01	Drosophila curvispina	443
+AY335198	Drosophila saltans clone Dsalt2L alcohol dehydrogenase (Adh) gene, partial cds.	7273	2003-12-31	Drosophila saltans	854
+DQ471613	Drosophila angor strain B123 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+DQ471644	Drosophila barutani strain 178 alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+DQ471653	Drosophila kanekoi strain 248 alcohol dehydrogenase (Adh) gene, partial cds.	50033	2006-07-20	Drosophila kanekoi	711
+DQ471654	Drosophila tsigana strain JP275 alcohol dehydrogenase (Adh) gene, partial cds.	65966	2006-07-20	Drosophila tsigana	711
+EU532129	Drosophila paulistorum from Brazil alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	558
+JX455213	Drosophila simulans isolate HW04 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	481
+KX976497	Drosophila yakuba isolate Yakuba_Cascade_SN6 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60981	Drosophila pseudoobscura (strain AH69) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-01-26	Drosophila pseudoobscura	3475
+M60985	Drosophila pseudoobscura (strain AH135) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-04-30	Drosophila pseudoobscura	3465
+U95258	Drosophila willistoni Cano Mora alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+DQ471628	Drosophila angor strain Taiwan alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+JX455216	Drosophila simulans isolate HW47 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KX976521	Drosophila yakuba isolate Yakuba_2_8 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+AY095938	Drosophila transversa isolate tra2 alcohol dehydrogenase (Adh) gene, partial cds.	193351	2003-05-01	Drosophila transversa	437
+KX976492	Drosophila yakuba isolate Yakuba_SN7 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976500	Drosophila yakuba isolate Yakuba_Anton_1_Principe alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+AB669850	Drosophila burlai Adh gene for alcohol dehydrogenase, partial cds, strain: L76.	137355	2014-01-02	Drosophila burlai	833
+AB669859	Drosophila bocki Adh gene for alcohol dehydrogenase, partial cds, strain: A126.	103765	2014-01-02	Drosophila bocki	831
+AF136695	Drosophila americana americana G96.14Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+L78922	Drosophila mimica (strain 15292-2561.2) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U64542	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS308 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3481
+U64550	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS333 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3484
+U95271	Drosophila paulistorum Andean-Brazilian, ABM alcohol dehydrogenase (Adh) gene, complete cds.	46793	1999-01-06	Drosophila paulistorum	1167
+X54120	D.yakuba Adh gene for alcohol dehydrogenase and Adh-related gene	7245	1992-04-14	Drosophila yakuba	2284
+AF136661	Drosophila americana americana G96.48X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136667	Drosophila americana americana G96.33X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136668	Drosophila americana americana G96.21X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136699	Drosophila americana texana LP97.01 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF459753	Drosophila biarmipes alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	125945	2002-05-16	Drosophila biarmipes	290
+AF459763	Drosophila watanabei alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	94109	2002-05-16	Drosophila watanabei	290
+AF459771	Drosophila kikkawai alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	30033	2002-05-16	Drosophila kikkawai	290
+KY002642	UNVERIFIED: Drosophila melanogaster strain IND_DMEL_KL6 alcohol dehydrogenase-like gene, complete sequence.	7227	2017-10-13	Drosophila melanogaster	819
+LC057205	Drosophila sp. XT-32 Adh gene for alcohol dehydrogenase, partial cds.	1660393	2019-06-04	Drosophila sp. XT-32	836
+U64529	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS251 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3491
+U64533	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS267 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3465
+U64537	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS277 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3465
+AB669824	Drosophila asahinai Adh gene for alcohol dehydrogenase, partial cds, strain: TKNM1.	154832	2014-01-02	Drosophila asahinai	839
+AB669834	Drosophila rufa Adh gene for alcohol dehydrogenase, partial cds, strain: EH091.	67533	2014-01-02	Drosophila rufa	838
+AB669858	Drosophila barbarae Adh gene for alcohol dehydrogenase, partial cds, strain: MMY317.	137354	2014-01-02	Drosophila barbarae	833
+AB669864	Drosophila kikkawai Adh gene for alcohol dehydrogenase, partial cds, strain: NAHA1.	30033	2014-01-02	Drosophila kikkawai	832
+AF136682	Drosophila americana americana G96.47Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136688	Drosophila americana americana G96.33Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136694	Drosophila americana americana G96.11Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF459772	Drosophila lini alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	74550	2002-05-16	Drosophila lini	290
+AF459775	Drosophila triauraria alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	67534	2002-05-16	Drosophila triauraria	290
+EF560573	Drosophila brncici pop-variant Bogota alcohol dehydrogenase (adh) gene, partial cds.	306027	2008-05-01	Drosophila brncici	622
+L78928	Drosophila mimica (strain 15292-2561.9) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U64546	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS322 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3504
+U64557	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS352 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3457
+AB669882	Drosophila bicornuta Adh gene for alcohol dehydrogenase, partial cds, strain: BOG1.	112146	2014-01-02	Drosophila bicornuta	838
+AF136659	Drosophila americana americana G96.14X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY804554	Drosophila santomea strain STO.4 alcohol dehydrogenase (Adh) gene, partial cds.	129105	2005-10-06	Drosophila santomea	759
+U76477	Drosophila hydei strain 9 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+U64539	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS295 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3489
+U76473	Drosophila hydei strain 5 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+AB703325	Drosophila tolteca Adh gene for alcohol dehydrogenase, partial cds, clone: D.tolteca.	7259	2012-03-18	Drosophila tolteca	405
+AF136676	Drosophila americana americana D.am-.1Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AH011594	Drosophila biauraria strain 14028-0501.0 alcohol dehydrogenase (Adh) gene, partial cds.	73155	2016-04-08	Drosophila biauraria	565
+AY541093	Drosophila innubila strain CH2_M3 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY874369	Drosophila subobscura strain line 21 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AY340288	Drosophila americana pop-variant NN00.03X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340299	Drosophila americana pop-variant DN01.05Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340303	Drosophila americana pop-variant NN97.09Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340307	Drosophila americana pop-variant NN00.09Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY541097	Drosophila innubila strain CH3_M70 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+LC057203	Drosophila lutescens Adh gene for alcohol dehydrogenase, partial cds, strain: AK96-3.	51159	2019-06-04	Drosophila lutescens	837
+AB703317	Drosophila ambigua Adh gene for alcohol dehydrogenase, partial cds, clone: D.ambigua.	7216	2012-03-18	Drosophila ambigua	405
+AB703321	Drosophila helvetica Adh gene for alcohol dehydrogenase, partial cds, clone: D.helvetica.	77129	2012-03-18	Drosophila helvetica	405
+AB932669	Drosophila putrida Adh gene for alcohol dehydrogenase, partial cds, strain: E-22401.	38840	2014-10-26	Drosophila putrida	856
+AF476924	Drosophila quadraria strain 14028-0651.0 alcohol dehydrogenase (Adh) gene, partial cds.	67532	2002-04-26	Drosophila quadraria	405
+AY340296	Drosophila americana pop-variant DN01.01Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364494	Drosophila mojavensis strain MJS 36 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364497	Drosophila mojavensis strain MJS 84 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364515	Drosophila mojavensis strain MJS 93 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY874370	Drosophila subobscura strain line 22 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+EF560580	Drosophila pavani pop-variant La Florida alcohol dehydrogenase (adh) gene, partial cds.	306031	2008-05-01	Drosophila pavani	626
+AF136651	Drosophila americana americana D.am-.1X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY340283	Drosophila americana pop-variant DN01.05X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364510	Drosophila mojavensis strain MJS 14 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY364519	Drosophila mojavensis strain MJS 87 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY541089	Drosophila innubila strain CH1_M2 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY874373	Drosophila subobscura strain line 33 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1419
+AF136654	Drosophila americana americana D.am-.3X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AB932650	Drosophila cardini Adh gene for alcohol dehydrogenase, partial cds, strain: E-17701.	133981	2014-10-26	Drosophila cardini	833
+AY874365	Drosophila subobscura strain line 7 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AY044128	Drosophila ruberrima alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	98362	2002-08-06	Drosophila ruberrima	720
+AY044129	Drosophila neohypocausta alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157057	2002-08-06	Drosophila neohypocausta	747
+AY154841	Drosophila arizonae strain ARTU 14 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	879
+AY154858	Drosophila arizonae strain ARTU 14 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY364505	Drosophila mojavensis strain MJS 147.2F alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+M17830	D.melanogaster (strain Fr-S) alcohol dehydrogenase gene (allele Adh-S), complete cds.	7227	1991-07-01	Drosophila melanogaster	2722
+AB669887	Drosophila mayri Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0591.01.	137074	2014-01-02	Drosophila mayri	836
+AB669888	Drosophila orosa Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0611.00.	137076	2014-01-02	Drosophila orosa	839
+AB932645	Drosophila acutilabella Adh gene for alcohol dehydrogenase, partial cds, strain: 15181-2171.10.	133978	2014-10-26	Drosophila acutilabella	845
+AY154840	Drosophila arizonae strain ARTU 10 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154846	Drosophila arizonae strain ARTU 36 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	879
+AY340289	Drosophila americana pop-variant NN00.04-8X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	852
+AY364508	Drosophila mojavensis strain MJS 147.2F alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+M17836	D.melanogaster (strain Af-F) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	2770
+M55545	Drosophila subobscura alchohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7241	1992-04-30	Drosophila subobscura	3980
+AB669855	Drosophila watanabei Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0531.02.	94109	2014-01-02	Drosophila watanabei	825
+AY044124	Drosophila kohkoa alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	88883	2002-08-06	Drosophila kohkoa	725
+AY044125	Drosophila siamana alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157059	2002-08-06	Drosophila siamana	725
+AY154853	Drosophila arizonae strain AR00 4 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+M17832	D.melanogaster (strain Ja-S) alcohol dehydrogenase gene (allele Adh-S), complete cds.	7227	1991-07-01	Drosophila melanogaster	2727
+AB932647	Drosophila arawakana Adh gene for alcohol dehydrogenase, partial cds, strain: 15182-2261.03.	30017	2014-10-26	Drosophila arawakana	838
+AB194428	Drosophila merina Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	300357	2005-05-07	Drosophila merina	1800
+AF045114	Drosophila sturtevanti strain 14043-0871.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30047	1998-06-02	Drosophila sturtevanti	405
+AF045118	Drosophila prosaltans strain 14045-0901.4 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30042	1998-06-02	Drosophila prosaltans	405
+AY154833	Drosophila mojavensis strain MJBC 95.1 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154871	Drosophila mojavensis strain MJBC 103.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154873	Drosophila mojavensis strain MJBC 115.4 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY165542	Drosophila novamexicana alcohol dehydrogenase (Adh) gene, exons 1, 2, and 3 and partial cds.	47314	2003-05-01	Drosophila novamexicana	743
+AF045120	Drosophila neocordata strain 14041-0831.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30039	1998-06-02	Drosophila neocordata	405
+AY154831	Drosophila mojavensis strain MJBC 47.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154875	Drosophila mojavensis strain MJBC 202.2 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	878
+AB194424	Drosophila pseudoananassae nigrens Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	296643	2005-05-07	Drosophila pseudoananassae nigrens	1779
+AF348878	Drosophila auraria strain WK alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	47315	2001-04-16	Drosophila auraria	667
+AF348885	Drosophila subauraria strain SP alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	137068	2001-04-16	Drosophila subauraria	667
+CK131258	GH27610.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH27610 3 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/14/2002, mRNA sequence.	7227	2003-12-03	Drosophila melanogaster	607
+CV790484	zaa36c05.x1 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	726
+CV785893	zaa02h11.y1 D yakuba testes cDNA Drosophila yakuba cDNA 5' similar to SW:ADH_DROTE P28484 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	467
+BI628420	RH56810.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH56810 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/22/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	590
+BI571028	RH05837.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH05837 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	676
+BI571793	RH07086.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH07086 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	530
+BI571034	RH05843.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH05843 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	547
+CV042948	dba16c04.x1 Drosophila simulans testis pSport1 library Drosophila simulans cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7240	2004-08-24	Drosophila simulans	535
+AY695387	Drosophila caribiana alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	133974	2006-08-01	Drosophila caribiana	1141
+AA567713	HL01670.5prime HL Drosophila melanogaster head BlueScript Drosophila melanogaster cDNA clone HL01670 5prime similar to M22210: D.melanogaster thermostable FAST alcohol dehydrogenase allele gene, complete cds. DATE:12/18/97, mRNA sequence.	7227	1997-09-11	Drosophila melanogaster	281
+BF501656	AT17045.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT17045 5 similar to CG5590: FBan0005590 'alcohol dehydrogenase, iron-dependent' located on: 3R 98A6-98A6 : 04/09/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	371
+AA820792	LD24679.5prime LD Drosophila melanogaster embryo pOT2 Drosophila melanogaster cDNA clone LD24679 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/13/2002, mRNA sequence.	7227	1998-02-18	Drosophila melanogaster	587
+AF006565	Drosophila persimilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7234	1997-09-11	Drosophila persimilis	3462
+KX384731	Drosophila takahashii strain IND_DT_U7 alcohol dehydrogenase (Adh) and alcohol dehydrogenase-related protein (Adhr) genes, partial cds.	29030	2017-01-03	Drosophila takahashii	2658
+X13812	D.affinidisjuncta Adh gene for alcohol dehydrogenase	7262	1992-04-21	Drosophila affinidisjuncta	3886
+X62223	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3477
+X62229	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3494
+X62217	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3468
+X62218	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3486
+AY331979	Drosophila lini alcohol dehydrogenase gene, partial cds.	74550	2003-07-26	Drosophila lini	785
+X62190	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3485
+X62210	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3454
+X62224	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3474
+X62235	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X64468	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3476
+X64487	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3474
+X62221	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3483
+X62232	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X62183	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X64470	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3498
+X64476	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3457
+X62196	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X62211	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3475
+AY006415	Drosophila heteroneura alcohol dehydrogenase (Adh) gene, partial cds.	32382	2001-09-04	Drosophila heteroneura	510
+AY750145	Drosophila bai alcohol dehydrogenase (Adh) gene, partial cds.	311478	2005-12-31	Drosophila bai	911
+DQ471660	Drosophila hydei alcohol dehydrogenase (Adh) gene, partial cds.	7224	2006-07-20	Drosophila hydei	711
+AB026535	Drosophila sturtevanti gene for alcohol dehydrogenase, partial cds.	30047	1999-10-29	Drosophila sturtevanti	849
+AY750119	Drosophila tsigana alcohol dehydrogenase (Adh) gene, partial cds.	65966	2005-12-31	Drosophila tsigana	911
+AY750131	Drosophila yunnanensis alcohol dehydrogenase (Adh) gene, partial cds.	311475	2005-12-31	Drosophila yunnanensis	911
+DQ471631	Drosophila beppui alcohol dehydrogenase (Adh) gene, partial cds.	381453	2006-07-20	Drosophila beppui	711
+HQ631475	Drosophila jambulina alcohol dehydrogenase (adh) gene, partial cds.	111875	2011-08-30	Drosophila jambulina	290
+HQ631480	Drosophila ohnishii alcohol dehydrogenase (adh) gene, partial cds.	307242	2011-08-30	Drosophila ohnishii	290
+U63563	Drosophila affinidisjuncta alcohol dehydrogenase (Adh) mRNA, complete cds.	7262	1996-09-13	Drosophila affinidisjuncta	898
+AF059888	Drosophila funebris alcohol dehydrogenase (Adh) gene, partial cds.	7221	1998-04-28	Drosophila funebris	290
+AF081357	Drosophila tolteca alcohol dehydrogenase (Adh) gene, partial cds.	7259	1999-01-18	Drosophila tolteca	425
+AY006418	Drosophila cyrtoloma alcohol dehydrogenase (Adh) gene, partial cds.	46895	2001-09-04	Drosophila cyrtoloma	510
+AY750137	Drosophila pseudosordidula alcohol dehydrogenase (Adh) gene, partial cds.	311482	2005-12-31	Drosophila pseudosordidula	911
+HQ631478	Drosophila madikerii alcohol dehydrogenase (adh) gene, partial cds.	233251	2011-08-30	Drosophila madikerii	290
+M36580	D.melanogaster alcohol dehydrogenase (Adh) gene, complete cds.	7227	1990-08-30	Drosophila melanogaster	2686
+M60998	Drosophila miranda alcohol dehydrogenase (adh) gene, complete cds.	7229	1992-04-30	Drosophila miranda	3461
+X68164	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS309)	7237	1992-10-08	Drosophila pseudoobscura	3443
+AY750120	Drosophila tsigana alcohol dehydrogenase (Adh) gene, partial cds.	65966	2005-12-31	Drosophila tsigana	911
+AY750126	Drosophila polychaeta alcohol dehydrogenase (Adh) gene, partial cds.	30041	2005-12-31	Drosophila polychaeta	911
+AY750141	Drosophila bai alcohol dehydrogenase (Adh) gene, partial cds.	311478	2005-12-31	Drosophila bai	911
+DQ471635	Drosophila quadrisetata alcohol dehydrogenase (Adh) gene, partial cds.	381471	2006-07-20	Drosophila quadrisetata	711
+DQ471637	Drosophila velox alcohol dehydrogenase (Adh) gene, partial cds.	381475	2006-07-20	Drosophila velox	711
+DQ471663	Drosophila lummei alcohol dehydrogenase (Adh) gene, partial cds.	40371	2006-07-20	Drosophila lummei	711
+U26844	Drosophila texana alcohol dehydrogenase (Adh) gene, complete cds.	40372	1995-07-05	Drosophila americana texana	950
+U26841	Drosophila lacicola alcohol dehydrogenase (Adh) gene, complete cds.	40369	1995-06-30	Drosophila lacicola	957
+GQ376033	Drosophila bunnanda alcohol dehydrogenase (ADH) gene, partial cds.	244254	2009-08-02	Drosophila bunnanda	410
+AB261139	Drosophila guttifera Adh gene for alcohol dehydrogenase, partial cds.	66368	2007-11-03	Drosophila guttifera	845
+AB932657	Drosophila ornatifrons Adh gene for alcohol dehydrogenase, partial cds.	30031	2014-10-26	Drosophila ornatifrons	824
+AB932665	Drosophila orientacea Adh gene for alcohol dehydrogenase, partial cds.	119223	2015-01-14	Drosophila orientacea	857
+AB932675	Drosophila subpalustris Adh gene for alcohol dehydrogenase, partial cds.	95625	2014-10-26	Drosophila subpalustris	849
+M37262	D.affinidisjuncta alcohol dehydrogenase (adh) gene, exons 1-4.	7262	1990-09-07	Drosophila affinidisjuncta	3886
+U95253	Drosophila willistoni W3L alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+X57375	Drosophila yakuba (individual k) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB033643	Drosophila funebris Adh mRNA for alcohol dehydrogenase, partial cds.	7221	1999-11-16	Drosophila funebris	711
+AB932649	Drosophila brachynephros Adh gene for alcohol dehydrogenase, partial cds.	106246	2015-01-14	Drosophila brachynephros	1100
+U26846	Drosophila virilis alcohol dehydrogenase (Adh-1) gene, complete cds.	7244	1995-06-22	Drosophila virilis	13087
+U76468	Drosophila eohydei alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	54075	1996-11-19	Drosophila eohydei	899
+X57369	Drosophila yakuba (individual e) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB033641	Drosophila polychaeta Adh mRNA for alcohol dehydrogenase, partial cds.	30041	1999-11-16	Drosophila polychaeta	711
+AB932656	Drosophila funebris Adh gene for alcohol dehydrogenase, partial cds.	7221	2014-10-26	Drosophila funebris	845
+AB932658	Drosophila guttifera Adh gene for alcohol dehydrogenase, partial cds.	66368	2014-10-26	Drosophila guttifera	845
+AB932667	Drosophila phalerata Adh gene for alcohol dehydrogenase, partial cds.	7283	2014-10-26	Drosophila phalerata	822
+AF260697	Drosophila mulleri alcohol dehydrogenase-related protein gene, partial cds.	7231	2000-09-20	Drosophila mulleri	463
+EU532131	Drosophila tropicalis tropicalis alcohol dehydrogenase (Adh) gene, partial cds.	529088	2010-01-21	Drosophila tropicalis tropicalis	560
+KM016466	Drosophila simulans isolate KY03 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	476
+LC578831	Drosophila palustris Adh gene for alcohol dehydrogenase, partial cds.	95623	2022-04-03	Drosophila palustris	706
+EU532132	Drosophila tropicalis cubana alcohol dehydrogenase (Adh) gene, partial cds.	529087	2010-01-21	Drosophila tropicalis cubana	590
+U95255	Drosophila willistoni Atlixco alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1174
+U26840	Drosophila lacicola alcohol dehydrogenase (Adh-2) gene, complete cds.	40369	1995-06-30	Drosophila lacicola	957
+X57373	Drosophila yakuba (individual i) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB154542	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh01.	30033	2004-04-01	Drosophila kikkawai	683
+AB154550	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh09.	30033	2004-04-01	Drosophila kikkawai	686
+AB154556	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh15.	30033	2004-04-01	Drosophila kikkawai	686
+AY095949	Drosophila phalerata isolate pha3 alcohol dehydrogenase (Adh) gene, partial cds.	7283	2003-05-01	Drosophila phalerata	430
+AY335197	Drosophila sucinea clone Dsuc3 alcohol dehydrogenase (Adh) gene, partial cds.	46791	2003-12-31	Drosophila sucinea	781
+DQ471615	Drosophila angor strain E132 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+EU532127	Drosophila paulistorum from Guyana alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	587
+JX455218	Drosophila simulans isolate HW49 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KX976502	Drosophila yakuba isolate Yakuba_Anton_2_Principe alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+U95261	Drosophila willistoni Manaus I alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+AF201430	Drosophila simulans isolate HW00 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF284475	Drosophila mauritiana strain 152 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	701
+AF284479	Drosophila mauritiana strain Lig74 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	703
+DQ471650	Drosophila yunnanensis strain 244 alcohol dehydrogenase (Adh) gene, partial cds.	311475	2006-07-20	Drosophila yunnanensis	711
+HQ110510	Drosophila nebulosa isolate D_nebu_c2 alcohol dehydrogenase (Adh) gene, partial cds.	7271	2011-05-06	Drosophila nebulosa	794
+X78917	D.melanogaster Adh gene (fn46 mutant) for alcohol dehydrogenase (partial)	7227	1994-05-03	Drosophila melanogaster	96
+AB154560	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh19.	30033	2004-04-01	Drosophila kikkawai	683
+AY095944	Drosophila curvispina isolate cur4 alcohol dehydrogenase (Adh) gene, partial cds.	126591	2003-05-01	Drosophila curvispina	443
+DQ471651	Drosophila lacertosa strain 239 alcohol dehydrogenase (Adh) gene, partial cds.	119604	2006-07-20	Drosophila lacertosa	711
+EU532130	Drosophila paulistorum from Colombia alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	588
+HQ110509	Drosophila nebulosa isolate D_nebu_c1 alcohol dehydrogenase (Adh) gene, partial cds.	7271	2011-05-06	Drosophila nebulosa	794
+JX455217	Drosophila simulans isolate HW48 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KX375415	Drosophila biarmipes strain IND_DBR_U4 alcohol dehydrogenase (Adh) gene, complete cds.	125945	2017-01-03	Drosophila biarmipes	1022
+KX976498	Drosophila yakuba isolate Yakuba_SanTome_city alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976517	Drosophila yakuba isolate Yakuba_3_2 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M22210	D.melanogaster thermostable FAST alcohol dehydrogenase allele gene, complete cds.	7227	1991-07-01	Drosophila melanogaster	2075
+M60979	Drosophila pseudoobscura (strain AH43) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-04-30	Drosophila pseudoobscura	3481
+M62851	D.wheeleri alcohol dehydrogenase-2 (ADH-2) gene, complete cds.	7277	1991-04-10	Drosophila wheeleri	924
+X60112	D.madeirensis Adh and Adh-dup genes for alcohol dehydrogenase	30013	1993-08-25	Drosophila madeirensis	3881
+M62741	D.arizonae alcohol dehydrogenase-2 (ADH-2) gene, complete cds.	7263	1991-07-11	Drosophila arizonae	909
+DQ471626	Drosophila polychaeta strain X115 alcohol dehydrogenase (Adh) gene, partial cds.	30041	2006-07-20	Drosophila polychaeta	711
+JX455214	Drosophila simulans isolate HW05 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KX976487	Drosophila yakuba isolate Yakuba_SJ_1 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976488	Drosophila yakuba isolate Yakuba_SJ4 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976516	Drosophila yakuba isolate Yakuba_1_6 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976507	Drosophila yakuba isolate Yakuba_BAR_1000_2 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+U95262	Drosophila willistoni Manaus II alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+U95264	Drosophila willistoni Manaus IV alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+X60113	D.guanche Adh and Adh-dup genes for alcohol dehydrogenase	7266	1993-08-25	Drosophila guanche	4433
+AB669832	Drosophila neoasahinai Adh gene for alcohol dehydrogenase, partial cds, strain: OKNH2K.	1084812	2014-01-02	Drosophila neoasahinai	837
+AB669866	Drosophila leontia Adh gene for alcohol dehydrogenase, partial cds, strain: SWB196.	109356	2014-01-02	Drosophila leontia	832
+AF136657	Drosophila americana americana G96.36X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF175219	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-k37 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF459757	Drosophila greeni alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	114631	2002-05-16	Drosophila greeni	290
+KJ767238	Drosophila melanogaster strain Canton S alcohol dehydrogenase (Adh) gene, partial cds.	7227	2014-09-04	Drosophila melanogaster	872
+L78920	Drosophila mimica (strain 15292-2561.0) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+M97638	Drosophila immigrans alcohol dehydrogenase (Adh and Adh-dup) genes, complete cds.	7250	1993-06-05	Drosophila immigrans	3142
+AB669851	Drosophila jambulina Adh gene for alcohol dehydrogenase, partial cds, strain: F76.	111875	2014-01-02	Drosophila jambulina	831
+AF459776	Drosophila tsacasi alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	34677	2002-05-16	Drosophila tsacasi	290
+AF459777	Drosophila baimaii alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137353	2002-05-16	Drosophila baimaii	290
+EF216311	Drosophila microlabis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7281	2007-06-10	Drosophila microlabis	370
+L78925	Drosophila mimica (strain 15292-2561.5) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U64530	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS254 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3456
+AB669826	Drosophila auraria Adh gene for alcohol dehydrogenase, partial cds, strain: A662.	47315	2014-01-02	Drosophila auraria	843
+AB669831	Drosophila neoasahinai Adh gene for alcohol dehydrogenase, partial cds, strain: KMJM37.	1084812	2014-01-02	Drosophila neoasahinai	838
+AB669836	Drosophila subauraria Adh gene for alcohol dehydrogenase, partial cds, strain: KT4.	137068	2014-01-02	Drosophila subauraria	842
+AB669837	Drosophila subauraria Adh gene for alcohol dehydrogenase, partial cds, strain: ONM29.	137068	2014-01-02	Drosophila subauraria	842
+AB669856	Drosophila watanabei Adh gene for alcohol dehydrogenase, partial cds, strain: SWB248.	94109	2014-01-02	Drosophila watanabei	826
+AB669869	Drosophila ogumai Adh gene for alcohol dehydrogenase, partial cds, strain: RGN3.	307244	2014-01-02	Drosophila ogumai	837
+AB669871	Drosophila ohnishii Adh gene for alcohol dehydrogenase, partial cds, strain: MMY309.	307242	2014-01-02	Drosophila ohnishii	844
+AB669879	Drosophila serrata Adh gene for alcohol dehydrogenase, partial cds, strain: Q122.	7274	2014-01-02	Drosophila serrata	839
+AF136662	Drosophila americana americana G96.46X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136680	Drosophila americana americana G96.21Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136690	Drosophila americana americana G96.48Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136707	Drosophila americana texana LP97.07 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175214	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-h21 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF201424	Drosophila melanogaster isolate Zimbabwe 53 alcohol dehydrogenase (Adhr) gene, intron 1.	7227	2000-07-03	Drosophila melanogaster	494
+AF459744	Drosophila affinis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7246	2002-05-16	Drosophila affinis	290
+AF459755	Drosophila varians alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	30050	2002-05-16	Drosophila varians	290
+AF459773	Drosophila quadraria alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	67532	2002-05-16	Drosophila quadraria	290
+AF459778	Drosophila biauraria alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	73155	2002-05-16	Drosophila biauraria	290
+AF459782	Drosophila parvula alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137077	2002-05-16	Drosophila parvula	290
+AM181670	Drosophila gunungcola partial adh gene for alcohol dehydrogenase, exons 1-3	103775	2006-02-15	Drosophila gunungcola	628
+EU999243	Drosophila americana isolate FP99.45 alcohol dehydrogenase (Adh) gene, partial cds.	40366	2008-09-09	Drosophila americana	845
+L78921	Drosophila mimica (strain 15292-2561.1) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U64540	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS296 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3475
+U64552	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS336 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3490
+AF136685	Drosophila americana americana G96.36Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136691	Drosophila americana americana G96.10Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF459769	Drosophila barbarae alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137354	2002-05-16	Drosophila barbarae	290
+AF459770	Drosophila birchii alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	46829	2002-05-16	Drosophila birchii	290
+AB669846	Drosophila seguyi Adh gene for alcohol dehydrogenase, partial cds, strain: K59.	73917	2014-01-02	Drosophila seguyi	835
+AB669854	Drosophila punjabiensis Adh gene for alcohol dehydrogenase, partial cds, strain: NHO122.	60717	2014-01-02	Drosophila punjabiensis	836
+EF560578	Drosophila viracochi pop-variant Bogota alcohol dehydrogenase (adh) gene, partial cds.	306030	2008-05-01	Drosophila viracochi	624
+U64541	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS301 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3500
+AF459779	Drosophila kanapiae alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137072	2002-05-16	Drosophila kanapiae	290
+AF136669	Drosophila americana americana G96.27X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+U64525	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS236 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3472
+U64534	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS268 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3477
+U76472	Drosophila hydei strain 4 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+AF136679	Drosophila americana americana D.am-.0Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY541090	Drosophila innubila strain CH1_M3 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY541213	Drosophila falleni strain Roc_M3 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	7279	2005-03-01	Drosophila falleni	554
+LC057204	Drosophila sp. 14028-0511.00 Adh gene for alcohol dehydrogenase, partial cds.	1660392	2019-06-04	Drosophila sp. 14028-0511.00	838
+AY364507	Drosophila mojavensis strain MJS 133 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364517	Drosophila mojavensis strain MJS 122 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY541091	Drosophila innubila strain CH1_M4 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY541092	Drosophila innubila strain CH2_M25 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AB669860	Drosophila bocki Adh gene for alcohol dehydrogenase, partial cds, strain: IR2-37.	103765	2014-01-02	Drosophila bocki	831
+AB669867	Drosophila lini Adh gene for alcohol dehydrogenase, partial cds, strain: BG3146.1.	74550	2014-01-02	Drosophila lini	844
+AB669884	Drosophila fengkainensis Adh gene for alcohol dehydrogenase, partial cds, strain: const-MTK.	1084936	2014-01-02	Drosophila fengkainensis	841
+AB669893	Drosophila truncata Adh gene for alcohol dehydrogenase, partial cds, strain: RGN10 D225.	137078	2014-01-02	Drosophila truncata	830
+AB703315	Drosophila affinis Adh gene for alcohol dehydrogenase, partial cds, clone: D.affinis.	7246	2012-03-18	Drosophila affinis	405
+AH011593	Drosophila eugracilis strain 4026-0451.0 alcohol dehydrogenase (Adh) gene, partial cds.	29029	2016-04-08	Drosophila eugracilis	566
+AY340282	Drosophila americana pop-variant DN01.02X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364496	Drosophila mojavensis strain MJS 68 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364498	Drosophila mojavensis strain MJS 93 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364518	Drosophila mojavensis strain MJS 154 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY541098	Drosophila innubila strain CH3_M78 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY541099	Drosophila innubila strain CH4_M1 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+EF216310	Drosophila dianensis alcohol dehydrogenase (Adh) gene, exons 2, 3 and partial cds.	426742	2007-06-10	Drosophila dianensis	429
+M60989	Drosophila pseudoobscura (subsp. bogotana, strain BOGER) alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-01-26	Drosophila pseudoobscura bogotana	3479
+AY541094	Drosophila innubila strain CH2_M4 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	522
+X54813	D.ambigua gene for alcohol dehydrogenase (ADH) (EC 1.1.1.1)	7216	1991-07-23	Drosophila ambigua	4185
+AY340281	Drosophila americana pop-variant DN01.01X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+KJ767241	Drosophila simulans strain 14021-0251.167 alcohol dehydrogenase (Adh) gene, partial cds.	7240	2014-09-04	Drosophila simulans	868
+LC057199	Drosophila trilutea Adh gene for alcohol dehydrogenase, partial cds, strain: VT05-ST.	94114	2019-06-04	Drosophila trilutea	831
+AY874375	Drosophila subobscura strain line 36 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AY874363	Drosophila subobscura strain line 3a alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1425
+U76482	Drosophila mulleri strain -1371.19 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AY154850	Drosophila arizonae strain AR00 14 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154861	Drosophila arizonae strain ARTU 34 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AB669842	Drosophila greeni Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0712.00.	114631	2014-01-02	Drosophila greeni	830
+AY044126	Drosophila albomicans alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	7291	2002-08-06	Drosophila albomicans	725
+LC057198	Drosophila takahashii Adh gene for alcohol dehydrogenase, partial cds, strain: 14022-0311.06.	29030	2019-06-04	Drosophila takahashii	830
+M17834	D.melanogaster (strain Fr-F) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	2769
+M17837	D.melanogaster (strain Ja-F) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	7242
+AB932668	Drosophila polymorpha Adh gene for alcohol dehydrogenase, partial cds, strain: 15181-2231.00.	133991	2014-10-26	Drosophila polymorpha	833
+AB932670	Drosophila quinaria Adh gene for alcohol dehydrogenase, partial cds, strain: E-17701-1.	95624	2014-10-26	Drosophila quinaria	851
+AY044122	Drosophila annulipes alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157053	2002-08-06	Drosophila annulipes	722
+AY154847	Drosophila arizonae strain AR00 1 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154855	Drosophila arizonae strain AR00 6 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154857	Drosophila arizonae strain AR00 14 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154860	Drosophila arizonae strain ARTU 24 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154869	Drosophila mojavensis strain MJBC 80 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+M17831	D.melanogaster (strain Fl-2S) alcohol dehydrogenase gene (allele Adh-S), complete cds.	7227	1991-07-01	Drosophila melanogaster	2726
+M60990	Drosophila pseudoobscura bogotana strain BOG 3389.1 alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-04-30	Drosophila pseudoobscura bogotana	3472
+AB669862	Drosophila diplacantha Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0586.00.	61426	2014-01-02	Drosophila diplacantha	829
+DQ471609	Drosophila cf. cheda BCW-2006 strain 241 alcohol dehydrogenase (Adh) gene, partial cds.	381457	2006-07-20	Drosophila cf. cheda BCW-2006	711
+AB669885	Drosophila kanapiae Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0541.00.	137072	2014-01-02	Drosophila kanapiae	838
+AF067282	Drosophila helvetica alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	77129	1998-07-02	Drosophila helvetica	437
+AF045115	Drosophila sturtevanti strain 14043-0871.2 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30047	1998-06-02	Drosophila sturtevanti	405
+AF045122	Drosophila lusaltans strain 14045-0891.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	72470	1998-06-02	Drosophila lusaltans	405
+AY154829	Drosophila mojavensis strain MJBC 35.1 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154838	Drosophila mojavensis strain MJBC 202.2 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154870	Drosophila mojavensis strain MJBC 95.1 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	879
+AY165517	Drosophila americana alcohol dehydrogenase (Adh) gene, exons 1, 2, and 3 and partial cds.	40366	2003-04-22	Drosophila americana	743
+AY754433	Drosophila affinis alcohol dehydrogenase-like protein (Adh-r) gene, exons 2, 3 and partial cds.	7246	2005-04-04	Drosophila affinis	740
+AF348882	Drosophila triauraria strain WWJ alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	67534	2001-04-16	Drosophila triauraria	667
+AF348883	Drosophila quadraria strain NIG alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	67532	2001-04-16	Drosophila quadraria	667
+CK131244	GH25181.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH25181 3 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/14/2002, mRNA sequence.	7227	2003-12-03	Drosophila melanogaster	503
+AB194414	Drosophila parabipectinata osp, siren1, siren2, Adh, Adhr genes for hypothetical proteins, alcohol dehydrogenase, hypothetical protein, partial and complete cds.	186283	2005-05-07	Drosophila parabipectinata	17499
+CV850204	zaa68d07.x1 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-19	Drosophila yakuba	193
+CV784997	zaa07e12.x2 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	542
+CV043184	dba16c04.y1 Drosophila simulans testis pSport1 library Drosophila simulans cDNA 5' similar to SW:ADH_DROSI P07163 ALCOHOL DEHYDROGENASE , mRNA sequence.	7240	2004-08-24	Drosophila simulans	393
+CV528161	dba57a04.y1 Drosophila simulans testis pSport1 library Drosophila simulans cDNA 5' similar to SW:ADHX_DROME P46415 ALCOHOL DEHYDROGENASE CLASS III , mRNA sequence.	7240	2004-10-08	Drosophila simulans	384
+AY695386	Drosophila cardini alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	133981	2006-08-01	Drosophila cardini	1133
+BG632098	GH03334.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH03334 3 similar to CG4796: FBan0004796 'alcohol dehydrogenase, iron-dependent' located on: 3R 86D6-86D7 : 04/10/2001, mRNA sequence.	7227	2001-04-28	Drosophila melanogaster	798
+BF486174	AT20387.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT20387 5 similar to CG5590: FBan0005590 'alcohol dehydrogenase, iron-dependent' located on: 3R 98A6-98A6 : 04/09/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	816
+BI608471	RH13023.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH13023 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/16/2001, mRNA sequence.	7227	2001-09-10	Drosophila melanogaster	530
+M57300	Drosophila mettleri alcohol dehydrogenase gene, complete cds, and alcohol dehydrogenase pseudogene, complete.	7228	1991-06-27	Drosophila mettleri	4616
+AF006566	Drosophila persimilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7234	1997-09-11	Drosophila persimilis	3486
+AY279328	Drosophila mimetica alcohol dehydrogenase (Adh) and alcohol dehydrogenase related (Adhr) genes, complete cds.	30038	2004-03-31	Drosophila mimetica	2698
+X04672	Drosophila sechellia gene for alcohol dehydrogenase	7238	1987-06-07	Drosophila sechellia	4582
+M60793	Drosophila nigra alcohol dehydrogenase gene, complete cds.	7272	1992-06-06	Drosophila nigra	894
+M63287	Drosophila heteroneura alcohol dehydrogenase gene, complete cds.	32382	1991-04-04	Drosophila heteroneura	1634
+M63390	Drosophila planitibia alcohol dehydrogenase gene, complete cds.	7236	1991-04-04	Drosophila planitibia	1616
+U68472	Drosophila madeirensis alcohol dehydrogenase (Adh) processed pseudogene.	30013	1999-01-06	Drosophila madeirensis	1403
+X62222	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X62236	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X64471	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3493
+X64478	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3506
+JF735885	Drosophila tenebrosa alcohol dehydrogenase gene, partial cds.	614641	2011-10-24	Drosophila tenebrosa	531
+M63303	Drosophila differens alcohol dehydrogenase gene, complete cds.	7219	1991-04-04	Drosophila differens	1630
+U68470	Drosophila guanche alcohol dehydrogenase (Adh) processed pseudogene.	7266	1999-01-06	Drosophila guanche	1323
+X62184	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3481
+X62186	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3501
+X62192	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3481
+X62233	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+M19263	D.simulans alcohol dehydrogenase gene, complete cds.	7240	1988-10-04	Drosophila simulans	4607
+X62209	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3457
+X62189	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3457
+X62198	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3485
+X62200	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3480
+X62225	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3478
+X62182	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3502
+X62194	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3465
+X62203	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X62215	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X62191	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3472
+X64469	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3471
+U07641	Drosophila melanogaster alcohol dehydrogenase mRNA, complete cds.	7227	1994-07-04	Drosophila melanogaster	1140
+AY238779	Drosophila miranda strain SP295 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY238775	Drosophila miranda strain MA32 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AF264078	Drosophila paulistorum alcohol dehydrogenase (Adh) gene, partial cds.	46793	2000-05-30	Drosophila paulistorum	405
+AF264079	Drosophila pavlovskiana alcohol dehydrogenase (Adh) gene, partial cds.	46795	2000-05-30	Drosophila pavlovskiana	405
+DQ471662	Drosophila littoralis alcohol dehydrogenase (Adh) gene, partial cds.	47316	2006-07-20	Drosophila littoralis	711
+MG684381	Drosophila kepulauana alcohol dehydrogenase (Adh) gene, partial cds.	88882	2018-02-04	Drosophila kepulauana	730
+U26838	Drosophila flavomontana alcohol dehydrogenase (Adh) gene, complete cds.	40367	1995-06-30	Drosophila flavomontana	957
+U94199	Drosophila lineosetae alcohol dehydrogenase (Adh) gene, partial cds.	46802	1998-02-23	Drosophila lineosetae	222
+U94207	Drosophila tanythrix alcohol dehydrogenase (Adh) gene, partial cds.	46827	1998-02-23	Drosophila tanythrix	204
+X78402	D.melanogaster DNA alcohol dehydrogenase null activity allele	7227	1994-05-31	Drosophila melanogaster	44
+AF264080	Drosophila sucinea alcohol dehydrogenase (Adh) gene, partial cds.	46791	2000-05-30	Drosophila sucinea	405
+AY006419	Drosophila planitibia alcohol dehydrogenase (Adh) gene, partial cds.	7236	2001-09-04	Drosophila planitibia	510
+AY006421	Drosophila substenoptera alcohol dehydrogenase (Adh) gene, partial cds.	46818	2001-09-04	Drosophila substenoptera	510
+AY006425	Drosophila ingens alcohol dehydrogenase (Adh) gene, partial cds.	48319	2001-09-04	Drosophila ingens	510
+DQ471665	Drosophila montana alcohol dehydrogenase (Adh) gene, partial cds.	40370	2006-07-20	Drosophila montana	711
+EU532120	Drosophila insularis alcohol dehydrogenase (Adh) gene, partial cds.	46792	2010-01-21	Drosophila insularis	566
+HQ631468	Drosophila pseudoobscura alcohol dehydrogenase (adh) gene, partial cds.	7237	2011-08-30	Drosophila pseudoobscura	290
+HQ631476	Drosophila leontia alcohol dehydrogenase (adh) gene, partial cds.	109356	2011-08-30	Drosophila leontia	290
+MG684383	Drosophila siamana alcohol dehydrogenase (Adh) gene, partial cds.	157059	2018-02-04	Drosophila siamana	719
+U48715	Drosophila hawaiiensis alcohol dehydrogenase (Adh) gene, complete cds.	46435	1996-04-10	Drosophila hawaiiensis	3335
+AF059891	Drosophila robusta alcohol dehydrogenase (Adh) gene, partial cds.	7257	1998-04-28	Drosophila robusta	290
+AY006408	Drosophila hanaulae alcohol dehydrogenase (Adh) gene, partial cds.	48321	2001-09-04	Drosophila hanaulae	510
+AY750117	Drosophila longiserrata alcohol dehydrogenase (Adh) gene, partial cds.	311474	2005-12-31	Drosophila longiserrata	911
+AY750124	Drosophila micromelanica alcohol dehydrogenase (Adh) gene, partial cds.	189258	2005-12-31	Drosophila micromelanica	911
+AY750135	Drosophila medioconstricta alcohol dehydrogenase (Adh) gene, partial cds.	311480	2005-12-31	Drosophila medioconstricta	911
+DQ471629	Drosophila polychaeta alcohol dehydrogenase (Adh) gene, partial cds.	30041	2006-07-20	Drosophila polychaeta	711
+DQ471632	Drosophila daruma alcohol dehydrogenase (Adh) gene, partial cds.	309936	2006-07-20	Drosophila daruma	711
+DQ471633	Drosophila fluvialis alcohol dehydrogenase (Adh) gene, partial cds.	381460	2006-07-20	Drosophila fluvialis	711
+DQ471666	Drosophila nannoptera alcohol dehydrogenase (Adh) gene, partial cds.	103845	2006-07-20	Drosophila nannoptera	711
+X98338	D.melanogaster mRNA for alcohol dehydrogenase related protein	7227	1996-12-22	Drosophila melanogaster	2071
+DQ471627	Drosophila angor alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+DQ471634	Drosophila latifshahi alcohol dehydrogenase (Adh) gene, partial cds.	309938	2006-07-20	Drosophila latifshahi	711
+AF264076	Drosophila insularis alcohol dehydrogenase (Adh) gene, partial cds.	46792	2000-05-30	Drosophila insularis	405
+AY006414	Drosophila silvestris alcohol dehydrogenase (Adh) gene, partial cds.	47010	2001-09-04	Drosophila silvestris	510
+AY006416	Drosophila differens alcohol dehydrogenase (Adh) gene, partial cds.	7219	2001-09-04	Drosophila differens	510
+DQ471656	Drosophila anceps alcohol dehydrogenase (Adh) gene, partial cds.	302448	2006-07-20	Drosophila anceps	711
+AF264075	Drosophila fumipennis alcohol dehydrogenase (Adh) gene, partial cds.	126477	2000-05-30	Drosophila fumipennis	405
+AY006422	Drosophila melanocephala alcohol dehydrogenase (Adh) gene, partial cds.	46804	2001-09-04	Drosophila melanocephala	510
+U90955	Drosophila obscura alcohol dehydrogenase (Adh) gene, partial cds.	7282	1997-11-14	Drosophila obscura	453
+EU532118	Drosophila equinoxialis alcohol dehydrogenase (Adh) gene, partial cds.	46790	2010-01-21	Drosophila equinoxialis	573
+EU532119	Drosophila willistoni alcohol dehydrogenase (Adh) gene, partial cds.	7260	2010-01-21	Drosophila willistoni	533
+GQ376036	Drosophila serrata alcohol dehydrogenase (ADH) gene, partial cds.	7274	2009-08-02	Drosophila serrata	410
+U90953	Drosophila hubeiensis alcohol dehydrogenase (Adh) gene, partial cds.	57873	1997-11-14	Drosophila hubeiensis	432
+GQ376031	Drosophila sulfurigaster alcohol dehydrogenase (ADH) gene, partial cds.	88886	2009-08-02	Drosophila sulfurigaster	410
+GQ376032	Drosophila birchii alcohol dehydrogenase (ADH) gene, partial cds.	46829	2009-08-02	Drosophila birchii	410
+U94208	Drosophila dasycnemia alcohol dehydrogenase (Adh) gene, partial cds.	58308	1998-02-23	Drosophila dasycnemia	204
+U48714	Idiomyia grimshawi alcohol dehydrogenase (Adh) gene, complete cds.	7222	1996-04-08	Drosophila grimshawi	3644
+AY238771	Drosophila miranda strain 0101.4 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY238773	Drosophila miranda strain 0101.7 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AF260696	Drosophila biseriata alcohol dehydrogenase-related protein gene, partial cds.	137002	2000-09-20	Drosophila biseriata	487
+KM016476	Drosophila simulans isolate KY34 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	478
+U95267	Drosophila willistoni PA3 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+KM016473	Drosophila simulans isolate KY02 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	480
+AB261129	Drosophila annulipes Adh gene for alcohol dehydrogenase, partial cds.	157053	2007-11-03	Drosophila annulipes	835
+AB261130	Drosophila quadrilineata Adh gene for alcohol dehydrogenase, partial cds.	387621	2007-11-03	Drosophila quadrilineata	859
+AB261141	Drosophila busckii Adh gene for alcohol dehydrogenase, partial cds.	30019	2007-11-03	Drosophila busckii	820
+AF260694	Drosophila funebris alcohol dehydrogenase-related protein gene, partial cds.	7221	2000-09-20	Drosophila funebris	453
+AF260698	Drosophila repleta alcohol dehydrogenase-related protein gene, partial cds.	30043	2000-09-20	Drosophila repleta	451
+AY279322	Drosophila yakuba alcohol dehydrogenase related (Adhr) gene, complete cds.	7245	2004-03-31	Drosophila yakuba	1741
+KM016468	Drosophila simulans isolate KY33 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	476
+AY279324	Drosophila erecta alcohol dehydrogenase related (Adhr) gene, partial cds.	7220	2004-03-31	Drosophila erecta	976
+DQ471636	Drosophila sp. T alcohol dehydrogenase (Adh) gene, partial cds.	381473	2006-07-20	Drosophila sp. T	711
+U76485	Drosophila mulleri alcohol dehydrogenase (Adh-Finnegan) mRNA, partial cds.	7231	1997-03-06	Drosophila mulleri	261
+U76486	Drosophila mojavensis alcohol dehydrogenase (Adh-Finnegan) mRNA, partial cds.	7230	1997-03-06	Drosophila mojavensis	245
+U95265	Drosophila willistoni PA1 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+DQ471643	Drosophila virilis strain 174 alcohol dehydrogenase (Adh) gene, partial cds.	7244	2006-07-20	Drosophila virilis	711
+U95257	Drosophila willistoni Belize VI alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+AB154554	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh13.	30033	2004-04-01	Drosophila kikkawai	686
+AF201434	Drosophila simulans isolate C167 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF201448	Drosophila simulans isolate MD221 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF284474	Drosophila mauritiana strain 105 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	702
+AF284478	Drosophila mauritiana strain Lig72 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	701
+DQ471617	Drosophila angor strain 118 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+DQ471642	Drosophila barutani strain 176 alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+HQ110511	Drosohpila nebulosa isolate D_nebu_c3 alcohol dehydrogenase (Adh) gene, partial cds.	7271	2011-05-06	Drosophila nebulosa	795
+HQ110513	Drosophila neocordata isolate D_neoc_c2 alcohol dehydrogenase (Adh) gene, partial cds.	30039	2011-05-06	Drosophila neocordata	832
+KX976506	Drosophila yakuba isolate Yakuba_COST_1235_2 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976515	Drosophila yakuba isolate Yakuba_3_23 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976519	Drosophila yakuba isolate Yakuba_4_21 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M62742	D.mayaguana alcohol dehydrogenase-2 (ADH-2) gene, complete cds.	7268	1991-07-11	Drosophila mayaguana	905
+U95275	Drosophila nebulosa 0761.0 alcohol dehydrogenase (Adh) gene, complete cds.	7271	1999-01-06	Drosophila nebulosa	1251
+AB154552	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh11.	30033	2004-04-01	Drosophila kikkawai	683
+AF201425	Drosophila mauritiana isolate G52 alcohol dehydrogenase (Adhr) gene, intron 1.	7226	2000-07-03	Drosophila mauritiana	475
+AF201428	Drosophila simulans isolate TT00 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF201432	Drosophila simulans isolate NC37 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF201437	Drosophila simulans isolate MD106 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF201440	Drosophila simulans isolate RU35 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF201441	Drosophila simulans isolate RU00 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AY095941	Drosophila kuntzei isolate kun3 alcohol dehydrogenase (Adh) gene, partial cds.	42027	2003-05-01	Drosophila kuntzei	431
+AY095947	Drosophila unispina isolate uni1 alcohol dehydrogenase (Adh) gene, partial cds.	193352	2003-05-01	Drosophila unispina	442
+DQ471614	Drosophila angor strain C120 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+DQ471625	Drosophila perlucida strain 186 alcohol dehydrogenase (Adh) gene, partial cds.	381468	2006-07-20	Drosophila perlucida	711
+M62743	D.buzzatii alcohol dehydrogenase-2 (ADH-2) gene, complete cds.	7264	1991-07-11	Drosophila buzzatii	908
+U95251	Drosophila willistoni 0811.0 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1174
+U95256	Drosophila willistoni Belize II alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+KX384732	Drosophila nasuta strain IND_DN_U11 alcohol dehydrogenase (Adh) gene, partial cds.	42062	2017-01-03	Drosophila nasuta	1122
+AB154561	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh20.	30033	2004-04-01	Drosophila kikkawai	683
+AF201436	Drosophila simulans isolate DSR alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF201438	Drosophila simulans isolate MD225 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF201443	Drosophila simulans isolate RU07 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF284477	Drosophila mauritiana strain 207 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	702
+AY804555	Drosophila yakuba strain Tai18 alcohol dehydrogenase (Adh) gene, partial cds.	7245	2005-10-06	Drosophila yakuba	759
+DQ471646	Drosophila bipatita strain 246 alcohol dehydrogenase (Adh) gene, partial cds.	2609301	2006-07-20	Drosophila bipatita (nomen nudum)	711
+JX455215	Drosophila simulans isolate HW46 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+AY095935	Drosophila limbata isolate lim1 alcohol dehydrogenase (Adh) gene, partial cds.	42028	2003-05-01	Drosophila limbata	447
+DQ471641	Drosophila neokadai strain 172 alcohol dehydrogenase (Adh) gene, partial cds.	311476	2006-07-20	Drosophila neokadai	711
+AY095950	Drosophila phalerata isolate pha2 alcohol dehydrogenase (Adh) gene, partial cds.	7283	2003-05-01	Drosophila phalerata	430
+AY335201	Drosophila sturtevanti clone Dsturt3 alcohol dehydrogenase (Adh) gene, partial cds.	30047	2003-12-31	Drosophila sturtevanti	792
+DQ471647	Drosophila bai strain 247 alcohol dehydrogenase (Adh) gene, partial cds.	311478	2006-07-20	Drosophila bai	711
+KX976490	Drosophila yakuba isolate Yakuba_BIOKO_NE_4_6 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+DQ471622	Drosophila hei strain 4 alcohol dehydrogenase (Adh) gene, partial cds.	381462	2006-07-20	Drosophila hei	711
+AB669828	Drosophila biauraria Adh gene for alcohol dehydrogenase, partial cds, strain: B660.	73155	2014-01-02	Drosophila biauraria	842
+AB669872	Drosophila ohnishii Adh gene for alcohol dehydrogenase, partial cds, strain: MMY326.	307242	2014-01-02	Drosophila ohnishii	843
+AB825962	Drosophila trapezifrons Adh gene for alcohol dehydrogenase, partial cds, strain: Bavi31.	94110	2015-12-16	Drosophila trapezifrons	836
+AF459767	Drosophila nikananu alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	73157	2002-05-16	Drosophila nikananu	290
+AF459783	Drosophila rufa alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	67533	2002-05-16	Drosophila rufa	290
+AY459545	Drosophila simulans alcohol dehydrogenase gene, partial cds and 5' flanking region.	7240	2003-11-30	Drosophila simulans	618
+EU999242	Drosophila americana isolate FP99.33 alcohol dehydrogenase (Adh) gene, partial cds.	40366	2008-09-09	Drosophila americana	840
+KJ767237	Drosophila melanogaster strain Oregon R alcohol dehydrogenase (Adh) gene, partial cds.	7227	2014-09-04	Drosophila melanogaster	872
+U64522	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS228 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3481
+U64544	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS317 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3476
+U64559	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS356 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3499
+AB669827	Drosophila biauraria Adh gene for alcohol dehydrogenase, partial cds, strain: B16.	73155	2014-01-02	Drosophila biauraria	842
+AB669849	Drosophila burlai Adh gene for alcohol dehydrogenase, partial cds, strain: L6.	137355	2014-01-02	Drosophila burlai	833
+AF136692	Drosophila americana americana G96.40Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136702	Drosophila americana texana LP97.08 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF136704	Drosophila americana texana LP97.13 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF201423	Drosophila melanogaster isolate Oregon R alcohol dehydrogenase (Adhr) gene, intron 1.	7227	2000-07-03	Drosophila melanogaster	479
+AF459760	Drosophila eugracilis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	29029	2002-05-16	Drosophila eugracilis	290
+AF459764	Drosophila punjabiensis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	60717	2002-05-16	Drosophila punjabiensis	290
+EF560576	Drosophila gasici pop-variant Bogota alcohol dehydrogenase (adh) gene, partial cds.	306028	2008-05-01	Drosophila gasici	622
+L78923	Drosophila mimica (strain 15292-2561.3) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U76470	Drosophila hydei strain 2 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+AB669830	Drosophila lacteicornis Adh gene for alcohol dehydrogenase, partial cds, strain: ISGB1.	67531	2014-01-02	Drosophila lacteicornis	838
+AB669841	Drosophila triauraria Adh gene for alcohol dehydrogenase, partial cds, strain: T544.	67534	2014-01-02	Drosophila triauraria	842
+AF136656	Drosophila americana americana G96.03X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136663	Drosophila americana americana G96.30X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136673	Drosophila americana americana G96.45X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136681	Drosophila americana americana G96.03Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136698	Drosophila americana americana G96.46Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136700	Drosophila americana texana LP97.03 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175218	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-k35 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF459749	Drosophila takahashii alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	29030	2002-05-16	Drosophila takahashii	290
+AF459750	Drosophila lutescens alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	51159	2002-05-16	Drosophila lutescens	290
+AY695389	Drosophila dunni strain Puerto Rico alcohol dehydrogenase (Adh) mRNA, partial cds.	133979	2006-08-01	Drosophila dunni	507
+U64536	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS273 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3498
+U76476	Drosophila hydei strain 8 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+X54118	D.teissieri Adh gene for alcohol dehydrogenase and Adh-related gene	7243	1992-04-14	Drosophila teissieri	4321
+AF459751	Drosophila lucipennis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	73156	2002-05-16	Drosophila lucipennis	290
+AF459781	Drosophila orosa alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137076	2002-05-16	Drosophila orosa	290
+AB669894	Drosophila truncata Adh gene for alcohol dehydrogenase, partial cds, strain: RGN179.	137078	2014-01-02	Drosophila truncata	830
+AB669833	Drosophila quadraria Adh gene for alcohol dehydrogenase, partial cds, strain: Q.	67532	2014-01-02	Drosophila quadraria	843
+EF560577	Drosophila mesophragmatica pop-variant Bogota alcohol dehydrogenase (adh) gene, partial cds.	306029	2008-05-01	Drosophila mesophragmatica	605
+U64555	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS348 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3467
+U64526	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS242 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3475
+U76474	Drosophila hydei strain 6 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+X54116	D.erecta Adh gene for alcohol dehydrogenase and Adh-related gene	7220	1992-04-14	Drosophila erecta	3867
+AB669829	Drosophila lacteicornis Adh gene for alcohol dehydrogenase, partial cds, strain: BG0571.0.	67531	2014-01-02	Drosophila lacteicornis	838
+AB669861	Drosophila cauverii Adh gene for alcohol dehydrogenase, partial cds, strain: cauv-CNRS.	137356	2014-01-02	Drosophila cauverii	833
+AF136677	Drosophila americana americana D.am-.6Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY340302	Drosophila americana pop-variant NN97.08Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364513	Drosophila mojavensis strain MJS 68 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY340278	Drosophila americana pop-variant DN00.01X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340292	Drosophila americana pop-variant NN00.09X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340294	Drosophila americana pop-variant DN00.02Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364506	Drosophila mojavensis strain MJS 16F alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY874361	Drosophila subobscura strain line 0 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1422
+AY874371	Drosophila subobscura strain line 24 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AB703316	Drosophila algonquin Adh gene for alcohol dehydrogenase, partial cds, clone: D.algonquin.	7247	2012-03-18	Drosophila algonquin	405
+AB703319	Drosophila azteca Adh gene for alcohol dehydrogenase, partial cds, clone: D.azteca.	7249	2012-03-18	Drosophila azteca	405
+AB703324	Drosophila pseudoobscura Adh gene for alcohol dehydrogenase, partial cds, clone: D.pseudoobscura.	7237	2012-03-18	Drosophila pseudoobscura	405
+AF136678	Drosophila americana americana D.am-.3Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY340295	Drosophila americana pop-variant DN00.04Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364493	Drosophila mojavensis strain MJS 14 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364499	Drosophila mojavensis strain MJS 115 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY874368	Drosophila subobscura strain line 16 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+EF216308	Drosophila luguensis alcohol dehydrogenase (Adh) gene, exons 2, 3 and partial cds.	426741	2007-06-10	Drosophila luguensis	431
+U76483	Drosophila mulleri strain -1371.22 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AY364522	Drosophila mojavensis strain MJS 133 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY874367	Drosophila subobscura strain line 11 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AB703320	Drosophila bifasciata Adh gene for alcohol dehydrogenase, partial cds, clone: D.bifasciata.	7218	2012-03-18	Drosophila bifasciata	405
+AY340280	Drosophila americana pop-variant DN00.04X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340284	Drosophila americana pop-variant NN97.02X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340285	Drosophila americana pop-variant NN97.04X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY874366	Drosophila subobscura strain line 10 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AY874374	Drosophila subobscura strain line 35 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+EF216309	Drosophila limingi alcohol dehydrogenase (Adh) gene, exons 2, 3 and partial cds.	426743	2007-06-10	Drosophila limingi	429
+U76480	Drosophila mulleri strain -1371.16 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AB669838	Drosophila tani Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0661.00.	137070	2014-01-02	Drosophila tani	838
+AB669874	Drosophila nikananu Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0661.01.	73157	2014-01-02	Drosophila nikananu	838
+AF067283	Drosophila subsilvestris alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	7239	1998-07-02	Drosophila subsilvestris	437
+AY154844	Drosophila arizonae strain ARTU 34 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154854	Drosophila arizonae strain AR00 5 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AB932673	Drosophila similis Adh gene for alcohol dehydrogenase, partial cds, strain: 15182-2321.00.	133976	2014-10-26	Drosophila similis	839
+M17827	D.melanogaster (strain Wa-S) alcohol dehydrogenase gene (allele Adh-s), complete cds.	7227	1991-07-01	Drosophila melanogaster	2696
+AB194441	Drosophila bipectinata Adh gene for alcohol dehydrogenase, partial cds, strain:wild type CJB162.	42026	2005-05-07	Drosophila bipectinata	759
+AY154843	Drosophila arizonae strain ARTU 24 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154845	Drosophila arizonae strain ARTU 35 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	879
+EF560579	Drosophila gaucha pop-variant Campos do Jordao alcohol dehydrogenase (adh) gene, partial cds.	30028	2008-05-01	Drosophila gaucha	626
+LC057202	Drosophila paralutea Adh gene for alcohol dehydrogenase, partial cds, strain: 14022-0281.00.	186284	2019-06-04	Drosophila paralutea	829
+M17828	D.melanogaster (strain Fl-1S) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	2696
+AB669848	Drosophila vulcana Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0711.00.	132243	2014-01-02	Drosophila vulcana	773
+AB669886	Drosophila mayri Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0591.00.	137074	2014-01-02	Drosophila mayri	836
+AB932666	Drosophila parthenogenetica Adh gene for alcohol dehydrogenase, partial cds, strain: 15181-2221.00.	133990	2014-10-26	Drosophila parthenogenetica	834
+X15585	Drosophila navojoa Adh-1 gene for alcohol dehydrogenase (EC 1.1.1.1)	7232	1989-11-23	Drosophila navojoa	2334
+LC057201	Drosophila prostipennis Adh gene for alcohol dehydrogenase, partial cds, strain: 14022-0291.00.	94111	2019-06-04	Drosophila prostipennis	827
+X03048	Drosophila mulleri adh genes for alcohol dehydrogenase (adh-1, adh-2, pseudo-adh)	7231	1986-07-02	Drosophila mulleri	6778
+AB194427	Drosophila varians Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	30050	2005-05-07	Drosophila varians	1756
+AF045124	Drosophila emarginata strain 14042-0841.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30024	1998-06-02	Drosophila emarginata	405
+AF045125	Drosophila emarginata strain 14042-0841.7 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30024	1998-06-02	Drosophila emarginata	405
+AY154830	Drosophila mojavensis strain MJBC 39.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154864	Drosophila mojavensis strain MJBC 25.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	877
+AB194421	Drosophila bipectinata Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	42026	2005-05-07	Drosophila bipectinata	1769
+AF045113	Drosophila saltans strain 14045-0911.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	7273	1998-06-02	Drosophila saltans	405
+AY154868	Drosophila mojavensis strain MJBC 47.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	878
+U66411	Drosophila melanogaster gp150 protein and putative type III alcohol dehydrogenase (T3dh) genes, partial cds.	7227	1996-11-02	Drosophila melanogaster	4789
+AY154834	Drosophila mojavensis strain MJBC 103.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154837	Drosophila mojavensis strain MJBC 157.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154874	Drosophila mojavensis strain MJBC 157.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154876	Drosophila mojavensis strain MJBC 205.1 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	878
+AF348881	Drosophila biauraria strain HP alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	73155	2001-04-16	Drosophila biauraria	666
+AF348880	Drosophila triauraria strain ONM alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	67534	2001-04-16	Drosophila triauraria	668
+AI513113	GH01616.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH01616 3 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/12/2002, mRNA sequence.	7227	1999-03-23	Drosophila melanogaster	515
+CK131199	GH15138.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH15138 3 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/14/2002, mRNA sequence.	7227	2003-12-03	Drosophila melanogaster	668
+CV785019	zaa07h09.x2 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to TR:Q9U8T1 Q9U8T1 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	231
+BI566106	RH35228.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH35228 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/31/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	559
+AI107293	GH03875.5prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH03875 5 similar to X04454: Drosophila melanogaster alcohol dehydrogenase null4 allele, mRNA sequence.	7227	1998-09-04	Drosophila melanogaster	445
+AY695385	Drosophila belladunni alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	133993	2006-08-01	Drosophila belladunni	1117
+AY695382	Drosophila dunni alcohol dehydrogenase (adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exons 1 through 3 and partial cds.	133979	2006-08-01	Drosophila dunni	2005
+BF497094	AT11166.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT11166 5 similar to CG6083: FBan0006083 'alcohol dehydrogenase, iron-dependent' located on: 3L 68C9-68C10 : 04/08/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	532
+BF494131	AT02556.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT02556 5 similar to CG6083: FBan0006083 'alcohol dehydrogenase, iron-dependent' located on: 3L 68C9-68C10 : 04/07/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	799
+BI214744	RE20859.5prime RE Drosophila melanogaster normalized Embryo pFlc-1 Drosophila melanogaster cDNA clone RE20859 5 similar to CG5590: FBan0005590 'alcohol dehydrogenase, iron-dependent' located on: 3R 98A6-98A6 : 04/12/2001, mRNA sequence.	7227	2001-07-13	Drosophila melanogaster	677
+BI623813	RH56162.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH56162 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/22/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	601
+AA802598	GM05887.5prime GM Drosophila melanogaster ovary BlueScript Drosophila melanogaster cDNA clone GM05887 5 similar to T3dh: FBan0003425 GO:[alcohol dehydrogenase (GO:0004022) enzyme (GO:0003824)] located on: 2R 58D4-58D4 : 08/13/2002, mRNA sequence.	7227	1998-02-13	Drosophila melanogaster	684
+BI630708	RH59992.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH59992 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/23/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	558
+AI387658	GH18240.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH18240 3prime similar to U66411: Drosophila melanogaster gp150 protein and putative type III alcohol dehydrogenase (T3dh) genes, partial cds. CDS:<1..184 PID:g1655925, mRNA sequence.	7227	1999-02-01	Drosophila melanogaster	512
+AA440486	LD13208.3prime LD Drosophila melanogaster embryo BlueScript Drosophila melanogaster cDNA clone LD13208 3prime similar to U66409: Drosophila melanogaster Pgc mRNA, 3' non-coding region U66411: Drosophila melanogaster gp150 protein and putative type III alcohol dehydrogenase (T3dh) genes, partial cds, mRNA sequence.	7227	1997-06-03	Drosophila melanogaster	529
+AF006568	Drosophila persimilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7234	1997-09-11	Drosophila persimilis	3465
+AY279326	Drosophila eugracilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase related (Adhr) genes, complete cds.	29029	2004-03-31	Drosophila eugracilis	2675
+X04454	Drosophila melanogaster alcohol dehydrogenase null4 allele	7227	1986-11-18	Drosophila melanogaster	2369
+U64535	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS271 allele, and alcohol dehydrogenase-like protein gene, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	4594
+X62185	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3498
+X62238	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X64485	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3472
+M60792	Drosophila mimica alcohol dehydrogenase gene, complete cds.	7270	1992-06-06	Drosophila mimica	895
+X62181	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3494
+X62188	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3472
+X62219	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3447
+X62201	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X64472	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3453
+X64477	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3506
+X62213	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3463
+AY238776	Drosophila miranda strain MA28 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AB026527	Drosophila lutescens gene for alcohol dehydrogenase, partial cds.	51159	1999-10-29	Drosophila lutescens	840
+GQ376037	Drosophila repleta alcohol dehydrogenase (ADH) gene, partial cds.	30043	2009-08-02	Drosophila repleta	410
+AY750138	Drosophila robusta alcohol dehydrogenase (Adh) gene, partial cds.	7257	2005-12-31	Drosophila robusta	911
+EU490429	Drosophila endobranchia alcohol dehydrogenase (Adh) gene, partial cds.	508692	2008-03-11	Drosophila endobranchia	651
+HQ631472	Drosophila constricta alcohol dehydrogenase (adh) gene, partial cds.	94112	2011-08-30	Drosophila constricta	290
+U94197	Drosophila disjuncta alcohol dehydrogenase (Adh) gene, partial cds.	46796	1998-02-23	Drosophila disjuncta	222
+U94198	Drosophila iki alcohol dehydrogenase (Adh) gene, partial cds.	58311	1998-02-23	Drosophila iki	204
+X68160	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS299)	7237	1992-10-08	Drosophila pseudoobscura	3473
+AB026533	Drosophila saltans gene for alcohol dehydrogenase, partial cds.	7273	1999-10-29	Drosophila saltans	847
+AY006410	Drosophila hemipeza alcohol dehydrogenase (Adh) gene, partial cds.	46800	2001-09-04	Drosophila hemipeza	510
+AY006420	Drosophila neopicta alcohol dehydrogenase (Adh) gene, partial cds.	47048	2001-09-04	Drosophila neopicta	510
+AY081441	Drosophila bromeliae alcohol dehydrogenase (Adh) gene, partial cds.	7278	2002-08-09	Drosophila bromeliae	289
+AY081442	Drosophila polychaeta alcohol dehydrogenase (Adh) gene, partial cds.	30041	2002-08-09	Drosophila polychaeta	283
+DQ471658	Drosophila ezoana alcohol dehydrogenase (Adh) gene, partial cds.	47313	2006-07-20	Drosophila ezoana	711
+DQ471668	Drosophila virilis alcohol dehydrogenase (Adh) gene, partial cds.	7244	2006-07-20	Drosophila virilis	711
+HQ631481	Drosophila parabipectinata alcohol dehydrogenase (adh) gene, partial cds.	186283	2011-08-30	Drosophila parabipectinata	290
+MF908506	Drosophila subpulchrella alcohol dehydrogenase (adh) gene, partial cds.	1486046	2018-08-19	Drosophila subpulchrella	763
+AY750134	Drosophila gani alcohol dehydrogenase (Adh) gene, partial cds.	311479	2005-12-31	Drosophila gani	911
+AY006423	Drosophila setosifrons alcohol dehydrogenase (Adh) gene, partial cds.	46830	2001-09-04	Drosophila setosifrons	510
+AY750142	Drosophila gani alcohol dehydrogenase (Adh) gene, partial cds.	311479	2005-12-31	Drosophila gani	911
+X68166	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS316)	7237	1992-10-08	Drosophila pseudoobscura	3505
+X68163	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS306)	7237	1992-10-08	Drosophila pseudoobscura	3489
+AY081443	Drosophila ornatipennis alcohol dehydrogenase (Adh) gene, partial cds.	133996	2002-08-09	Drosophila ornatipennis	277
+AY081439	Drosophila ornatifrons alcohol dehydrogenase (Adh) gene, partial cds.	30031	2002-08-09	Drosophila ornatifrons	283
+U94194	Drosophila adunca alcohol dehydrogenase (Adh) gene, partial cds.	46893	1998-02-23	Drosophila adunca	204
+X68162	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS315)	7237	1992-10-08	Drosophila pseudoobscura	3482
+Z00033	Drosophila mauritiana alcohol dehydrogenase gene and 5' flanks	7226	1986-07-02	Drosophila mauritiana	1835
+U26837	Drosophila americana alcohol dehydrogenase (Adh) gene, complete cds.	40366	1995-06-22	Drosophila americana	950
+U90954	Drosophila sinobscura alcohol dehydrogenase (Adh) gene, partial cds.	57874	1997-11-14	Drosophila sinobscura	431
+AY238772	Drosophila miranda strain 0101.5 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY238774	Drosophila miranda strain 0101.9 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AB932677	Drosophila testacea Adh gene for alcohol dehydrogenase, partial cds.	38838	2015-01-14	Drosophila testacea	826
+AF260695	Drosophila gymnobasis alcohol dehydrogenase-related protein gene, partial cds.	7267	2000-09-20	Drosophila gymnobasis	506
+KM016469	Drosophila simulans isolate KY31 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	478
+KM016472	Drosophila simulans isolate KY01 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	480
+KM016475	Drosophila simulans isolate KY05 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	479
+AB261137	Drosophila nasuta Adh gene for alcohol dehydrogenase, partial cds.	42062	2007-11-03	Drosophila nasuta	863
+AB932655	Drosophila falleni Adh gene for alcohol dehydrogenase, partial cds.	7279	2014-10-26	Drosophila falleni	810
+AB932660	Drosophila innubila Adh gene for alcohol dehydrogenase, partial cds.	198719	2014-10-26	Drosophila innubila	776
+DQ471611	Drosophila americana texana alcohol dehydrogenase (Adh) gene, partial cds.	40372	2006-07-20	Drosophila americana texana	711
+X57362	Drosophila simulans (individual d) Adh gene for alcohol dehydrogenase	7240	1991-07-17	Drosophila simulans	973
+X57370	Drosophila yakuba (individual f) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB033642	Drosophila albomicans Adh mRNA for alcohol dehydrogenase, partial cds.	7291	1999-11-16	Drosophila albomicans	711
+AB261131	Drosophila formosana Adh gene for alcohol dehydrogenase, partial cds.	157056	2007-11-03	Drosophila formosana	839
+AB932659	Drosophila histrio Adh gene for alcohol dehydrogenase, partial cds.	198718	2015-01-14	Drosophila histrio	840
+AY279323	Drosophila erecta alcohol dehydrogenase related (Adhr) gene, partial cds.	7220	2004-03-31	Drosophila erecta	319
+HQ232351	Drosophila hypercephala isolate c2 alcohol dehydrogenase gene, partial cds.	1052065	2011-08-08	Drosophila hypercephala	437
+M60991	Drosophila pseudoobscura bogotana alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-01-26	Drosophila pseudoobscura bogotana	3475
+U95259	Drosophila willistoni Guana alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+X60792	D.melanogaster (strain RI32) Adh gene for alcohol dehydrogenase	7227	1991-10-07	Drosophila melanogaster	1901
+AB261134	Drosophila neohypocausta Adh gene for alcohol dehydrogenase, partial cds.	157057	2007-11-03	Drosophila neohypocausta	879
+AF260691	Drosophila virilis alcohol dehydrogenase-related protein gene, partial cds.	7244	2000-09-20	Drosophila virilis	456
+AB261140	Drosophila maculinotata Adh gene for alcohol dehydrogenase, partial cds.	387622	2007-11-03	Drosophila maculinotata	840
+X57361	Drosophila simulans (individual c) Adh gene for alcohol dehydrogenase	7240	1991-07-17	Drosophila simulans	969
+U95273	Drosophila insularis FA alcohol dehydrogenase (Adh) gene, complete cds.	46792	1999-01-06	Drosophila insularis	1183
+AB154559	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh18.	30033	2004-04-01	Drosophila kikkawai	683
+AF201446	Drosophila simulans isolate MD112 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	481
+AY095942	Drosophila kuntzei isolate kun2 alcohol dehydrogenase (Adh) gene, partial cds.	42027	2003-05-01	Drosophila kuntzei	431
+AY335200	Drosophila sturtevanti clone Dsturt2 alcohol dehydrogenase (Adh) gene, partial cds.	30047	2003-12-31	Drosophila sturtevanti	792
+DQ471624	Drosophila multidentata strain 55 alcohol dehydrogenase (Adh) gene, partial cds.	381467	2006-07-20	Drosophila multidentata	711
+JX455212	Drosophila simulans isolate HW03 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KJ767239	Drosophila melanogaster strain Samarkand alcohol dehydrogenase (Adh) gene, partial cds.	7227	2014-09-04	Drosophila melanogaster	872
+KX976496	Drosophila yakuba isolate Yakuba_Tai_18 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976499	Drosophila yakuba isolate Yakuba_Airport_16_5 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976511	Drosophila yakuba isolate Yakuba_1_19 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+LC057197	Drosophila sp. KO4 Adh gene for alcohol dehydrogenase, partial cds.	1660391	2019-06-04	Drosophila sp. KO4	822
+M60984	Drosophila pseudoobscura (strain AH133) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-04-30	Drosophila pseudoobscura	3494
+U95270	Drosophila paulistorum 0771.4 alcohol dehydrogenase (Adh) gene, complete cds.	46793	1999-01-06	Drosophila paulistorum	1168
+AB154546	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh05.	30033	2004-04-01	Drosophila kikkawai	686
+AF201431	Drosophila simulans isolate HW09 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+DQ471648	Drosophila barutani strain 245 alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+HQ110516	Drosophila prosaltans isolate D_Pros_c2 alcohol dehydrogenase (Adh) gene, partial cds.	30042	2011-05-06	Drosophila prosaltans	859
+HQ110517	Drosophila prosaltans isolate D_pros_c3 alcohol dehydrogenase (Adh) gene, partial cds.	30042	2011-05-06	Drosophila prosaltans	828
+KX976503	Drosophila yakuba isolate Yakuba_SN_Cascade_22 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976508	Drosophila yakuba isolate Yakuba_COST_1235_3 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M19276	D.simulans alcohol dehydrogenase gene, exons 1,2 and 3.	7240	1991-07-26	Drosophila simulans	829
+M60982	Drosophila pseudoobscura (strain AH100) alcohol dehydrogenase adh gene, complete cds.	7237	1992-04-30	Drosophila pseudoobscura	3472
+AB154545	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh04.	30033	2004-04-01	Drosophila kikkawai	683
+AB154555	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh14.	30033	2004-04-01	Drosophila kikkawai	683
+AB154563	Drosophila lini gene for alcohol dehydrogenase, partial cds, isolate:DliniAdh.	74550	2004-04-01	Drosophila lini	698
+AF201426	Drosophila mauritiana isolate BG1 alcohol dehydrogenase (Adhr) gene, intron 1.	7226	2000-07-03	Drosophila mauritiana	478
+AF201433	Drosophila simulans isolate NC48 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF201439	Drosophila simulans isolate SC00 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	485
+AF201444	Drosophila simulans isolate RU259 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	479
+AF284480	Drosophila sechellia strain 24 alcohol dehydrogenase (Adh) gene, partial cds.	7238	2000-11-02	Drosophila sechellia	700
+AY095936	Drosophila limbata isolate lim2 alcohol dehydrogenase (Adh) gene, partial cds.	42028	2003-05-01	Drosophila limbata	446
+AY095937	Drosophila transversa isolate tra3 alcohol dehydrogenase (Adh) gene, partial cds.	193351	2003-05-01	Drosophila transversa	437
+AY095945	Drosophila curvispina isolate cur2 alcohol dehydrogenase (Adh) gene, partial cds.	126591	2003-05-01	Drosophila curvispina	443
+AY156524	Drosophila navojoa alcohol dehydrogenase 1 (adh-1) gene, complete cds.	7232	2003-03-03	Drosophila navojoa	879
+EU532125	Drosophila paulistorum from Brazil alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	542
+KX976510	Drosophila yakuba isolate Yakuba_OBAT_1200_5 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60986	Drosophila pseudoobscura (strain AH144) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-01-26	Drosophila pseudoobscura	3463
+AB154547	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh06.	30033	2004-04-01	Drosophila kikkawai	683
+AY095948	Drosophila unispina isolate uni2 alcohol dehydrogenase (Adh) gene, partial cds.	193352	2003-05-01	Drosophila unispina	442
+KX976504	Drosophila yakuba isolate Yakuba_SA_3 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976509	Drosophila yakuba isolate Yakuba_2_14 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976514	Drosophila yakuba isolate Yakuba_2_11b alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976494	Drosophila yakuba isolate Yakuba_Cascade_21_Combined alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+AB669844	Drosophila malagassya Adh gene for alcohol dehydrogenase, partial cds, strain: J6.	30035	2014-01-02	Drosophila malagassya	840
+AB669863	Drosophila kikkawai Adh gene for alcohol dehydrogenase, partial cds, strain: HNL123.	30033	2014-01-02	Drosophila kikkawai	832
+AB669870	Drosophila ogumai Adh gene for alcohol dehydrogenase, partial cds, strain: RGN206.	307244	2014-01-02	Drosophila ogumai	836
+AF136684	Drosophila americana americana G96.38Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136689	Drosophila americana americana G96.13Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136703	Drosophila americana texana LP97.12 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175213	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-h18 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF175215	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-h3 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF459754	Drosophila ananassae alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7217	2002-05-16	Drosophila ananassae	290
+AF459774	Drosophila serrata alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7274	2002-05-16	Drosophila serrata	290
+U64538	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS280 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3510
+U64553	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS342 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3455
+U64554	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS343 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3467
+AB669892	Drosophila pseudobaimaii Adh gene for alcohol dehydrogenase, partial cds, strain: K41.	1084238	2014-01-02	Drosophila pseudobaimaii	779
+AF136671	Drosophila americana americana G96.11X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136693	Drosophila americana americana G96.45Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136697	Drosophila americana americana G96.12Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF459766	Drosophila vulcana alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	132243	2002-05-16	Drosophila vulcana	290
+L78924	Drosophila mimica (strain 15292-2561.4) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+L78926	Drosophila mimica (strain 15292-2561.6) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+L78927	Drosophila mimica (strain 15292-2561.8) alcohol dehydrogenase gene, partial cds.	7270	1996-06-25	Drosophila mimica	822
+U64521	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-GB48 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3484
+U64523	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS231 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3468
+U76475	Drosophila hydei strain 7 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+AB669825	Drosophila auraria Adh gene for alcohol dehydrogenase, partial cds, strain: A12.	47315	2014-01-02	Drosophila auraria	842
+AB669845	Drosophila malagassya Adh gene for alcohol dehydrogenase, partial cds, strain: J52.	30035	2014-01-02	Drosophila malagassya	836
+AB669878	Drosophila serrata Adh gene for alcohol dehydrogenase, partial cds, strain: POM503.	7274	2014-01-02	Drosophila serrata	838
+AF136660	Drosophila americana americana G96.12X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136666	Drosophila americana americana G96.24X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF459748	Drosophila prostipennis alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	94111	2002-05-16	Drosophila prostipennis	290
+AF459752	Drosophila mimetica alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	30038	2002-05-16	Drosophila mimetica	290
+AF459761	Drosophila bicornuta alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	112146	2002-05-16	Drosophila bicornuta	290
+AF459762	Drosophila diplacantha alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	61426	2002-05-16	Drosophila diplacantha	290
+AF459768	Drosophila auraria alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	47315	2002-05-16	Drosophila auraria	290
+AF459780	Drosophila mayri alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	137074	2002-05-16	Drosophila mayri	290
+EF560574	Drosophila gasici pop-variant Arica alcohol dehydrogenase (adh) gene, partial cds.	306028	2008-05-01	Drosophila gasici	622
+U64527	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS246 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3474
+U76471	Drosophila hydei strain 3 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+U76469	Drosophila hydei strain 1 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7224	1996-11-19	Drosophila hydei	897
+AF136701	Drosophila americana texana LP97.05 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF459745	Drosophila bifasciata alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7218	2002-05-16	Drosophila bifasciata	290
+AF459759	Drosophila pallidosa alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	69217	2002-05-16	Drosophila pallidosa	290
+EF560575	Drosophila gasici pop-variant Cochabamba alcohol dehydrogenase (adh) gene, partial cds.	306028	2008-05-01	Drosophila gasici	622
+U64531	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS256 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3473
+AY364501	Drosophila mojavensis strain 87 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AF136664	Drosophila americana americana G96.23X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY695390	Drosophila dunni strain Puerto Rico alcohol dehydrogenase (Adh) mRNA, partial cds.	133979	2006-08-01	Drosophila dunni	385
+U94200	Drosophila sp. 'white tip scutellum' alcohol dehydrogenase (Adh) gene, partial cds.	251450	1998-02-23	Drosophila longiperda	204
+U64558	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS353 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3471
+AH011596	Drosophila lutescens strain 14022-0271.0 alcohol dehydrogenase (Adh) gene, partial cds.	51159	2016-04-08	Drosophila lutescens	911
+AY340286	Drosophila americana pop-variant NN97.08X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340290	Drosophila americana pop-variant N00.05X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340300	Drosophila americana pop-variant NN97.02Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364500	Drosophila mojavensis strain MJS 122 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364503	Drosophila mojavensis strain MJS 154 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364504	Drosophila mojavensis strain MJS 132 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY364516	Drosophila mojavensis strain MJS 115 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY874364	Drosophila subobscura strain line 6 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1412
+AB669895	Drosophila tsukubaensis Adh gene for alcohol dehydrogenase, partial cds, strain: tsuk-TKM.	77130	2014-01-02	Drosophila tsukubaensis	841
+AB932672	Drosophila ruberrima Adh gene for alcohol dehydrogenase, partial cds, strain: E-14601.	98362	2014-10-26	Drosophila ruberrima	858
+AY340279	Drosophila americana pop-variant DN00.02X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+U76481	Drosophila mulleri strain -1371.18 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AB669823	Drosophila asahinai Adh gene for alcohol dehydrogenase, partial cds, strain: AM2K-1.	154832	2014-01-02	Drosophila asahinai	839
+AB669843	Drosophila greeni Adh gene for alcohol dehydrogenase, partial cds, strain: gree-CNRS.	114631	2014-01-02	Drosophila greeni	830
+AB703323	Drosophila narragansett Adh gene for alcohol dehydrogenase, partial cds, clone: D.narragansett.	7254	2012-03-18	Drosophila narragansett	405
+AF136650	Drosophila americana americana D.am-.0X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136653	Drosophila americana americana D.am-.9X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AH011595	Drosophila triauraria strain 14028-0691.0 alcohol dehydrogenase (Adh) gene, partial cds.	67534	2016-04-08	Drosophila triauraria	546
+AY340291	Drosophila americana pop-variant NN00.07X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364511	Drosophila mojavensis strain MJS 36 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY541096	Drosophila innubila strain CH3_M4 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY541101	Drosophila innubila strain CH5_M76 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY364502	Drosophila mojavensis strain MJS 127 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AF136652	Drosophila americana americana D.am-.6X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136655	Drosophila americana americana D.am-.7X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY340293	Drosophila americana pop-variant DN00.01Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340297	Drosophila americana pop-variant DN01.02Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY340298	Drosophila americana pop-variant DN01.03Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364514	Drosophila mojavensis strain MJS 84 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY541100	Drosophila innubila strain CH5_M4 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+AY874372	Drosophila subobscura strain line 26 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AY364521	Drosophila mojavensis strain MJS 127 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY340304	Drosophila americana pop-variant NN00.03Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+U76479	Drosophila mulleri strain -1371.1 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AB669857	Drosophila barbarae Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0491.01.	137354	2014-01-02	Drosophila barbarae	833
+LC057200	Drosophila pseudotakahashii Adh gene for alcohol dehydrogenase, partial cds, strain: 14022-0301.00.	193234	2019-06-04	Drosophila pseudotakahashii	830
+AB669880	Drosophila baimaii Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0481.00.	137353	2014-01-02	Drosophila baimaii	838
+AF067281	Drosophila eskoi alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	77128	1998-07-02	Drosophila eskoi	435
+AY364512	Drosophila mojavensis strain MJS 58.2 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+M19547	D.melanogaster (strain Af-S) alcohol dehydrogenase gene (allele Adh-S), complete cds.	7227	1991-07-01	Drosophila melanogaster	7119
+AB194438	Drosophila bipectinata Adh gene for alcohol dehydrogenase, partial cds, strain:wild type B133.	42026	2005-05-07	Drosophila bipectinata	759
+AB669876	Drosophila birchii Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0521.01.	46829	2014-01-02	Drosophila birchii	833
+AY044130	Drosophila formosana alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157056	2002-08-06	Drosophila formosana	721
+AY154862	Drosophila arizonae strain ARTU 35 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+M60996	Drosophila pseudoobscura bogotana strain BOG 3389.9 alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-04-30	Drosophila pseudoobscura bogotana	3450
+AY154849	Drosophila arizonae strain AR00 13 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154851	Drosophila arizonae strain AR00 1 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154848	Drosophila arizonae strain AR00 6 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY154859	Drosophila arizonae strain ARTU 22 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+M60994	Drosophila pseudoobscura bogotana strain BOG 3389.5 alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-04-30	Drosophila pseudoobscura bogotana	3471
+AF045117	Drosophila subsaltans strain 14044-0872.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	72474	1998-06-02	Drosophila subsaltans	405
+AF045121	Drosophila milleri strain 14043-0861.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	72471	1998-06-02	Drosophila milleri	405
+AY154866	Drosophila mojavensis strain MJBC 35.1 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AF045126	Drosophila emarginata strain 14042-0841.4 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30024	1998-06-02	Drosophila emarginata	405
+AY154865	Drosophila mojavensis strain MJBC 33.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AF045123	Drosophila austrosaltans strain 14045-0881.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	72469	1998-06-02	Drosophila austrosaltans	405
+AY154828	Drosophila mojavensis strain MJBC 33.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154839	Drosophila mojavensis strain MJBC 205.1 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+U40987	Drosophila imaii alcohol dehydrogenase (Adh) gene, partial exons 2 and 3, and partial cds.	44481	1996-09-27	Drosophila imaii	429
+AB194422	Drosophila malerkotliana malerkotliana Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	195057	2005-05-07	Drosophila malerkotliana malerkotliana	1782
+AF348884	Drosophila rufa strain MS alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	67533	2001-04-16	Drosophila rufa	667
+U35852	Drosophila melanogaster truncated jockey retroposon insertion upstream of the alcohol dehydrogenase gene enhancer region, 3' end.	7227	1995-10-12	Drosophila melanogaster	303
+X58694	D. hydei ADH-1 and ADH-2 genes for alcohol dehydrogenase and an ADH psi pseudogene	7224	1991-04-11	Drosophila hydei	8447
+CV785154	zaa07h09.y2 D yakuba testes cDNA Drosophila yakuba cDNA 5' similar to SW:ADH_DROTS P51550 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	433
+CV785799	zaa02h11.x2 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROYA P26719 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	521
+CV878941	zaa98d08.x1 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROGU Q09009 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-20	Drosophila yakuba	703
+CV879066	zab02h12.x1 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-20	Drosophila yakuba	709
+AI404931	GH24792.5prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH24792 5prime similar to X60791: D.melanogaster (strain KA12) Adh gene for alcohol dehydrogenase, mRNA sequence.	7227	1999-02-10	Drosophila melanogaster	702
+AY695384	Drosophila arawakana alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	30017	2006-08-01	Drosophila arawakana	1141
+AI108260	GH07054.5prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH07054 5prime similar to M17831: D.melanogaster (strain Fl-2S) alcohol dehydrogenase gene (allele Adh-S), complete cds, mRNA sequence.	7227	1998-09-04	Drosophila melanogaster	378
+AY695388	Drosophila dunni strain St. Croix alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	133979	2006-08-01	Drosophila dunni	1141
+BF490844	AT27452.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT27452 5 similar to CG5590: FBan0005590 'alcohol dehydrogenase, iron-dependent' located on: 3R 98A6-98A6 : 04/09/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	668
+AI260852	LP04842.5prime LP Drosophila melanogaster larval-early pupal pOT2 Drosophila melanogaster cDNA clone LP04842 5prime similar to U66411: Drosophila melanogaster gp150 protein and putative type III alcohol dehydrogenase (T3dh) genes, partial cds, mRNA sequence.	7227	1998-11-13	Drosophila melanogaster	737
+BI617843	RH48301.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH48301 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/18/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	512
+BI635199	SD16470.5prime SD Drosophila melanogaster Schneider L2 cell culture pOT2 Drosophila melanogaster cDNA clone SD16470 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 05/18/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	558
+AW941952	GM05887.3prime GM Drosophila melanogaster ovary BlueScript Drosophila melanogaster cDNA clone GM05887 3 similar to U66411: Drosophila melanogaster gp150 protein and putative type III alcohol dehydrogenase (T3dh) genes, partial cds. CDS:<1..184 PID:g1655925 GI:1655925, mRNA sequence.	7227	2000-06-03	Drosophila melanogaster	450
+AF006564	Drosophila persimilis alcohol dehydrogenase (Adh) and alcohol dehydrogenase (Adh-dup) genes, complete cds.	7234	1997-09-11	Drosophila persimilis	3482
+AY279327	Drosophila lutescens alcohol dehydrogenase (Adh) and alcohol dehydrogenase related (Adhr) genes, complete cds.	51159	2004-03-31	Drosophila lutescens	2773
+AF399012	Drosophila kuntzei alcohol dehydrogenase (Adh) and alcohol dehydrogenase-related protein (Adhr) genes, complete cds.	42027	2001-08-16	Drosophila kuntzei	4800
+JF735883	Drosophila obscura alcohol dehydrogenase gene, partial cds.	7282	2011-10-24	Drosophila obscura	639
+X62187	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3444
+X62212	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3459
+X62234	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3499
+X64473	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3487
+X64488	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3469
+JF735884	Drosophila phalerata alcohol dehydrogenase gene, partial cds.	7283	2011-10-24	Drosophila phalerata	370
+M19264	D.mauritiana alcohol dehydrogenase gene, complete cds.	7226	1988-10-04	Drosophila mauritiana	4581
+X64475	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3470
+X64489	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3472
+AH000981	Drosophila melanogaster alcohol dehydrogenase gene, partial cds.	7227	2011-06-30	Drosophila melanogaster	271
+U68469	Drosophila guanche alcohol dehydrogenase (Adh) processed pseudogene.	7266	1999-01-06	Drosophila guanche	2146
+X62227	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3444
+X62237	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3470
+X64479	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3459
+U68471	Drosophila madeirensis alcohol dehydrogenase (Adh) processed pseudogene.	30013	1999-01-06	Drosophila madeirensis	1042
+X62205	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3479
+X62207	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3467
+X64474	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3475
+X64482	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3498
+M63392	Drosophila picticornis alcohol dehydrogenase gene, complete cds.	7235	1991-04-04	Drosophila picticornis	1598
+X62197	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3490
+X64484	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3472
+X62230	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3474
+X64483	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3463
+X64481	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3494
+X62202	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3476
+X62208	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3468
+X62216	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3481
+X62231	D.pseudoobscura Adh gene for alcohol dehydrogenase	7237	1992-10-16	Drosophila pseudoobscura	3465
+AY238780	Drosophila miranda strain MSH22 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AY238781	Drosophila miranda strain MSH38 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+AF264081	Drosophila tropicalis alcohol dehydrogenase (Adh) gene, partial cds.	46794	2000-05-30	Drosophila tropicalis	405
+AF264082	Drosophila willistoni alcohol dehydrogenase (Adh) gene, partial cds.	7260	2000-05-30	Drosophila willistoni	405
+AY006426	Drosophila primaeva alcohol dehydrogenase (Adh) gene, partial cds.	46814	2001-09-04	Drosophila primaeva	508
+AY081438	Drosophila nannoptera alcohol dehydrogenase (Adh) gene, partial cds.	103845	2002-08-09	Drosophila nannoptera	288
+AY750133	Drosophila gani alcohol dehydrogenase (Adh) gene, partial cds.	311479	2005-12-31	Drosophila gani	911
+M73256	D.melanogaster alcohol dehydrogenase (Adh) gene, exon 2.	7227	1991-07-12	Drosophila melanogaster	1375
+MG684382	Drosophila rubida alcohol dehydrogenase (Adh) gene, partial cds.	30044	2018-02-04	Drosophila rubida	693
+AB026529	Drosophila paulistorum gene for alcohol dehydrogenase, partial cds.	46793	1999-10-29	Drosophila paulistorum	776
+AY006424	Drosophila obscuripes alcohol dehydrogenase (Adh) gene, partial cds.	46819	2001-09-04	Drosophila obscuripes	510
+AY750121	Drosophila tsigana alcohol dehydrogenase (Adh) gene, partial cds.	65966	2005-12-31	Drosophila tsigana	911
+AY750125	Drosophila moriwakii alcohol dehydrogenase (Adh) gene, partial cds.	107829	2005-12-31	Drosophila moriwakii	911
+AY750128	Drosophila tsigana alcohol dehydrogenase (Adh) gene, partial cds.	65966	2005-12-31	Drosophila tsigana	911
+HQ631469	Drosophila biarmipes alcohol dehydrogenase (adh) gene, partial cds.	125945	2011-08-30	Drosophila biarmipes	290
+HQ631474	Drosophila fuyamai alcohol dehydrogenase (adh) gene, partial cds.	65963	2011-08-30	Drosophila fuyamai	290
+HQ631477	Drosophila liui alcohol dehydrogenase (adh) gene, partial cds.	212812	2011-08-30	Drosophila liui	290
+HQ631482	Drosophila pseudoananassae alcohol dehydrogenase (adh) gene, partial cds.	65964	2011-08-30	Drosophila pseudoananassae	290
+HQ631483	Drosophila prostipennis alcohol dehydrogenase (adh) gene, partial cds.	94111	2011-08-30	Drosophila prostipennis	290
+HQ631485	Drosophila tani alcohol dehydrogenase (adh) gene, partial cds.	137070	2011-08-30	Drosophila tani	290
+HQ631486	Drosophila trapezifrons alcohol dehydrogenase (adh) gene, partial cds.	94110	2011-08-30	Drosophila trapezifrons	290
+HQ631487	Drosophila trilutea alcohol dehydrogenase (adh) gene, partial cds.	94114	2011-08-30	Drosophila trilutea	290
+JF710263	Drosophila kanekoi alcohol dehydrogenase (Adh) gene, complete cds.	50033	2011-07-03	Drosophila kanekoi	890
+AB026526	Drosophila emarginata gene for alcohol dehydrogenase, partial cds.	30024	1999-10-29	Drosophila emarginata	840
+AF059890	Drosophila pinicola alcohol dehydrogenase (Adh) gene, partial cds.	7256	1998-04-28	Drosophila pinicola	290
+AF264073	Drosophila capricorni alcohol dehydrogenase (Adh) gene, partial cds.	46840	2000-05-30	Drosophila capricorni	405
+AF264074	Drosophila equinoxialis alcohol dehydrogenase (Adh) gene, partial cds.	46790	2000-05-30	Drosophila equinoxialis	405
+AY750122	Drosophila lacertosa alcohol dehydrogenase (Adh) gene, partial cds.	119604	2005-12-31	Drosophila lacertosa	911
+AY750129	Drosophila yunnanensis alcohol dehydrogenase (Adh) gene, partial cds.	311475	2005-12-31	Drosophila yunnanensis	911
+AY750143	Drosophila medioconstricta alcohol dehydrogenase (Adh) gene, partial cds.	311480	2005-12-31	Drosophila medioconstricta	911
+AY754404	Drosophila affinis alcohol dehydrogenase (Adh) gene, complete cds.	7246	2005-04-04	Drosophila affinis	2529
+DQ471664	Drosophila mercatorum alcohol dehydrogenase (Adh) gene, partial cds.	7253	2006-07-20	Drosophila mercatorum	711
+EU532133	Drosophila fumipennis alcohol dehydrogenase (Adh) gene, partial cds.	126477	2010-01-21	Drosophila fumipennis	590
+HQ631479	Drosophila ogumai alcohol dehydrogenase (adh) gene, partial cds.	307244	2011-08-30	Drosophila ogumai	290
+L08648	Drosophila willistoni alcohol dehydrogenase (Adh) gene, complete cds.	7260	1993-01-15	Drosophila willistoni	1308
+M36581	D.simulans alcohol dehydrogenase (Adh) gene, complete cds.	7240	1990-08-30	Drosophila simulans	2719
+U26843	Drosophila lummei alcohol dehydrogenase (Adh) gene, complete cds.	40371	1995-06-22	Drosophila lummei	950
+X68159	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS298)	7237	1992-10-08	Drosophila pseudoobscura	3476
+AY006412	Drosophila oahuensis alcohol dehydrogenase (Adh) gene, partial cds.	46808	2001-09-04	Drosophila oahuensis	510
+X68161	D.pseudoobscura Adh gene for alcohol dehydrogenase (PS302)	7237	1992-10-08	Drosophila pseudoobscura	3463
+AY750140	Drosophila unimaculata alcohol dehydrogenase (Adh) gene, partial cds.	311483	2005-12-31	Drosophila unimaculata	911
+DQ471657	Drosophila aracataca alcohol dehydrogenase (Adh) gene, partial cds.	30016	2006-07-20	Drosophila aracataca	711
+U94206	Drosophila soonae alcohol dehydrogenase (Adh) gene, partial cds.	58310	1998-02-23	Drosophila soonae	204
+U94196	Drosophila cyrtoloma alcohol dehydrogenase (Adh) gene, partial cds.	46895	1998-02-23	Drosophila cyrtoloma	222
+GQ376038	Drosophila simulans alcohol dehydrogenase (ADH) gene, partial cds.	7240	2009-08-02	Drosophila simulans	410
+AY238770	Drosophila miranda strain 0101.3 alcohol dehydrogenase (Adh) gene, complete cds and alcohol dehydrogenase related protein (Adhr) gene, partial cds.	7229	2003-04-08	Drosophila miranda	2042
+M60992	Drosophila pseudoobscura bogotana alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-04-30	Drosophila pseudoobscura bogotana	3485
+X03630	Drosophila mojavensis duplicated Adh-2 gene fragment (alcohol dehydrogenase)	7230	1986-11-18	Drosophila mojavensis	285
+AB261132	Drosophila ruberrima Adh gene for alcohol dehydrogenase, partial cds.	98362	2007-11-03	Drosophila ruberrima	858
+AB932674	Drosophila sternopleuralis Adh gene for alcohol dehydrogenase, partial cds.	30046	2014-10-26	Drosophila sternopleuralis	755
+AF260693	Drosophila robusta alcohol dehydrogenase-related protein gene, partial cds.	7257	2000-09-20	Drosophila robusta	458
+HQ232350	Drosophila hypercephala isolate c1 alcohol dehydrogenase gene, partial cds.	1052065	2011-08-08	Drosophila hypercephala	437
+KM016470	Drosophila simulans isolate KY06 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	476
+KM016474	Drosophila simulans isolate KY04 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	481
+U95272	Drosophila paulistorum Tame alcohol dehydrogenase (Adh) gene, complete cds.	46793	1999-01-06	Drosophila paulistorum	1166
+X57368	Drosophila yakuba (individual d) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB033639	Drosophila sordidula Adh mRNA for alcohol dehydrogenase, partial cds.	55950	1999-11-16	Drosophila sordidula	711
+AB033640	Drosophila virilis Adh mRNA for alcohol dehydrogenase, partial cds.	7244	1999-11-16	Drosophila virilis	711
+AB261133	Drosophila hypocausta Adh gene for alcohol dehydrogenase, partial cds.	157293	2007-11-03	Drosophila hypocausta	850
+AB261138	Drosophila neonasuta Adh gene for alcohol dehydrogenase, partial cds.	154130	2007-11-03	Drosophila neonasuta	856
+AB932653	Drosophila deflecta Adh gene for alcohol dehydrogenase, partial cds.	198716	2014-10-26	Drosophila deflecta	848
+AB932661	Drosophila macrospina Adh gene for alcohol dehydrogenase, partial cds.	434062	2014-10-26	Drosophila macrospina	847
+AB932671	Drosophila recens Adh gene for alcohol dehydrogenase, partial cds.	55946	2014-10-26	Drosophila recens	839
+AB932676	Drosophila tenebrosa Adh gene for alcohol dehydrogenase, partial cds.	614641	2014-10-26	Drosophila tenebrosa	849
+AF260690	Drosophila hydei alcohol dehydrogenase-related protein gene, partial cds.	7224	2000-09-20	Drosophila hydei	450
+KM016467	Drosophila simulans isolate KY35 alcohol dehydrogenase-related gene, intron.	7240	2014-09-24	Drosophila simulans	481
+X57365	Drosophila yakuba (individual a) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+X57367	Drosophila yakuba (individual c) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+AB932652	Drosophila curvispina Adh gene for alcohol dehydrogenase, partial cds.	126591	2015-01-14	Drosophila curvispina	845
+X57371	Drosophila yakuba (individual g) Adh gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+U26845	Drosophila montana alcohol dehydrogenase (Adh-2) gene, complete cds.	40370	1995-06-22	Drosophila montana	957
+U95254	Drosophila willistoni A57 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+U76484	Drosophila hydei alcohol dehydrogenase (Adh-Finnegan) mRNA, partial cds.	7224	1997-03-06	Drosophila hydei	251
+X57364	Drosophila simulans (individual f) Adh gene for alcohol dehydrogenase	7240	1991-07-17	Drosophila simulans	975
+X57366	Drosophila yakuba (individual b) ADH gene for alcohol dehydrogenase	7245	1991-07-17	Drosophila yakuba	975
+X57363	Drosophila simulans (individual e) Adh gene for alcohol dehydrogenase	7240	1991-07-17	Drosophila simulans	972
+X60791	D.melanogaster (strain KA12) Adh gene for alcohol dehydrogenase	7227	1991-10-07	Drosophila melanogaster	1925
+AF201442	Drosophila simulans isolate RU01 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	478
+AY095939	Drosophila transversa isolate tra1 alcohol dehydrogenase (Adh) gene, partial cds.	193351	2003-05-01	Drosophila transversa	435
+DQ471623	Drosophila daruma strain 151 alcohol dehydrogenase (Adh) gene, partial cds.	309936	2006-07-20	Drosophila daruma	711
+DQ471645	Drosophila beppui strain 260 alcohol dehydrogenase (Adh) gene, partial cds.	381453	2006-07-20	Drosophila beppui	711
+EU532124	Drosophila paulistorum from Colombia alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	588
+JX455219	Drosophila simulans isolate HW50 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	481
+KX976501	Drosophila yakuba isolate Yakuba_Abidjan_12 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60987	Drosophila pseudoobscura (strain AH162) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-01-26	Drosophila pseudoobscura	3466
+DQ471652	Drosophila lacertosa strain 240 alcohol dehydrogenase (Adh) gene, partial cds.	119604	2006-07-20	Drosophila lacertosa	711
+U95263	Drosophila willistoni Manaus III alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+AB154557	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh16.	30033	2004-04-01	Drosophila kikkawai	686
+AB154562	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh21.	30033	2004-04-01	Drosophila kikkawai	683
+AF201445	Drosophila simulans isolate MD111 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	465
+DQ471621	Drosophila daruma strain 137 alcohol dehydrogenase (Adh) gene, partial cds.	309936	2006-07-20	Drosophila daruma	711
+DQ471638	Drosophila angor strain 33 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+EU532121	Drosophila paulistorum from Colombia alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	558
+JF710264	Drosophila borealis strain W alcohol dehydrogenase (Adh) gene, complete cds.	40368	2011-07-03	Drosophila borealis	895
+KX976491	Drosophila yakuba isolate Yakuba_Montecafe_17_17 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976493	Drosophila yakuba isolate Yakuba_Cascade_18 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+KX976495	Drosophila yakuba isolate Yakuba_Cascade_19 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+Z00030	D. melanogaster alcohol dehydrogenase structural gene and flanks (composite sequence)	7227	1986-07-02	Drosophila melanogaster	7423
+AB154548	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh07.	30033	2004-04-01	Drosophila kikkawai	686
+AB154549	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh08.	30033	2004-04-01	Drosophila kikkawai	686
+AB154558	Drosophila kikkawai gene for alcohol dehydrogenase, partial cds, isolate:DkikAdh17.	30033	2004-04-01	Drosophila kikkawai	683
+AF201435	Drosophila simulans isolate DSW alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF201447	Drosophila simulans isolate MD199 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2000-07-03	Drosophila simulans	480
+AF284476	Drosophila mauritiana strain 197 alcohol dehydrogenase (Adh) gene, partial cds.	7226	2000-11-02	Drosophila mauritiana	701
+DQ471618	Drosophila daruma strain 109 alcohol dehydrogenase (Adh) gene, partial cds.	309936	2006-07-20	Drosophila daruma	711
+DQ471620	Drosophila barutani strain 53 alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+DQ471639	Drosophila barutani strain 52 alcohol dehydrogenase (Adh) gene, partial cds.	381452	2006-07-20	Drosophila barutani	711
+DQ471649	Drosophila karakasa strain 249 alcohol dehydrogenase (Adh) gene, partial cds.	381466	2006-07-20	Drosophila karakasa	711
+EU532126	Drosophila paulistorum from Brazil alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	507
+KX384730	Drosophila bipectinata strain IND_DBP_U14 alcohol dehydrogenase (Adh) gene, partial cds.	42026	2017-01-03	Drosophila bipectinata	873
+KX976520	Drosophila yakuba isolate Yakuba_2_6 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+M60983	Drosophila pseudoobscura (strain AH122) alcohol dehydrogenase (adh) gene, complete cds.	7237	1992-01-26	Drosophila pseudoobscura	3487
+M60997	Drosophila persimilis (strain 178) alcohol dehydrogenase (adh) gene, complete cds.	7234	1992-01-24	Drosophila persimilis	3506
+U95252	Drosophila willistoni 0811.4 alcohol dehydrogenase (Adh) gene, complete cds.	7260	1999-01-06	Drosophila willistoni	1172
+U95269	Drosophila equinoxialis Puerto Rico alcohol dehydrogenase (Adh) gene, complete cds.	46790	1999-01-06	Drosophila equinoxialis	1167
+AY095946	Drosophila curvispina isolate cur1 alcohol dehydrogenase (Adh) gene, partial cds.	126591	2003-05-01	Drosophila curvispina	443
+AY095951	Drosophila phalerata isolate pha1 alcohol dehydrogenase (Adh) gene, partial cds.	7283	2003-05-01	Drosophila phalerata	430
+DQ471619	Drosophila asper strain 152 alcohol dehydrogenase (Adh) gene, partial cds.	381449	2006-07-20	Drosophila asper	711
+DQ471640	Drosophila medioconstricta strain 148 alcohol dehydrogenase (Adh) gene, partial cds.	311480	2006-07-20	Drosophila medioconstricta	711
+JX455210	Drosophila simulans isolate HW01 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+U95268	Drosophila equinoxialis 0741.0 alcohol dehydrogenase (Adh) gene, complete cds.	46790	1999-01-06	Drosophila equinoxialis	1174
+AY335196	Drosophila capricorni clone Dcap3 alcohol dehydrogenase (Adh) gene, partial cds.	46840	2003-12-31	Drosophila capricorni	776
+DQ471612	Drosophila angor strain A138 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+AY095940	Drosophila kuntzei isolate kun1 alcohol dehydrogenase (Adh) gene, partial cds.	42027	2003-05-01	Drosophila kuntzei	431
+AY335199	Drosophila sturtevanti clone Dsturt1 alcohol dehydrogenase (Adh) gene, partial cds.	30047	2003-12-31	Drosophila sturtevanti	792
+DQ471610	Drosophila lacertosa strain 170 alcohol dehydrogenase (Adh) gene, partial cds.	119604	2006-07-20	Drosophila lacertosa	711
+DQ471616	Drosophila angor strain 112 alcohol dehydrogenase (Adh) gene, partial cds.	381448	2006-07-20	Drosophila angor	711
+EU532122	Drosophila paulistorum from Brazil alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	573
+EU532123	Drosophila paulistorum from Honduras alcohol dehydrogenase (Adh) gene, partial cds.	46793	2010-01-21	Drosophila paulistorum	588
+JX455211	Drosophila simulans isolate HW02 alcohol dehydrogenase (Adhr) gene, intron 1.	7240	2012-09-03	Drosophila simulans	480
+KX976505	Drosophila yakuba isolate Yakuba_Bosu_1235_14 alcohol dehydrogenase (Adh) mRNA, complete cds.	7245	2016-11-12	Drosophila yakuba	771
+U95274	Drosophila tropicalis 0801.0 alcohol dehydrogenase (Adh) gene, complete cds.	46794	1999-01-06	Drosophila tropicalis	1162
+AB669852	Drosophila jambulina Adh gene for alcohol dehydrogenase, partial cds, strain: NHO115.	111875	2014-01-02	Drosophila jambulina	830
+AF136658	Drosophila americana americana G96.40X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136665	Drosophila americana americana G96.06X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136674	Drosophila americana americana G96.10X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136706	Drosophila americana texana LP97.09 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175217	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-k30 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+U64547	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS323 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3471
+U64551	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS334 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3473
+Y00602	D. pseudoobscura Adh gene for alcohol dehydrogenase (EC1.1.1.1)	7237	1987-09-19	Drosophila pseudoobscura	3535
+AF136672	Drosophila americana americana G96.13X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136705	Drosophila americana texana LP97.02 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175211	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-h12 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF175212	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-h13 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF459756	Drosophila phaeopleura alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	195712	2002-05-16	Drosophila phaeopleura	290
+KY002643	UNVERIFIED: Drosophila melanogaster strain IND_DMEL_AMD10 alcohol dehydrogenase-like gene, complete sequence.	7227	2017-10-13	Drosophila melanogaster	708
+KY002644	UNVERIFIED: Drosophila ananassae strain IND_DANA_KL18 alcohol dehydrogenase-like gene, partial sequence.	7217	2017-10-13	Drosophila ananassae	740
+AB669840	Drosophila triauraria Adh gene for alcohol dehydrogenase, partial cds, strain: KMJ1.	67534	2014-01-02	Drosophila triauraria	842
+AB669853	Drosophila punjabiensis Adh gene for alcohol dehydrogenase, partial cds, strain: CJB212.	60717	2014-01-02	Drosophila punjabiensis	836
+AB669868	Drosophila lini Adh gene for alcohol dehydrogenase, partial cds, strain: DHS501.	74550	2014-01-02	Drosophila lini	843
+AB669881	Drosophila baimaii Adh gene for alcohol dehydrogenase, partial cds, strain: Y150.	137353	2014-01-02	Drosophila baimaii	838
+AB669889	Drosophila parvula Adh gene for alcohol dehydrogenase, partial cds, strain: SHL17.	137077	2014-01-02	Drosophila parvula	864
+AB669891	Drosophila pectinifera Adh gene for alcohol dehydrogenase, partial cds, strain: OGS98m.	359927	2014-01-02	Drosophila pectinifera	841
+AF136670	Drosophila americana americana G96.38X alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136683	Drosophila americana americana G96.41Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136687	Drosophila americana americana G96.06Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136696	Drosophila americana americana G96.30Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AF136708	Drosophila americana texana LP97.04 alcohol dehydrogenase (Adh) gene, partial cds.	40372	1999-06-03	Drosophila americana texana	884
+AF175216	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-k15 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF201427	Drosophila sechellia isolate type line alcohol dehydrogenase (Adhr) gene, intron 1.	7238	2000-07-03	Drosophila sechellia	482
+AF459747	Drosophila paralutea alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	186284	2002-05-16	Drosophila paralutea	290
+AF459784	Drosophila ercepeae alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	42063	2002-05-16	Drosophila ercepeae	290
+AF459785	Drosophila elegans alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	30023	2002-05-16	Drosophila elegans	290
+AF459786	Drosophila ficusphila alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	30025	2002-05-16	Drosophila ficusphila	290
+KJ767240	Drosophila melanogaster strain Zimbabwe-109 alcohol dehydrogenase (Adh) gene, partial cds.	7227	2014-09-04	Drosophila melanogaster	872
+U64528	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS248 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3488
+AB669883	Drosophila bicornuta Adh gene for alcohol dehydrogenase, partial cds, strain: BOG2.	112146	2014-01-02	Drosophila bicornuta	838
+AF175220	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, Adh-k82 allele, complete cds.	7227	1999-10-06	Drosophila melanogaster	951
+AF459746	Drosophila tolteca alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	7259	2002-05-16	Drosophila tolteca	290
+AF459765	Drosophila seguyi alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	73917	2002-05-16	Drosophila seguyi	290
+KY002645	UNVERIFIED: Drosophila ananassae strain IND_DANA_AMD6 alcohol dehydrogenase-like gene, partial sequence.	7217	2017-10-13	Drosophila ananassae	1301
+U64524	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS232 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3498
+U64549	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS331 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3470
+AF136686	Drosophila americana americana G96.27Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+U64556	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS350 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3471
+U64543	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS311 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3458
+U64545	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS320 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3474
+U64532	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS260 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3392
+U64560	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS367 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3467
+U64548	Drosophila pseudoobscura alcohol dehydrogenase (Adh) gene, Adh-PS329 allele, complete cds.	7237	1996-08-16	Drosophila pseudoobscura	3498
+AB669890	Drosophila pectinifera Adh gene for alcohol dehydrogenase, partial cds, strain: OGH06-06.	359927	2014-01-02	Drosophila pectinifera	841
+AB703322	Drosophila miranda Adh gene for alcohol dehydrogenase, partial cds, clone: D.miranda.	7229	2012-03-18	Drosophila miranda	405
+AF136675	Drosophila americana americana D.am-.9Y alcohol dehydrogenase (Adh) gene, partial cds.	95109	1999-06-03	Drosophila americana americana	884
+AY364509	Drosophila mojavensis strain MJS 16F alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AY340305	Drosophila americana pop-variant NN00.05Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+EF216312	Drosophila hubeiensis alcohol dehydrogenase (Adh) gene, exons 2, 3 and partial cds.	57873	2007-06-10	Drosophila hubeiensis	431
+AB669865	Drosophila leontia Adh gene for alcohol dehydrogenase, partial cds, strain: AO-2.	109356	2014-01-02	Drosophila leontia	832
+AY340301	Drosophila americana pop-variant NN97.04Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY541095	Drosophila innubila strain CH3_M3 alcohol dehydrogenase-related protein (Adhr) gene, partial cds.	198719	2004-12-13	Drosophila innubila	555
+KJ767242	Drosophila yakuba strain 14021-0261.0 alcohol dehydrogenase (Adh) gene, partial cds.	7245	2014-09-04	Drosophila yakuba	865
+AB669835	Drosophila rufa Adh gene for alcohol dehydrogenase, partial cds, strain: rufa-OGM.	67533	2014-01-02	Drosophila rufa	838
+AB669839	Drosophila tani Adh gene for alcohol dehydrogenase, partial cds, strain: tani-YF.	137070	2014-01-02	Drosophila tani	838
+AB703318	Drosophila athabasca Adh gene for alcohol dehydrogenase, partial cds, clone: D.athabasca.	7248	2012-03-18	Drosophila athabasca	405
+AB830534	Drosophila lacteicornis Adh gene for alcohol dehydrogenase, partial cds, strain: IR96-1.	67531	2014-01-12	Drosophila lacteicornis	838
+AF459758	Drosophila malerkotliana malerkotliana alcohol dehydrogenase (Adh) gene, exon 2 and partial cds.	195057	2002-05-16	Drosophila malerkotliana malerkotliana	290
+AY340287	Drosophila americana pop-variant NN97.09X alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+AY364520	Drosophila mojavensis strain MJS 132 alcohol dehydrogenase-2 (Adh2) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	879
+AY874362	Drosophila subobscura strain line 1 alcohol dehydrogenase (Adh-Twain) gene, partial cds.	7241	2005-05-31	Drosophila subobscura	1406
+AB825961	Drosophila fengkainensis Adh gene for alcohol dehydrogenase, partial cds, strain: XT-33.	1084936	2015-12-16	Drosophila fengkainensis	840
+U20765	Drosophila melanogaster alcohol dehydrogenase (Adh) gene, complete cds, and copia insertion site.	7227	1995-03-12	Drosophila melanogaster	2365
+AY340306	Drosophila americana pop-variant NN00.07Y alcohol dehydrogenase (Adh) gene, partial cds.	40366	2003-08-13	Drosophila americana	881
+U76478	Drosophila mulleri strain -1371.0 alcohol dehydrogenase (Adh-Finnegan) gene, partial cds.	7231	1997-03-06	Drosophila mulleri	902
+AY044127	Drosophila sulfurigaster alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	88886	2002-08-06	Drosophila sulfurigaster	716
+AY154832	Drosophila mojavensis strain MJBC 80 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154852	Drosophila arizonae strain AR00 2 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154856	Drosophila arizonae strain AR00 13 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+AY154863	Drosophila arizonae strain ARTU 36 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	880
+M17833	D.melanogaster (strain Fl-F) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	2727
+M60995	Drosophila pseudoobscura bogotana strain BOG 3389.6 alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-01-26	Drosophila pseudoobscura bogotana	3475
+AB669847	Drosophila tsacasi Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0701.00.	34677	2014-01-02	Drosophila tsacasi	838
+AY044131	Drosophila hypocausta alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157293	2002-08-06	Drosophila hypocausta	723
+M17835	D.melanogaster (strain Wa-F) alcohol dehydrogenase gene (allele Adh-F), complete cds.	7227	1991-07-01	Drosophila melanogaster	2769
+AB669875	Drosophila birchii Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0521.00.	46829	2014-01-02	Drosophila birchii	833
+AB932651	Drosophila cardinoides Adh gene for alcohol dehydrogenase, partial cds, strain: 15181-2291.00.	134000	2014-10-26	Drosophila cardinoides	834
+AF067280	Drosophila affinis alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	7246	1998-07-02	Drosophila affinis	430
+M60993	Drosophila pseudoobscura bogotana strain BOG 3389.4 alcohol dehydrogenase (adh) gene, complete cds.	46244	1992-01-26	Drosophila pseudoobscura bogotana	3485
+AB669873	Drosophila nikananu Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0601.00.	73157	2014-01-02	Drosophila nikananu	839
+AB932663	Drosophila nigrodunni Adh gene for alcohol dehydrogenase, partial cds, strain: 15182-2311.00.	133975	2014-10-26	Drosophila nigrodunni	840
+AY154842	Drosophila arizonae strain ARTU 22 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7263	2003-03-03	Drosophila arizonae	878
+AY044123	Drosophila oritisa alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157058	2002-08-06	Drosophila oritisa	725
+AB669877	Drosophila bunnanda Adh gene for alcohol dehydrogenase, partial cds, strain: 14028-0721.00.	244254	2014-01-02	Drosophila bunnanda	826
+AB932654	Drosophila dunni Adh gene for alcohol dehydrogenase, partial cds, strain: 15182-2291.00.	133979	2014-10-26	Drosophila dunni	839
+AY044121	Drosophila curviceps alcohol dehydrogenase (Adh) gene, exons 2 and 3 and partial cds.	157055	2002-08-06	Drosophila curviceps	725
+AY364495	Drosophila mojavensis strain MJS 58.2 alcohol dehydrogenase 1 (Adh1) gene, complete cds.	7230	2004-01-30	Drosophila mojavensis	880
+AF067284	Drosophila tsukubaensis alcohol dehydrogenase (Adh) gene, exons 1, 2, and 3 and partial cds.	77130	1998-07-02	Drosophila tsukubaensis	830
+AY154835	Drosophila mojavensis strain MJBC 108.5 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154867	Drosophila mojavensis strain MJBC 39.3 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	879
+M17845	D.melanogaster alcohol dehydrogenase gene, X-ray induced allele Adh-nLA248, exons 2-4.	7227	1988-04-02	Drosophila melanogaster	795
+AB194426	Drosophila ananassae Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	7217	2005-05-07	Drosophila ananassae	1757
+AF045116	Drosophila sturtevanti strain 14043-0871.9 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30047	1998-06-02	Drosophila sturtevanti	405
+AF045119	Drosophila prosaltans strain 14045-0901.0 alcohol dehydrogenase (Adh) gene, exon2 and partial cds.	30042	1998-06-02	Drosophila prosaltans	405
+AY154872	Drosophila mojavensis strain MJBC 108.5 alcohol dehydrogenase 2 (Adh-2) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AY154836	Drosophila mojavensis strain MJBC 115.4 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+U40986	Drosophila bifasciata alcohol dehydrogenase (Adh) gene, partial exons 2 and 3, and partial cds.	7218	1996-09-27	Drosophila bifasciata	429
+AY154827	Drosophila mojavensis strain MJBC 25.3 alcohol dehydrogenase 1 (Adh-1) gene, complete cds.	7230	2003-03-03	Drosophila mojavensis	880
+AB194423	Drosophila malerkotliana pallens Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	296644	2005-05-07	Drosophila malerkotliana pallens	1775
+AB194425	Drosophila pseudoananassae pseudoananassae Adh, Adhr genes for alcohol dehydrogenase, hypothetical protein, complete and partial cds.	65965	2005-05-07	Drosophila pseudoananassae pseudoananassae	1762
+AF348879	Drosophila triauraria strain YK alcohol dehydrogenase (adh) gene, exons 2, 3 and 4, and partial cds.	67534	2001-04-16	Drosophila triauraria	668
+AF151684	Drosophila virilis gp150 (gp150) gene, complete cds type III alcohol dehydrogenase and polar granule component genes, partial sequence.	7244	2000-05-03	Drosophila virilis	6045
+AI062419	GH01616.5prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH01616 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/12/2002, mRNA sequence.	7227	1998-07-27	Drosophila melanogaster	621
+BG632144	GH04104.3prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH04104 3 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 08/12/2002, mRNA sequence.	7227	2001-04-28	Drosophila melanogaster	690
+CV787951	zaa60b01.x1 D yakuba testes cDNA Drosophila yakuba cDNA 3' similar to SW:ADH_DROME P00334 ALCOHOL DEHYDROGENASE , mRNA sequence.	7245	2004-11-12	Drosophila yakuba	711
+BI571735	RH07019.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH07019 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	548
+BI570978	RH05780.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH05780 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	694
+BI571817	RH07117.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH07117 5 similar to Adh: FBan0003481 GO:[ethanol oxidation (GO:0006069) alcohol dehydrogenase (GO:0004022) alcohol dehydrogenase (GO:0004022)] located on: 2L 35B3-35B3 : 07/26/2001, mRNA sequence.	7227	2001-09-07	Drosophila melanogaster	535
+AF171740	AF171740 Drosophila melanogaster brain Canton S adult Drosophila melanogaster cDNA clone 201 similar to mRNA for alcohol dehydrogenase related function, mRNA sequence.	7227	1999-08-25	Drosophila melanogaster	562
+AI404819	GH24657.5prime GH Drosophila melanogaster head pOT2 Drosophila melanogaster cDNA clone GH24657 5prime similar to X60793: D.melanogaster (strain NC16) Adh gene for alcohol dehydrogenase, mRNA sequence.	7227	1999-02-10	Drosophila melanogaster	667
+AY695383	Drosophila antillea alcohol dehydrogenase (Adh) gene, exons 1 through 3 and partial cds Adh-Adhr intergenic spacer, complete sequence and ADHR (Adhr) gene, exon 1 and partial cds.	133984	2006-08-01	Drosophila antillea	1144
+BF503615	AT04696.5prime AT Drosophila melanogaster adult testes pOTB7 Drosophila melanogaster cDNA clone AT04696 5 similar to CG6083: FBan0006083 'alcohol dehydrogenase, iron-dependent' located on: 3L 68C9-68C10 : 04/07/2001, mRNA sequence.	7227	2000-12-07	Drosophila melanogaster	730
+BI241261	RE38288.5prime RE Drosophila melanogaster normalized Embryo pFlc-1 Drosophila melanogaster cDNA clone RE38288 5 similar to CG5590: FBan0005590 'alcohol dehydrogenase, iron-dependent' located on: 3R 98A6-98A6 : 05/12/2001, mRNA sequence.	7227	2001-07-15	Drosophila melanogaster	679
+BI606073	RH72161.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH72161 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/24/2001, mRNA sequence.	7227	2001-09-10	Drosophila melanogaster	593
+BI618605	RH49473.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH49473 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/19/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	647
+CK133169	RE17806.3prime RE Drosophila melanogaster normalized Embryo pFlc-1 Drosophila melanogaster cDNA clone RE17806 3 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/14/2002, mRNA sequence.	7227	2003-12-03	Drosophila melanogaster	633
+BI622627	RH54530.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH54530 5 similar to CG2767: FBan0002767 GO:[alcohol dehydrogenase (NADP+) (GO:0008106)] located on: 3R 84E5-84E5 : 08/22/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	582
+BI613172	RH42270.5prime RH Drosophila melanogaster normalized Head pFlc-1 Drosophila melanogaster cDNA clone RH42270 5 similar to T3dh: FBan0003425 GO:[alcohol dehydrogenase (GO:0004022) enzyme (GO:0003824)] located on: 2R 58D4-58D4 : 08/01/2001, mRNA sequence.	7227	2001-09-11	Drosophila melanogaster	636
