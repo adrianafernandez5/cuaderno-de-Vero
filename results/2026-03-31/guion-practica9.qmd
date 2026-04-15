@@ -230,38 +230,47 @@ mtdna36 <- mtdna37[! startsWith(names(mtdna37), 'G.gorilla'),]
 ## ESCOGER EL MODELO DE EVOLUCIÓN MOLECULAR
 # Las secuencias mitocondriales proporcionan suficiente información para determinar con confianza la topología del árbol que relaciona los grupos principales. Sólo algunas regiones de árbol, como la relación exacta entre los miembros de un mismo grupo, presentan dificultad. Para estimar mejor la topología y las longitudes de las ramas, debemos usar el método de máxima verosimilitud, para el cual sí es fundamental escoger el modelo evolutivo más adecuado. Para ello usamos la funcion modelTest(), que devuelve un objeto de clase modelTest, que también puede usarse como un simple marco de datos.
 
+```{r}
 modelos <- modelTest(mtdna36, control = pml.control(trace = 0))
 head(modelos)
 
 modelos <- modelTest(mtdna36, control = pml.control(trace = 0),
                      multicore = TRUE, mc.cores = 4)
-                     
+```                     
 
 ##Lo que hace modelTest() es calcular la verosimilitud de cada modelo sobre un mismo árbol. Al hacerlo, debe optimizar los parámetros de cada modelo, pero no optimiza el árbol. Sería una pérdida de tiempo no guardar los parámetros optimizados, que son un excelente punto de partida para la búsqueda del árbol más verosímil. Podemos extraer cualquiera de los modelos comparados con la función as.pml():
 
+```{r}
 fit <- as.pml(modelos, 'GTR+G(4)+I')
 fit
+```
 
 ## También podemos usar as.pml() para extraer el modelo más adecuado a los datos según alguno de los criterios disponibles (BIC, AIC, AICc). El motivo por el que el modelo más adecuado no es necesariamente el más verosímil es que la verosimilitud siempre será mayor para un modelo más complejo (con más parámetros), porque tiene más grados de libertad para ajustarse a los datos. Los criterios de selección penalizan los modelos con más parámetros para hacer la comparación más justa. El peligro de usar un modelo con demasiados parámetros es el de sobreajustar el modelo, es decir, tomar el ruído natural de los datos como algo que el modelo también debe explicar.
 
+```{r}
 fit <- as.pml(modelos, 'BIC')
 fit
+```
 
 ## EJERCICIO 7
 # ¿Cuál es el mejor modelo para secuencias sólo del género Homo?
 
+```{r}
 modelosH <- modelTest(mtdna28, control = pml.control(trace = 0),
                      multicore = TRUE, mc.cores = 4)
                      
 fit2 <- as.pml(modelosH, 'BIC')
 fit2             
+```
 
 ## El modelo más adecuado para secuencias del género Homo según el criterio BIC es TPM2u+G(4)+I
 
 ## MÁXIMA VEROSIMILITUD
 #Una vez hemos seleccionado el modelo, podemos optimizar la topología del árbol, sus longitudes de ramas, y también los demás parámetros del modelo. Para ello, usaremos la función pml_bb(), que internamente usa las funciones pml() y optim.pml(). Podemos modular el comportamiento de pml_bb() (cuánta información muestra del proceso, cuántas iteraciones usa, cuándo decide que no puede mejorar el modelo…) con los parámetros definidos mediante pml.control(). A la función pml_bb() podemos proporcionarle el alineamiento (objeto de clase phyDat) y el nombre del modelo de evolución molecular, o bien un objeto de clase modelTest, de donde toma automáticamente el alineamiento y el modelo con un valor de BIC (Bayesian Information Criterion) más bajo.
 
+```{r}
 mt_ml <- pml_bb(modelos, control = pml.control(trace = 0))
+
                 
 #       El objeto mt_ml, de clase pml, contiene el árbol (mt_ml$tree), además de los parámetros optimizados del modelo. Antes de ver el árbol, echémosle un vistazo al modelo ajustado, para ver cuánto se aparta del que habíamos ajustado con modelTest().
 
@@ -270,3 +279,83 @@ mt_ml
 ## Por defecto, pml_bb() usa un método de reordenación del árbol denominado “stochastic”, genera un árbol no enraizado y 1000 pseudo-réplicas de bootstrap. Al pedirle la representación gráfica, añade automáticamente los valores de soporte de bootstrap y lo enraiza en el punto medio:
 
 plot(mt_ml, align.tip.label = TRUE, main = 'Árbol más verosímil')
+```
+
+## EJERCICIO 8
+# El árbol no está enraizado. Como las secuencias no son todas de la misma época, utiliza rtt() para situar la raíz en el punto más compatible con la hipótesis de reloj molecular.
+```{r}
+fechas2 <- c(0, 0, 0, 0, -400000, 0, 0, 0, 0, -39000, -50000, -110000, -110000, -122287, -43230, -82752, -50000, -43780, -39000, -38310, -38315, -42540, -40000, -44290, -49000, -65000, -110450, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+fechas2 <- setNames(fechas2, mt_ml$tree$tip.label)
+fechas2
+mt_ml_rtt <- rtt(mt_ml$tree, tip.dates = fechas2, objective = 'rms')
+plot(mt_ml_rtt, align.tip.label = TRUE, main = 'Árbol enraizado')
+```
+## ¿Podrías obtener el árbol más verosímil para el subconjunto de secuencias del género Homo?
+
+```{r}
+mt_mH <- pml_bb(modelosH, control = pml.control(trace = 0))
+
+mt_mH
+
+## Por defecto, pml_bb() usa un método de reordenación del árbol denominado “stochastic”, genera un árbol no enraizado y 1000 pseudo-réplicas de bootstrap. Al pedirle la representación gráfica, añade automáticamente los valores de soporte de bootstrap y lo enraiza en el punto medio:
+
+plot(mt_mH, align.tip.label = TRUE, main = 'Árbol más verosímil género Homo')
+```
+ 
+## CON DATACIÓN DE PUNTAS (TIP DATING)
+# El método de máxima verosimilitud genera árboles no enraizados por defecto, como consecuencia de la reversibilidad temporal. En esos árboles las longitudes de ramas són el número esperado de sustituciones por sitio, sin ninguna referencia explícita al tiempo. Pero cuando no todas las secuencias son isócronas, podemos usar la información de sus edades para constreñir la búsqueda del árbol más verosímil. Al usar las edades de las secuencias, estamos asumiendo un reloj molecular: una relación constante entre el tiempo y el número esperado de sustituciones acumuladas. Entonces, la posición de la raíz afecta la verosimilitud y el resultado es un árbol enraizado.
+
+```{r}
+# Habíamos creado el vector "fechas", pero incluye al gorila.
+fechas36 <- fechas[names(mtdna36)]
+mt_ml_clock <- pml_bb(modelos,
+                      method = 'tipdated',
+                      tip.dates = fechas36, rearrangement = 'NNI',
+                      control = pml.control(trace = 0))
+
+mt_ml_clock
+```
+
+plot(mt_ml_clock, align.tip.label = TRUE)
+
+# ¿Cuál es la tasa de mutación global estimada?
+# La tasa de mutación global corresponde a rate = 1.15857e-08
+
+# ¿En qué unidades està expresada?
+# Número de sustituciones por sitio
+
+# ¿Cuánto tiempo dice el árbol que divergimos de los chimpancés? (Puedes usar la función cophenetic(), puesto que en el árbol datado las longitudes de las ramas están en años).
+
+
+## ESTIMACIÓN DE EDADES
+# Las edades de las secuencias aportan información sobre el reloj molecular en la medida en que se echen de menos las mutaciones que dejaron de acumularse en las secuencias arcaicas. Esta información puede ser muy útil en filogenias de virus de ARN muestreados a lo largo de los años. Pero en una filogenia de millones de años, la poca información de las puntas no es suficiente para datar con exactitud las divergencias antiguas. Hay otras estrategias. Podríamos fijar una tasa de mutación conocida y estimar sólo los otros parámetros. Alternativamente, podemos dar la fecha de algún nodo interno para ayudar a calibrar el reloj. Por ejemplo, supondremos que el ancestro común más reciente entre humanos y chimpancés vivió hace 6.5 millones de años.
+
+# Esta información se la proporcionamos a la función estimate.dates() mediante un vector de fechas o edades de las secuencias que incluya no sólo las hojas del árbol sino también los nodos internos, o al menos aquellos de los que conocemos la edad. El vector debe tener tantos componentes como nodos internos y hojas tiene el árbol, con valores NA en las edades desconocidas. Para saber en qué orden están numerados los nodos, podemos ejecutar lo siguiente:
+
+```{r}
+mt_ml_rtt <- rtt(mt_ml$tree, fechas36)
+plot(mt_ml_rtt, align.tip.label = TRUE)
+nodelabels()
+```
+
+# Como suele suceder, la raíz (en los árboles enraizados) es el nodo que sigue a las hojas, es decir el 37, porque los 36 primeros números son las puntas.
+
+```{r}
+fechasNodos <- c(fechas36, -6500000, rep(NA, 34))
+fechasEstimadas <- estimate.dates(mt_ml_rtt, fechasNodos)
+tasaEstimada <- estimate.mu(mt_ml_rtt, fechasNodos)
+# Creamos una copia del árbol...
+mt_ml_años <- mt_ml_rtt
+# ...y actualizamos las longitudes de sus ramas como la resta
+# entre las fechas de los nodos que conectan:
+mt_ml_años$edge.length <- fechasEstimadas[mt_ml_años$edge[,2]] -
+                          fechasEstimadas[mt_ml_años$edge[,1]]
+plot(mt_ml_años)
+axisPhylo()
+```
+
+tasaEstimada
+
+# Al forzar que la raíz esté a unos 6.5 millones de años, la tasa de mutación estimada disminuye. Es habitual que las tasas parezcan diferentes a diferentes profundidades del árbol, o entre linajes diferentes.
+
+
