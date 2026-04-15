@@ -1,0 +1,26 @@
+---
+title: "Práctica 8"
+author: "Verónica Martín"
+format: html
+editor: visual
+---
+
+## Primero necesitamos tener instalados los paquetes correspondientes. Como tampoco tenemos BiocManager lo instalamos:
+
+install.packages('BiocManager')
+BiocManager::install('Biostrings')
+
+## BLAST ejecuta alineamientos locales entre una secuencia problema o query, generalmente no muy larga, y un conjunto grande de secuencias, es decir, la base de datos, entre las que esperamos encontrar alguna secuencia homóloga a la query. Cada secuencia que se pueda alinear con la query recibe el nombre de subject en el alineamiento.
+
+## Los objetivos de la sesión son:
+## 1. Identificar proteínas ortólogas entre dos especies con BLASTP.
+## 2. Realizar un PSI-BLAST contra la base de datos Swissprot.
+## 3. Determinar el origen de las lecturas que no pudieron ser mapeadas a su genoma de referencia, usando BLASTN remoto.
+
+## DATOS
+## Para el primer ejercicio, se descarga de la base de datos UniProt los proteomas de las especies Buchnera aphidicola y Blochmannia ocreatus en formato FASTA y descomprimidos. Se guardan en la carpeta data.
+
+## Para el primer ejercicio, ejecutamos en el terminal de Bash el comando: update_blastdb --decompress swissprot, desde la carpeta data, para descargar la base de datos de Swissprot para BLAST
+
+## Para los datos del tercer ejercicio, se descarga el archivo comprimido correspondiente a través del link de la práctica, y se guarda en la carpeta data.
+
