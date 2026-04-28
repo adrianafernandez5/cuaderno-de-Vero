@@ -1,0 +1,112 @@
+---
+title: "Practica 11"
+author: "Veronica Martin"
+format: html
+editor: visual
+---
+
+# **PRÁCTICA 11. ANOTACIÓN**
+
+## Introducción
+
+En esta práctica se va a trabajar con los resultados de la anotación estructural realizada sobre el ensamblaje de la práctica 10. Desafortunadamente, los ordenadores virtuales no están preparados para realizar la anotación. Pero a continuación se muestran las órdenes que en un terminal de Bash producirían los resultados. Estas órdenes se supone que son ejecutadas desde una carpeta results/2026-04-21.
+
+## Datos
+
+Las secuencias que vamos a anotar son el ensamblaje obtenido en la práctica anterior, ubicado en la carpeta results/2026-04-21.
+
+Las evidencias que usaremos para encontrar los genes són secuencias de proteínas que esperamos encontrar codificadas en los cóntigos. Normalmente usaríamos las proteínas conocidas de alguna especie próxima. Usaremos las 6023 proteínas que sabemos que codifica el cromosoma 4 de Arabidopsis thalina. Se pueden descargar de Uniprot.
+
+## Programas
+
+No utilizaremos ni RepeatModeler, ni RepeatMasker ni GALBA porque son difíciles de instalar, por lo que descargaremos directamente los resultados de cada uno de los programas. Estas 3 carpetas, como son resultados, se pueden descomprimir en la carpeta de trabajo de la práctica de hoy.
+
+# Resultados
+
+## Modificación de los nombres de las proteínas
+
+Al descargar las proteínas del cromosoma 4 de A. thaliana, el archivo FASTA contiene cabeceras demasiado extensas. Para facilitar el trabajo de GALBA vamos a modificar las cabeceras o nombres de las secuencias.
+
+## Ejercicio 1
+
+Sabiendo que una forma de hacerlo es la siguiente, incluye la orden en un bloque de Bash de tu documento de Quarto de tal manera que el archivo de entrada esté en tu carpeta data y el de salida en la misma carpeta de trabajo de la práctica actual, y además, que sólo se ejecute si el archivo de salida proteinas.fasta no existe.
+
+```{bash}
+if [ ! -f proteinas.fasta ]; then
+    awk '(/^>/){split($1, A, /\|/); print ">" A[2]}(/^[^>]/){print $0}' ../../data/uniprotkb_proteome_UP000006548_AND_prot_2026_04_28.fasta > proteinas.fasta
+fi
+```
+
+Esto es una exigencia de GALBA, los nombres de las proteínas son muy largos por lo que conviene simplificarlos.
+
+# Análisis de los resultados de Repeat Modeler
+
+Descargados desde el aula virtual y descomprimidos en la carpeta de trabajo.
+
+## EJERCICIO 2
+
+Explora los resultados de *RepeatModeler* y trata de contestar las preguntas siguientes.
+
+**¿Cuántas familias de elementos transponibles se han encontrado?**
+
+```{bash}
+grep '^>' At4-families.fa | wc -l
+```
+
+**¿Cuánto duró la ejecución del programa?** 1 hora y 2 minutos
+
+**¿Cuál dirías que es el archivo de salida más importante?** El archivo consensi.fa
+
+# Suavizar la máscara
+
+Se descargan los resultados de RepeatMasker en el aula virtual y se descomprimen en la carpeta de trabajo actual. La versión enmascarada tiene una máscara dura (*RepeatMasker* ha sustituído todos los elementos trasponibles y repeticiones por Ns), con lo que se ha perdido la información de la secuencia original en esas regiones. El programa GALBA recomienda partir de un ensamblaje con máscara suave, donde las regiones repetitivas están marcadas con letra minúscula. Para convertir la máscara dura en una máscara suave, utilizaremos *bedtools*.
+
+## EJERCICIO 3
+
+1.  Instala el programa bedtools siguiendo las instrucciones oportunas para tu sistema en la página oficial
+
+2.  Utiliza el ensamblaje original como archivo FASTA de entrada y el archivo GFF que ha producido RepetaMasker como coordenadas de las regiones a enmascarar. Lee el manual de bedtools maskfasta en este enlace y genera el ensamblaje con máscara suave llamado At4.soft.fa.
+
+```{bash}
+if [ ! -e At4.soft.fa ] then
+bedtools maskfasta \
+-soft \
+-fi ../2026-04-21/asm1/At4.fa \
+-fo At4.soft.fa \
+-bed RM01/At4.fa.out.gff
+fi
+```
+
+# GALBA
+
+Para ejecutar GALBA ha sido necesario crear algunas variables de entorno que indican donde puede GALBA encontrar un par de ejecutables más. Para facilitar la reproducibilidad, este tipo de definiciones deben aparecer al principio del bloque, donde son más visibles, para que sean fácilmente modificadas cuando las órdenes vayan a ejecutarse en otro ordenador.
+
+De esta forma, cualquiera que ejecute el script puede modificar el PATH.
+
+## EJERCICIO 4
+
+**Incluye en tu documento de Quarto un bloque de código (pero no ejecutable, con la opción eval: false) como el anterior, donde los caminos TSERBA y a MINIPROTHINT se correspondan con tu propia carpeta bin, aunque no los tengas instalados.**
+
+```{bash}
+eval: false
+export TSEBRA_PATH=/home/veronica/bin/TSEBRA/bin/
+export MINIPROTHINT_PATH=/home/veronica/bin/miniprothint/
+
+galba.pl --species="Arabidopsis thaliana" \
+         --genome=At4.soft.fa \
+         --prot_seq=proteinas.fasta
+```
+
+## EJERCICIO 5
+
+**Échales un vistazo a los archivos de salida de GALBA y trata de sacar algo en claro.**
+
+Ojo porque prot_seq_all.fa es lo mismo que el archivo proteinas.fasta que le hemos dado como evidencia
+
+Tiene muchos archivos de salida, pero los que empiezan por galba son las salidas propias del programa, y el gtf es el formato con el que se describen las anotaciones: galba.gtf
+
+No hay UTR, los exones coinciden con las regiones codificantes. El gen empieza en el mismo sitio donde empieza el transcrito. No hay regiones UTR prácticamente en esta anotación, porque no le hemos dado tránscritos prácticamente de RNA-Seq, le hemos dado proteínas por lo que busca las regiones que encajan con las proteínas pero no tiene ninguna evidencia de donde empieza el gen realmente, solo de la región codificante.
+
+Para evaluar la anotación, podríamos comparar lo que hemos dado con lo que nos ha ofrecido, por ejemplo contando cuántos genes ha identificado. De 6000 proteínas, solo encuentra 4362 genes, lo cual es normal porque el ensamblaje estaba bastante fragmentado.
+
+Si fuera un ejercicio real, utilizaríamos BUSCO.
