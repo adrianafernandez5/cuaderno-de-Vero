@@ -6,7 +6,7 @@ execute:
   output: false
   error: true
 engine: knitr
-bibliography: ../../references.bib
+bibliography: ../../doc/references.bib
 language:
    title-block-published: "Última actualización:"
    section-title-references: "Bibliografía"
@@ -232,11 +232,10 @@ nombre_largo
 Usa la función `fromJSON()` para guardar la información del registro
 P01923 (proteína de Swiss-Prot) y explora la estructura de los datos con
 la función `str()`. ¿Puedes extraer la secuencia?
-
 :::
 
-Para ello, como se trata de una proteina de Swiss-Prot utilizamos reviewed y
-lo que queremos es extraer la secuencia:
+Para ello, como se trata de una proteina de Swiss-Prot utilizamos
+*reviewed* y lo que queremos es extraer la secuencia:
 
 ```{r}
 p01923 <- fromJSON(paste0(API, 'protein/reviewed/P01923'))
@@ -244,7 +243,6 @@ str(p01923)
 secuencia <- p01923[['metadata']][['sequence']]
 secuencia
 ```
-
 
 # Filtros. Cruzar dos tipos de datos
 
@@ -272,15 +270,13 @@ algún dominio o elemento funcional en InterPro.
 Determina cuántos taxones de UniProtKB no tienen ninguna proteína
 asignada. ¿Y qué proporción de proteínas cuentan con una estructura
 terciaria?
-
 :::
 
-Para ello: 
-https://www.ebi.ac.uk/interpro/api/protein
+Para ello: https://www.ebi.ac.uk/interpro/api/protein
 https://www.ebi.ac.uk/interpro/api/protein/taxonomy
 
-Ahora definimos un objeto para todas las proteínas de UniProt y otro solo para 
-las que tienen asignadas un taxón
+Ahora definimos un objeto para todas las proteínas de UniProt y otro
+solo para las que tienen asignadas un taxón
 
 ```{r}
 Taxonomia <- fromJSON(paste0(API, 'taxonomy'))
@@ -305,7 +301,8 @@ todos-Taxconprot
 
 En total, hay 1.387.422 taxones que no tienen ninguna proteína asignada.
 
-Para la estructura terciaria, creamos un objeto con la información de estructuras y luego accedemos a los datos.
+Para la estructura terciaria, creamos un objeto con la información de
+estructuras y luego accedemos a los datos.
 
 ```{r}
 todas <- fromJSON(paste0(API, 'protein'))
@@ -371,7 +368,9 @@ pfam01530 <- fromJSON(paste0(API, 'protein/uniprot/entry/pfam/PF01530/taxonomy/u
 names(pfam01530)
 pfam01530[['count']]
 ```
-Se conocen 15 proteínas de cocodrilos con el dominio *zinc finger, C2HC type* (Pfam PF01530).
+
+Se conocen 15 proteínas de cocodrilos con el dominio *zinc finger, C2HC
+type* (Pfam PF01530).
 
 # Apéndice. Cómo juntar todas las páginas que genera la API de Interpro
 
