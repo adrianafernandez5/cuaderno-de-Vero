@@ -67,10 +67,10 @@ kable(genomas)
 ```
 
 > No funciona el paquete `kableExtra`, así que se ha utilizado `knitr`.
-> El paquete `KableExtra` no es necesario ya que es un paquete
-> estético. Necesitamos la función `kable`, que está dentro del paquete
-> `knitr`. La función `kable_styling` no, por lo que la borramos. Con
-> `ls()` podemos comprobar lo que tenemos, en este caso genomas, y con
+> El paquete `KableExtra` no es necesario ya que es un paquete estético.
+> Necesitamos la función `kable`, que está dentro del paquete `knitr`.
+> La función `kable_styling` no, por lo que la borramos. Con `ls()`
+> podemos comprobar lo que tenemos, en este caso genomas, y con
 > `class(genomas)` vemos de qué clase es, en este caso un data frame.
 > Para conocer su dimensión se utiliza `dim(genomas)`, y obtenemos que
 > tiene 35 filas y 8 columnas. Los data frames se pueden consultar con
