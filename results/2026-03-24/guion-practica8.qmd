@@ -5,28 +5,28 @@ format: html
 editor: visual
 ---
 
-## Primero necesitamos tener instalados los paquetes correspondientes. Como tampoco tenemos BiocManager lo instalamos:
+#Primero necesitamos tener instalados los paquetes correspondientes. Como tampoco tenemos BiocManager lo instalamos:
 
+```{r}
 install.packages('BiocManager')
 BiocManager::install('Biostrings')
+```
 
-## BLAST ejecuta alineamientos locales entre una secuencia problema o query, generalmente no muy larga, y un conjunto grande de secuencias, es decir, la base de datos, entre las que esperamos encontrar alguna secuencia homóloga a la query. Cada secuencia que se pueda alinear con la query recibe el nombre de subject en el alineamiento.
+BLAST ejecuta alineamientos locales entre una secuencia problema o query, generalmente no muy larga, y un conjunto grande de secuencias, es decir, la base de datos, entre las que esperamos encontrar alguna secuencia homóloga a la query. Cada secuencia que se pueda alinear con la query recibe el nombre de subject en el alineamiento.
 
-## Los objetivos de la sesión son:
-## 1. Identificar proteínas ortólogas entre dos especies con BLASTP.
-## 2. Realizar un PSI-BLAST contra la base de datos Swissprot.
-## 3. Determinar el origen de las lecturas que no pudieron ser mapeadas a su genoma de referencia, usando BLASTN remoto.
+Los objetivos de la sesión son: 1. Identificar proteínas ortólogas entre dos especies con BLASTP. 2. Realizar un PSI-BLAST contra la base de datos Swissprot. 3. Determinar el origen de las lecturas que no pudieron ser mapeadas a su genoma de referencia, usando BLASTN remoto.
 
 ## DATOS
-## Para el primer ejercicio, se descarga de la base de datos UniProt los proteomas de las especies Buchnera aphidicola y Blochmannia ocreatus en formato FASTA y descomprimidos. Se guardan en la carpeta data.
 
+Para el primer ejercicio, se descarga de la base de datos UniProt los proteomas de las especies Buchnera aphidicola y Blochmannia ocreatus en formato FASTA y descomprimidos. Se guardan en la carpeta data.
 
-## Para el primer ejercicio, ejecutamos en el terminal de Bash el comando: update_blastdb --decompress swissprot, desde la carpeta data, para descargar la base de datos de Swissprot para BLAST
+Para el primer ejercicio, ejecutamos en el terminal de Bash el comando: update_blastdb --decompress swissprot, desde la carpeta data, para descargar la base de datos de Swissprot para BLAST
 
-## Para los datos del tercer ejercicio, se descarga el archivo comprimido correspondiente a través del link de la práctica, y se guarda en la carpeta data.
+Para los datos del tercer ejercicio, se descarga el archivo comprimido correspondiente a través del link de la práctica, y se guarda en la carpeta data.
 
 ## EJERCICIO 1. IDENTIFICACIÓN APROXIMADA DE ORTÓLOGOS
-## La estrategia que vamos a seguir para identificar los genes ortólogos es comprobar si cada uno es, respecto del otro, su mejor resultado de BLAST. Los genes ortólogos se producen por la divergencia entre especies, heredan genes que derivan del mismo ancestro. Para identificarlos, primero debemos enmascarar e indexar para BLAST. Los ejecutables de BLAST son independientes de R y por ello hay que ejecturarlos en un entorno de Bash:
+
+La estrategia que vamos a seguir para identificar los genes ortólogos es comprobar si cada uno es, respecto del otro, su mejor resultado de BLAST. Los genes ortólogos se producen por la divergencia entre especies, heredan genes que derivan del mismo ancestro. Para identificarlos, primero debemos enmascarar e indexar para BLAST. Los ejecutables de BLAST son independientes de R y por ello hay que ejecturarlos en un entorno de Bash:
 
 ```{bash}
 pwd
@@ -49,7 +49,8 @@ if [ ! -e ../../data/buchnera.paa ]; then
                 -title "Proteoma de Buchnera"
 fi
 ```
-# Hay que repetir todo esto para Blochmannia:
+
+Hay que repetir todo esto para Blochmannia:
 
 ```{bash}
 pwd
@@ -73,9 +74,10 @@ if [ ! -e ../../data/blochmannia.paa ]; then
 fi
 ```
 
-## Ahora, hay que seleccionar las parejas de proteínas más similares una de otra, porque estás serán las más probablemente ortólogas. Hay que encontrar la proteína de Blochmannia más similar a cada una de las proteínas de Buchnera y viceversa. Para ello:
+Ahora, hay que seleccionar las parejas de proteínas más similares una de otra, porque estás serán las más probablemente ortólogas. Hay que encontrar la proteína de Blochmannia más similar a cada una de las proteínas de Buchnera y viceversa. Para ello:
 
 ## DE BUCHNERA HACIA BLOCHMANNIA
+
 ```{bash}
 blastp -query ../../data/Buchnera.fasta \
        -db ../../data/blochmannia \
@@ -86,6 +88,7 @@ blastp -query ../../data/Buchnera.fasta \
 ```
 
 ## DE BLOCHMANNIA HACIA BUCHNERA
+
 ```{bash}
 blastp -query ../../data/blochmannia.fasta \
        -db ../../data/buchnera \
@@ -98,7 +101,9 @@ blastp -query ../../data/blochmannia.fasta \
 ```{bash}
 blastp -help
 ```
+
 ## COMPARACIÓN DE RESULTADOS
+
 ```{r}
 buc2blo <- read.table(
    'buc2blo.txt',
@@ -122,15 +127,16 @@ coincidencias <- buc2blo[
    c('query', 'subject')
 ]
 ```
-##Gracias a la función match match podemos coger información de una tabla y compararla con la otra, y observarla en reverse. La función relaciona ambas tablas.
+
+Gracias a la función match match podemos coger información de una tabla y compararla con la otra, y observarla en reverse. La función relaciona ambas tablas.
 
 ```{r}
 coincidencias
 ```
 
-
 ## EJERCICIO 2. PSI-BLAST
-## El PSI-BLAST nos permite identificar semejanzas sutiles, por ejemplo las que existen entre miembros alejados de una superfamilia proteica. Para comprobarlo, haremos una búsqueda a partir de algunas proteínas de Swissprot que pertenece a la misma superfamilia. Un simple BLASTP con cualquiera de ellas no encuentra ninguna de las otras. Por ello, probamos con PSI-BLAST, a partir de la proteína P39615:
+
+El PSI-BLAST nos permite identificar semejanzas sutiles, por ejemplo las que existen entre miembros alejados de una superfamilia proteica. Para comprobarlo, haremos una búsqueda a partir de algunas proteínas de Swissprot que pertenece a la misma superfamilia. Un simple BLASTP con cualquiera de ellas no encuentra ninguna de las otras. Por ello, probamos con PSI-BLAST, a partir de la proteína P39615:
 
 ```{bash}
 # Como Swissprot debería estar ya descargada en `../../data`, podemos sacar
@@ -147,6 +153,7 @@ psiblast -db ../../data/swissprot \
          -num_iterations 7 \
          -matrix BLOSUM62
 ```
+
 ```{bash}
 # Como Swissprot debería estar ya descargada en `../../data`, podemos sacar
 # de ahí la secuencia de la proteína escogida:
@@ -167,4 +174,4 @@ psiblast -db ../../data/swissprot \
 psiblast -help
 ```
 
-## -evalue es el número esperado de alineamientos con una puntuación de al menos S, siendo S la puntuación del mejor alineamiento local entre dos secuencias, mientras que inclusion_ethresh es el valor umbral de evalue.
+-evalue es el número esperado de alineamientos con una puntuación de al menos S, siendo S la puntuación del mejor alineamiento local entre dos secuencias, mientras que inclusion_ethresh es el valor umbral de evalue.

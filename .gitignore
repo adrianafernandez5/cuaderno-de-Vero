@@ -1,0 +1,24 @@
+# --- Datos de secuenciación y genomas ---
+*.fastq.gz
+*.fastq
+*.fa
+*.fa.*
+*.afa
+*.EMBL
+
+# --- Archivos de mapeo y variantes (muy pesados) ---
+*.sam
+*.bam
+*.bai
+*.vcf
+
+# --- Archivos temporales y logs ---
+*.log
+*.err
+*.json
+*Zone.Identifier
+*_files/
+.DS_Store
+
+# --- Carpeta de datos crudos ---
+data/

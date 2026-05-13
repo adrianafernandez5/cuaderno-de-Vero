@@ -15,32 +15,38 @@ cd hifiasm
 make
 ```
 
-Una vez compilado, el ejecutable ~/bin/hifiasm/hifiasm estará disponible, pero no en el PATH (donde Bash pueda encontrarlo). Para que hifiasm esté en el PATH, podemos añadir la carpeta ~/bin/hifiasm al PATH. En el terminal de Bash esto se consigue con la orden export PATH=$PATH:~/bin/hifiasm. Pero esta orden sólo afecta el terminal en el que se ha ejecutado. Para modificar el PATH permanentemente hay que incluir esta orden en el script ~/.bashrc. Se puede hacer automáticamente con la orden siguiente, pero ejecutándola solo una vez:
+Una vez compilado, el ejecutable \~/bin/hifiasm/hifiasm estará disponible, pero no en el PATH (donde Bash pueda encontrarlo). Para que hifiasm esté en el PATH, podemos añadir la carpeta \~/bin/hifiasm al PATH. En el terminal de Bash esto se consigue con la orden export PATH=\$PATH:\~/bin/hifiasm. Pero esta orden sólo afecta el terminal en el que se ha ejecutado. Para modificar el PATH permanentemente hay que incluir esta orden en el script \~/.bashrc. Se puede hacer automáticamente con la orden siguiente, pero ejecutándola solo una vez:
 
 ```{bash}
 echo 'export PATH=$PATH:~/bin/hifiasm' >> ~/.bashrc
 ```
 
-A partir de entonces, cada vez que se inicie el terminal, hifiasm estará en el PATH. Pero el terminal desde el cual se ha ejecutado la orden anterior se abrió antes de modificar .bashrc. Para que surta efecto sin tener que cerrar y abrir el terminal, se puede usar la orden . ~/.bashrc.
+A partir de entonces, cada vez que se inicie el terminal, hifiasm estará en el PATH. Pero el terminal desde el cual se ha ejecutado la orden anterior se abrió antes de modificar .bashrc. Para que surta efecto sin tener que cerrar y abrir el terminal, se puede usar la orden . \~/.bashrc.
 
 ## DATOS
+
 Vamos a usar lecturas HiFi generadas por Rabanal et al. (2022) de un único individuo de la planta Arabidopsis thaliana, ecotipo Columbia (Col-0), con la tecnología SMRT de PacBio (proyecto PRJEB50694). Los datos seleccionados son solo una parte de los originales y se encuentran en el archivo At4.10.fa.gz (46 Mb), disponible en el aula virtual. También está en el espacio de disco compartido de la Universidad de Valencia, dentro del grupo de bioinformática. Este espacio es directamente accesible desde los ordenadores virtuales.
 
 En adelante supondré que el archivo está guardado en la carpeta data y que su path relativo es ../../data/At4.10.fa.gz.
 
 ## REVISIÓN DE LOS DATOS
+
 Los datos están en formato FASTA porque contienen sólo lecturas de alta calidad, y hifiasm no utiliza la información de las calidades de cada base. El archivo está comprimido. Antes de empezar el ensamblaje deberíamos tener una idea de la cantidad de datos que tenemos. Si lo necesitas, utiliza una inteligencia artificial para responder las preguntas siguientes y anota en un bloque de código las órdenes utilizadas. Puedes hacerlo con instrucciones de Bash o de R, pero R necesitará cargar en memoria el archivo entero, lo que no sería muy práctico si se tratara de un archivo 10 o 50 veces mayor.
 
 ## EJERCICIO 1
+
 Para analizar el archivo en formato FASTA comprimido:
 
-1. ¿Cuántas secuencias contiene el archivo?
+1.  ¿Cuántas secuencias contiene el archivo?
+
 ```{bash}
 zgrep -c "^>" ../../data/At4.10.fa.gz
 ```
-El archivo contiene 13182 secuencias. Este comando (zgrep -c">") ofrece el número exacto de secuencias.
 
-2. ¿Qué longitudes mínima, media y máxima tienen las secuencias? ¿Cuál es el número total de bases?
+El archivo contiene 13182 secuencias. Este comando (zgrep -c"\>") ofrece el número exacto de secuencias.
+
+2.  ¿Qué longitudes mínima, media y máxima tienen las secuencias? ¿Cuál es el número total de bases?
+
 ```{bash}
 # Este comando procesa el archivo, cuenta caracteres de las líneas que no son cabeceras
 # y calcula las estadísticas al finalizar.
@@ -64,16 +70,19 @@ awk '
         printf "Longitud Máxima: %d\n", max;
     }'
 ```
+
 La longitud mínima de las secuencias es de 2942 bp. La longitud media es de 18143.61 bp. La longitud máxima es de 59075 bp. Mientras que el número total de bases es de 250599484
 
-3. Si se estimara que el genoma a ensamblar fuera de sólo 19 millones de bases, ¿cuál sería la cobertura esperada?
-Como ya conocemos el número total de bases:
+3.  Si se estimara que el genoma a ensamblar fuera de sólo 19 millones de bases, ¿cuál sería la cobertura esperada? Como ya conocemos el número total de bases:
+
 ```{bash}
 echo "250599484 / 19000000" | bc -l
 ```
+
 La cobertura esperada es de 13.189
 
 ## ENSAMBLAJE
+
 Como el programa hifiasm produce varios archivos de salida, se crea una subcarpeta donde guardarlos. Si se probase más de una estrategia de ensamblado, habría que guardar los resultados de cada intento en una carpeta diferente, que podríamos nombrar como asm1, asm2, etc. Sólo vamos a realizar un ensamblaje, pero aún así crearemos la carpeta asm1 para guardar los resultados en ella.
 
 ```{bash}
@@ -81,7 +90,7 @@ Como el programa hifiasm produce varios archivos de salida, se crea una subcarpe
 if [ ! -d asm1 ]; then mkdir asm1; fi
 ```
 
-El ensamblaje de estas lecturas puede durar unos minutos. No queremos tener que ejecutarlo cada vez que compilamos el documento de Quarto. Tenemos dos opciones: o bien usamos la directriz #| cache: true al principio del bloque de código o bien controlamos directamente la ejecución condicional con Bash. Si usamos el método que ofrece Quarto, aparecerá una nueva carpeta que guarda resultados previos y que estaría bien incluir en el repositorio de Git. Yo prefiero usar Bash:
+El ensamblaje de estas lecturas puede durar unos minutos. No queremos tener que ejecutarlo cada vez que compilamos el documento de Quarto. Tenemos dos opciones: o bien usamos la directriz #\| cache: true al principio del bloque de código o bien controlamos directamente la ejecución condicional con Bash. Si usamos el método que ofrece Quarto, aparecerá una nueva carpeta que guarda resultados previos y que estaría bien incluir en el repositorio de Git. Yo prefiero usar Bash:
 
 ```{bash}
 . ~/.bashrc
@@ -93,11 +102,7 @@ fi
 
 Las opciones significan lo siguiente:
 
--o asm1/At4: usa el prefijo asm1/At4 para los archivos de salida.
--t 2: usa dos procesadores. Por defecto usaría uno.
--f 0: inhabilita el uso de un filtro de Bloom (Melsted and Pritchard 2011) durante la corrección de errores, que ocuparía 16 Gb de memoria.
-../../data/At4.10.fa.gz: archivo con los datos de partida.
-2> asm1/hifiasm.log: guarda los numerosos mensajes que hifiasm envía al error estándar en un archivo asm1/hifiasm.log. Esto evita que esos mensajes se acumulen en el informe HTML.
+-o asm1/At4: usa el prefijo asm1/At4 para los archivos de salida. -t 2: usa dos procesadores. Por defecto usaría uno. -f 0: inhabilita el uso de un filtro de Bloom (Melsted and Pritchard 2011) durante la corrección de errores, que ocuparía 16 Gb de memoria. ../../data/At4.10.fa.gz: archivo con los datos de partida. 2\> asm1/hifiasm.log: guarda los numerosos mensajes que hifiasm envía al error estándar en un archivo asm1/hifiasm.log. Esto evita que esos mensajes se acumulen en el informe HTML.
 
 Para poder ejecutar varias veces el archivo y de forma reproducible, vamos a definir una variable diciéndole donde está hifiasm o lo siguiente:
 
@@ -106,8 +111,8 @@ export PATH=~/bin/hifiasm/hifiasm:$PATH
 ```
 
 ## EJERCICIO 2
-Consulta la ayuda de hifiasm (hifiasm -h) y contesta las preguntas siguientes:
 
+Consulta la ayuda de hifiasm (hifiasm -h) y contesta las preguntas siguientes:
 
 ```{bash}
 HF=~/bin/hifiasm/hifiasm
@@ -115,33 +120,26 @@ $HF
 hifiasm -h
 ```
 
-1. ¿Los parámetros corresponden al ensamblaje de un genoma haploide o diploide?
-Sabemos que el genoma es diploide porque hifiasm genera archivos que incluyen bp.hap1 o bp.hap2, que corresponden a los contigs del haplotipo 1 o del haplotipo 2, por lo tanto tiene que ser diploide.
+1.  ¿Los parámetros corresponden al ensamblaje de un genoma haploide o diploide? Sabemos que el genoma es diploide porque hifiasm genera archivos que incluyen bp.hap1 o bp.hap2, que corresponden a los contigs del haplotipo 1 o del haplotipo 2, por lo tanto tiene que ser diploide.
 
-2. ¿Qué nivel de eliminación de duplicaciones hemos aplicado? (El paso de eliminar duplicaciones sirve para que las zonas de alta heterocigosidad no sean ensambladas como contigs diferentes).
-El ensamblado muestra únicamente contigs primarios (p_ctg), lo que indica que se ha aplicado una purga agresiva de duplicaciones.
+2.  ¿Qué nivel de eliminación de duplicaciones hemos aplicado? (El paso de eliminar duplicaciones sirve para que las zonas de alta heterocigosidad no sean ensambladas como contigs diferentes). El ensamblado muestra únicamente contigs primarios (p_ctg), lo que indica que se ha aplicado una purga agresiva de duplicaciones.
 
-3. Si tuvieramos lecturas ultra-largas, ¿con qué opción o argumento añadiríamos esa información?
-Las lecturas ultra-largas se incorporarían utilizando el argumento --ul
+3.  Si tuvieramos lecturas ultra-largas, ¿con qué opción o argumento añadiríamos esa información? Las lecturas ultra-largas se incorporarían utilizando el argumento --ul
 
 ## EVALUACIÓN DEL RESULTADO
+
 # EJERCICIO 3
+
 Consulta la descripción de los archivos de salida que encontrarás en este enlace y contesta las preguntas siguientes:
 
-¿Dónde están las secuencias que componen el ensamblaje?
-En los archivos .gfa (contigs: (ctg.gfa)/unitigs (utg.gfa)). Los archivos noseq.gfa son sin secuencias, son una versión simplificada para facilitar la visualización.
+¿Dónde están las secuencias que componen el ensamblaje? En los archivos .gfa (contigs: (ctg.gfa)/unitigs (utg.gfa)). Los archivos noseq.gfa son sin secuencias, son una versión simplificada para facilitar la visualización.
 
-En los archivos .gfa, ¿qué son las líneas que empiezan por ‘A’?
-Incluyen la información de las lecturas que se utilizan para construir contigs/unitigs.
+En los archivos .gfa, ¿qué son las líneas que empiezan por ‘A’? Incluyen la información de las lecturas que se utilizan para construir contigs/unitigs.
 
-¿Qué información tienen los archivos .bed?
-Las coordenadas de las regiones de baja calidad.
+¿Qué información tienen los archivos .bed? Las coordenadas de las regiones de baja calidad.
 
-¿Cuál es la cobertura media estimada de las secuencias homocigotas? 
-Se observa en el archivo de texto:
+¿Cuál es la cobertura media estimada de las secuencias homocigotas? Se observa en el archivo de texto:
 
-[M::purge_dups] homozygous read coverage threshold: 12
+\[M::purge_dups\] homozygous read coverage threshold: 12
 
-¿Y la de las heterocigotas?
-En un gráfico de k-meros, para muestras heterocigotas debería haber dos picos. El pico menor se encuentra alrededor de la cobertura heterocigota.
-
+¿Y la de las heterocigotas? En un gráfico de k-meros, para muestras heterocigotas debería haber dos picos. El pico menor se encuentra alrededor de la cobertura heterocigota.
