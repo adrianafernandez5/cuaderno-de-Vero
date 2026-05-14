@@ -47,24 +47,30 @@ if [ ! -e DRR025089_2.fastq.gz ]; then
 fi
 ```
 
-::: {.callout-note icon="false"}
 ## Desafío
 
-Una vez descargados los archivos FASTQ, échales un vistazo desde la
+*Una vez descargados los archivos FASTQ, échales un vistazo desde la
 línea de órdenes. Puedes hacerlo con `zless`, una versión de `less`
 capaz de mostrar archivos comprimidos, o bien descomprimiendo los
 archvios con `gunzip`. Para no ocupar espacio de disco innecesariamente,
 puedes usar `gunzip -c DRR025089_1.fastq.gz | less -S`, que envía el
 contenido del archivo a la salida estándar (no a un archivo nuevo), de
 donde `less -S` lo lee, sin modificar nada en la carpeta. ¿Sabrías
-contar el número de líneas de cada archivo?
-:::
+contar el número de líneas de cada archivo?*
 
-Utilizando el comando `wc` (word count), obtenemos 3 datos, lineas,
-palabras y caracteres. Para obtener solo las lineas, se utiliza el
-comando `wc -l`, separado por una barra vertical:
-`gunzip -c DRR025089_2.fastq.gz \| wc -l`. Vemos que ambas secuencias
-tienen el mismo número de líneas.
+Gunzip sirve para descomprimir archivos .gz (formato Gzip), wc (word
+count) es una herramienta utilizada para analizar archivos de texto, -l
+le indica a wc que sólo cuente las líneas. Como se ve a continuación, el
+número coincide en ambos archivos (lectura 1 y lectura 2), siendo de
+1646728.
+
+```{bash}
+gunzip -c DRR025089_1.fastq.gz | wc -l
+```
+
+```{bash}
+gunzip -c DRR025089_2.fastq.gz | wc -l
+```
 
 Necesitaremos también el genoma de referencia de
 `Bradyrhizobium japonicum`. Usaremos el de la cepa ACCC 15027 (hay
@@ -79,25 +85,36 @@ if [ ! -e referencia.fa ]; then
 fi
 ```
 
-Utilizamos `less –c referencia.fa` para verlo. Para saber las líneas que
-tiene, `less –c referencia.fa \| wc –l`
-
-::: {.callout-note icon="false"}
 ## Preguntas
 
--   ¿Crees que deberíamos guardar los archivos descargados en
-    `../../data`?
-:::
+-   *¿Crees que deberíamos guardar los archivos descargados en
+    `../../data`?*
 
 Yo los he guardado directamente en data, lo cual es mejor porque la
 carpeta `data` git la ignora, no queremos guardar datos.
 
-::: {.callout-note icon="false"}
--   ¿Cómo podrías guardar los mensajes de `wget` en un archivo?
+-   *¿Cómo podrías guardar los mensajes de `wget` en un archivo?*
 
--   ¿De cuántas secuencias diferentes se compone este genoma de
-    referencia?
-:::
+wget sirve para descargar programas desde internet, no obstante
+podríamos guardar sus mensajes mediante el siguiente código. -o
+log_descarga.txt guarda el historial, es decir, registra todo lo que
+sucede. Por otro lado, /dev/null (utilizado en el código anterior)
+descarta estos mensajes.
+
+```{bash}
+wget -o log_descarga.txt -O referencia.fa https://www.ebi.ac.uk/ena/browser/api/fasta/GCA_042137995.2 
+```
+
+-   *¿De cuántas secuencias diferentes se compone este genoma de
+    referencia?*
+
+Muchas de las cabeceras de los archivos fasta comienzan con "\>" por lo
+que si queremos contar el número de secuencias diferentes vemos cuántas
+veces se repiten estos simbolos. Para ello:
+
+```{bash}
+less -c referencia.fa | wc -l
+```
 
 # Control de calidad
 
@@ -114,20 +131,59 @@ if [ ! -e fastp.html ]; then
 fi
 ```
 
-::: {.callout-note icon="false"}
 ## Ejercicios
 
-1.  Revisa la ayuda del programa ejecutando `fastp -h`, y asegúrate de
-    entender al menos las opciones que hemos usado.
-2.  Revisa el informe generado por `fastp` en el archivo `fastp.html` y
+1.  *Revisa la ayuda del programa ejecutando `fastp -h`, y asegúrate de
+    entender al menos las opciones que hemos usado. La siguiente
+    información ha sido extraída tras ejecutar fastp -h (no he puesto el
+    bloque de código porque ocupaba mucho espacio, no obstante se puede
+    consultar en la consola).*
+
+    +---------------+------------------------------------------------+
+    | Opciones      | Función                                        |
+    | usadas        |                                                |
+    +===============+================================================+
+    | -i            | Hace referencia al archivo de entrada (input)  |
+    |               | de la lectura 1 (read1 input file name).       |
+    +---------------+------------------------------------------------+
+    | -o            | Hace referencia al archivo de salida (output)  |
+    |               | de la lectura 1 (read 1 output file name).     |
+    +---------------+------------------------------------------------+
+    | -l            | Hace referencia al archivo de entrada (input)  |
+    |               | de la lectura 2 (read2 input file name).       |
+    +---------------+------------------------------------------------+
+    | -O            | Hace referencia al archivo de salida (output)  |
+    |               | de la lectura 2 (read2 output file name).      |
+    +---------------+------------------------------------------------+
+    | --merge       | Esta función sirve para unir cada par de       |
+    |               | lecturas en una sola lectura más largo en caso |
+    |               | de que ambas estén solapadas.                  |
+    |               |                                                |
+    |               | Las lecturas unidas se encontrarán en un       |
+    |               | archivo –merge_out, y las no solapadas en los  |
+    |               | archivos –out1 y –out2 .                       |
+    +---------------+------------------------------------------------+
+    | -             | Se deberá escribir tras esta opción el nombre  |
+    |    -merge_out | del archivo en el que se encontrarán las       |
+    |               | secuencias unidas/solapadas tras la opción     |
+    |               | merge.                                         |
+    +---------------+------------------------------------------------+
+
+2.  *Revisa el informe generado por `fastp` en el archivo `fastp.html` y
     redacta un pequeño resumen de las principales conclusiones que
-    sacas.
-3.  Descarga un segundo conjunto de archivos FASTQ de la misma especie y
-    repite el análisis de calidad con ellos. Puedes ver algunas opciones
-    en [este
+    sacas.* Se encuetnran los datos de la secuenciación. Observamos que
+    después de filtrar el número total de lecturas y bases decrece (pasa
+    de 823,364 k a 233,677 k de lecturas). Además se observa que la
+    calidad Q30 aumenta, pasa de 70% a 83%, al igual que la calidad Q20
+    que pasa de 80% a 89%. También se aprecia que ha habido una
+    corrección de errores de lecturas del 25%.
+
+3.  *Descarga un segundo conjunto de archivos FASTQ de la misma especie
+    y repite el análisis de calidad con ellos. Puedes ver algunas
+    opciones en [este
     enlace](https://www.ebi.ac.uk/ena/browser/advanced-search?result=read_run&query=study_accession%3D%22PRJDB3261%22&fields=run_accession%2Cexperiment_title%2Cstudy_accession%2Cfastq_bytes%2Cfastq_ftp%2Cscientific_name%2Cfirst_public&excludeAccessionType=run&excludeAccessions=DRR025089).
-    Es mejor no descargar archivos demasiado grandes.
-:::
+    Es mejor no descargar archivos demasiado grandes.* El procedimiento
+    sería el mismo que el realizado anteriormente.
 
 # Mapeo
 
@@ -163,21 +219,103 @@ if [ ! -e DRR025089.bam ]; then
 fi
 ```
 
-::: {.callout-note icon="false"}
 ## Desafíos
 
-1.  Entre las órdenes anteriores, añade la descarga del genoma de
-    referencia en el lugar adecuado y bajo la condición adecuada para
-    que pueda borrarse una vez se haya generado el alineamiento.
-2.  En un bloque de órdenes nuevo, alinea también los pares de lecturas
-    cortas que `fastp` había combinado (`DR025089_m_clean.fastq`).
-3.  Lee la lista de funciones que te ofrece `samtools` al ejecutarlo sin
-    ningún argumento. ¿Qué función usarías para combinar dos archvivos
-    BAM en uno?
-4.  ¿Cuánto espacio de disco ocupan los archivos FASTQ, el genoma de
-    referencia y su índice y el archivo SAM?
-5.  Podíamos haber ahorrado algún paso aprovechando las *tuberías* de
-    BASH:
+*1) Entre las órdenes anteriores, añade la descarga del genoma de
+referencia en el lugar adecuado y bajo la condición adecuada para que
+pueda borrarse una vez se haya generado el alineamiento.*
+
+El código para este caso sería el mismo que el anterior, sin embargo,
+para descargarse el genoma de referencia se añadirían las 3 primeras
+líneas (son las mismas que las usadas al comienzo de la práctica).
+Posteriormente, este se borrará, pero como es necesario para el
+alineamiento debe de borrarse después de que este ocurra. Es por eso por
+lo que en el código la línea rm referencia.fa referencia.fa.\* elimina
+al archivo original y todos aquellos generados a partir de este que
+también comienzan por "referencia.fa".
+
+```{bash}
+if [ ! -e DRR025089.bam ]; then
+   if [ ! -e DRR025089_unsorted.bam ]; then
+      if [ ! -e DRR025089.sam ]; then
+         if [ ! -e referencia.fa.bwt ]; then
+            bwa index referencia.fa
+         fi
+         bwa mem -M -R '@RG\tID:DRR025089\tSM:SAMD00022947' \
+                 -o DRR025089.sam \
+                 referencia.fa \
+                 DRR025089_1_clean.fastq \
+                 DRR025089_2_clean.fastq \
+         1> bwa.log 2> bwa.err
+         rm referencia.fa referencia.fa.*
+      fi
+      samtools view -b -o DRR025089_unsorted.bam DRR025089.sam
+    fi
+    samtools sort -o DRR025089.bam DRR025089_unsorted.bam
+    samtools index DRR025089.bam
+fi
+```
+
+*2) En un bloque de órdenes nuevo, alinea también los pares de lecturas
+cortas que `fastp` había combinado (`DR025089_m_clean.fastq`).*
+
+Para ello me he basado en el primero de estos códigos. No he eliminado
+la secuencia descargada del genoma de referencia, porque ya me la había
+descargado previamente al inicio de la práctica. He cambiado el nombre
+de algunos de los archivos para evitar sobrescribir lo generado en el
+primer código.
+
+```{bash}
+if [ ! -e DRR025089_m.bam ]; then
+   if [ ! -e DRR025089_m_unsorted.bam ]; then
+      if [ ! -e DRR025089_m.sam ]; then
+         if [ ! -e referencia.fa.bwt ]; then
+            bwa index referencia.fa
+         fi
+bwa mem -M -R '@RG\tID:DRR025089_m\tSM:SAMD00022947' \
+                 -o DRR025089_m.sam \
+                 referencia.fa \
+                 DRR025089_m_clean.fastq \
+                 2> bwa_m.err
+      fi
+      samtools view -b -o DRR025089_m_unsorted.bam DRR025089_m.sam
+    fi
+    samtools sort -o DRR025089_m.bam DRR025089_m_unsorted.bam
+    samtools index DRR025089_m.bam
+fi
+```
+
+*3) Lee la lista de funciones que te ofrece `samtools` al ejecutarlo sin
+ningún argumento. ¿Qué función usarías para combinar dos archvivos BAM
+en uno?*
+
+Podría usar "cat" que significa "concatenate BAMs", no obstante esta
+función sólo sirve para inputs con el mismo formato. También he visto
+que se podría usar "merge" que combina varios archivos de alineación
+ordenados, generando un único archivo de salida ordenado que contiene
+todos los registros de entrada y mantiene el orden de clasificación
+existente. Nota: He consultado también el manual de Samtoools a través
+de mi navegador.
+
+*4) ¿Cuánto espacio de disco ocupan los archivos FASTQ, el genoma de
+referencia y su índice y el archivo SAM?*
+
+-   ARCHIVOS FASTQ: entre 70 kb y 100 kb.
+
+-   Genoma de referencia: 9,9 kb.
+
+-   Índice del genoma de referencia: entre 1 kb y 10 kb.
+
+-   Archivo SAM: 184.353 kb.
+
+*5) Podíamos haber ahorrado algún paso aprovechando las tuberías de
+BASH. Este estilo tiene también la ventaja de ser más rápido. ¿Crees que
+hay algún inconveniente al usar las tuberías?* El principal
+inconveniente es la pérdida de trazabilidad debido a que utilizando esto
+método no se creaer archivos intermedios (se crea unicamente el archivo
+final). Además, el uso de tuberías provoca un mayor consumo de RAM y el
+CPU del ordenador, puesto que ejecuta todos los procesos al mismo
+tiempo.
 
 ```         
 bwa mem -M -R '@RG\tID:DRR025089\tSM:SAMD00022947' \
@@ -185,10 +323,6 @@ bwa mem -M -R '@RG\tID:DRR025089\tSM:SAMD00022947' \
 samtools view -u - | \
 samtools sort - > DRR025089.bam
 ```
-
-Este estilo tiene también la ventaja de ser más rápido. ¿Crees que hay
-algún inconveniente al usar las tuberías?
-:::
 
 Antes de proseguir, es importante comprobar el resultado del paso
 anterior. Podemos extraer algunas estadísticas del archivo BAM así:
@@ -213,23 +347,48 @@ COV <- read.table('COV.txt',
 plot(COV$cobertura, COV$bases, type = 'l')
 ```
 
-::: {.callout-note icon="false"}
 ## Desafíos
 
-1.  La distribución de cobertura tiene una cola larga. ¿Puedes centrar
-    la representación gráfica entre 0 y 20? Pista: usa la opción `xlim`
-    de `plot()`.
-2.  ¿Qué otras estadísticas crees que vale la pena revisar?
-3.  El genoma de referencia incluye dos plásmidos. ¿La cepa secuenciada
-    los tiene?
-4.  Visualiza los alineamientos en el terminal con la orden siguiente:
+1.  *La distribución de cobertura tiene una cola larga. ¿Puedes
+    centrarla representación gráfica entre 0 y 20? Pista: usa la opción
+    `xlim` de `plot()`.* La opción xlim sirve para establecer los
+    límites del eje x. De esta forma le digo que sea una representación
+    gráfica entre 0 y 20. Si quisiera hacerlo pero para el eje y usaría
+    la opción ylim.
+
+```{r}
+plot(COV$cobertura, COV$bases, 
+     type = "l", 
+     xlim = c(0, 20), 
+     main = "Distribución de Cobertura",
+     xlab = "COV$bases", 
+     ylab = "COV$cobertura")
+```
+
+2.  *¿Qué otras estadísticas crees que vale la pena revisar?*
+
+    Podríamos ver cuántas lecturas se han representado contra el genoma
+    de referencia.
+
+3.  *El genoma de referencia incluye dos plásmidos. ¿La cepa secuenciada
+    los tiene?* Usamos idxstats ya que hace un resumen del alineamiento.
+    En este caso veo tres alineamientos, lo que indica que además del
+    DNA cromosómico se incluye el plasmídico en las cepas.
+
+```{bash}
+samtools idxstats DRR025089.bam
+```
+
+4.  *Visualiza los alineamientos en el terminal con la orden siguiente:*
+    Esta orden se ejecuta directamente en el terminal de Bash.
 
 ```         
 samtools tview DRR025089.bam referencia.fa
 ```
-:::
 
 # Identificación de variantes
+
+No puedo ejecutar Freebayes.
 
 ```{bash}
 if [ ! -e DRR025089.vcf ]; then
