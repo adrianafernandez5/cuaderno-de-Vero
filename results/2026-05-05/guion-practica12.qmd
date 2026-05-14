@@ -3,17 +3,17 @@ title: "Practica 12"
 author: "Veronica Martin"
 ---
 
-# PRACTICA 12. ANÁLISIS DE EXPRESIÓN DIFERENCIAL
+# Práctica 12. Análisis de expresión diferencial.
 
-## DATOS
+## Datos
 
-Utilizaremos las medidas de expresión génica del archivo salmon.merged.gene_counts.tsv que podéis descargar en este enlace o en el aula virtual. Los datos proceden de 12 genotecas de RNA-seq de lecturas emparejadas, de muestras de Drosophila melanogaster de dos orígenes geográficos (Panamá y Maine) y dos tratamientos de temperatura (low y high) (Zhao 2015). Hay 3 réplicas biológicas para cada combinación de región y temperatura. Si tenéis curiosidad sobre cómo se han obtenido los recuentos de lecturas por gen a partir de los archivos FASTQ, podéis consultarlo en este enlace.
+Utilizaremos las medidas de expresión génica del archivo `salmon.merged.gene_counts.tsv` que podéis descargar en este enlace o en el aula virtual. Los datos proceden de 12 genotecas de RNA-seq de lecturas emparejadas, de muestras de *Drosophila melanogaster* de dos orígenes geográficos (Panamá y Maine) y dos tratamientos de temperatura (*low y high+) (Zhao 2015). Hay 3 réplicas biológicas para cada combinación de región y temperatura. Si tenéis curiosidad sobre cómo se han obtenido los recuentos de lecturas por gen a partir de los archivos FASTQ, podéis consultarlo en este enlace.
 
-Además, necesitáis el archivo dme_elev_samples.tsv, una tabla que indica a qué región y tratamiento pertenece cada muestra. Lo podéis descargar de este enlace o del aula virtual.
+Además, necesitáis el archivo `dme_elev_samples.tsv`, una tabla que indica a qué región y tratamiento pertenece cada muestra. Lo podéis descargar de este enlace o del aula virtual.
 
 Los dos archivos deben estar guardados en la carpeta de datos.
 
-## EXPLORACIÓN DE LOS DATOS
+## Exploración de los datos
 
 ```{r}
 muestras <- read.table('../../data/dme_elev_samples.tsv', header = TRUE)
@@ -21,9 +21,14 @@ genex <- read.table('../../data/salmon.merged.gene_counts.tsv',
                     header = TRUE)
 ```
 
-**Ejercicio 1** Recuerda dejar constancia en un bloque de código de cómo obtienes las respuestas.
 
-1.  Usa la función paste() para añadir una columna a muestras que contenga la población y la temperatura unidas por \_.
+::: {.callout-note icon="false"}
+## Ejercicio 1
+
+Recuerda dejar constancia en un bloque de código de cómo obtienes las respuestas.
+:::
+
+1.  Usa la función `paste()` para añadir una columna a muestras que contenga la población y la temperatura unidas por _.
 
 ```{r}
 help(paste)
@@ -42,9 +47,12 @@ total_lecturas <- colSums(genex[ , -c(1,2)])
 total_lecturas
 ```
 
-3.  ¿Los recuentos tienen distribuciones parecidas entre muestras? Tenemos que utilizar la función pivot_longer de tidyr,
+3.  ¿Los recuentos tienen distribuciones parecidas entre muestras? 
+
+Tenemos que utilizar la función `pivot_longer` de `tidyr`
 
 ```{r}
+#| warning: false
 #| message: false
 library(tidyr)
 library(ggplot2)
@@ -72,9 +80,9 @@ genes_no_expresados <- sum(rowSums(genex[, -c(1,2)]) == 0)
 genes_no_expresados
 ```
 
-## Crear el objeto de clase DESeqDataSet
+## Crear el objeto de clase `DESeqDataSet`
 
-Para crear un objeto de clase DESeqDataSet necesitamos que las filas de la tabla muestras estén en el mismo orden que las columnas en genex. La función DESeqDataSetFromMatrix() necesita que los recuentos sean una matriz, no un marco de datos. Y en muestras debe haber **factores**.
+Para crear un objeto de clase `DESeqDataSet` necesitamos que las filas de la tabla `muestras` estén en el mismo orden que las columnas en `genex`. La función `DESeqDataSetFromMatrix()` necesita que los recuentos sean una matriz, no un marco de datos. Y en `muestras` debe haber **factores**.
 
 ```{r}
 suppressMessages(library('DESeq2'))
@@ -114,11 +122,14 @@ dds1 <- DESeqDataSetFromMatrix(
 dds1
 ```
 
-*Los objetos DESeqDataSet pueden contener información sobre las coordenadas cromosómicas de los genes o tránscritos, si se construyen a partir de otro tipo de datos.*
+::: {.callout-note icon="true"}
+## Nota
+Los objetos `DESeqDataSet` pueden contener información sobre las coordenadas cromosómicas de los genes o tránscritos, si se construyen a partir de otro tipo de datos.
+:::
 
 ## Pre-filtrado
 
-Una fracción importante de genes no se están expresando en ningúna muestra. Aunque el filtrado no es necesario, ayuda a reducir la memoria ocupada por dds1:
+Una fracción importante de genes no se están expresando en ningúna muestra. Aunque el filtrado no es necesario, ayuda a reducir la memoria ocupada por `dds1`:
 
 ```{r}
 keep <- rowSums(counts(dds1)) > 0
@@ -127,7 +138,7 @@ dds1 <- dds1[keep, ]
 
 ## Expresión diferencial
 
-Observa que la función DESeq() produce un objeto también de clase DESeqDataSet, pero con resultados añadidos:
+Observa que la función `DESeq()` produce un objeto también de clase `DESeqDataSet`, pero con resultados añadidos:
 
 ```{r}
 dds1 <- DESeq(dds1)
@@ -138,11 +149,14 @@ res <- results(dds1)
 res
 ```
 
-Por defecto, la función results() produce la tabla de resultados para el contraste entre el nivel último y el de referencia del último factor en la tabla que describe las muestras. En este caso, el factor es temp, el nivel de referencia es low y el otro nivel es high. Por tanto, los valores de log2FoldChange representan el logaritmo en base 2 de la relación entre niveles de expresión en muestras high respecto de muestras low.
+Por defecto, la función `results()` produce la tabla de resultados para el contraste entre el nivel último y el de referencia del último factor en la tabla que describe las muestras. En este caso, el factor es `temp`, el nivel de referencia es `low` y el otro nivel es `high`. Por tanto, los valores de `log2FoldChange` representan el logaritmo en base 2 de la relación entre niveles de expresión en muestras `high` respecto de muestras `low`.
 
-**Ejercicio 3**
+::: {.callout-note icon="false"}
+## Ejercicio 3
 
-1.  Mira la ayuda de results() y genera también la tabla de resultados para el contraste entre las dos regiones de procedencia de las moscas.
+1.  Mira la ayuda de `results()` y genera también la tabla de resultados para el contraste entre las dos regiones de procedencia de las moscas.
+:::
+
 ```{r}
 help("results")
 ```
@@ -168,8 +182,10 @@ dds2 <- DESeq(dds2)
 res2 <- results(dds2)
 res2
 ```
-
-2.  Usa summary() sobre los resultados para ver el número de genes diferencialmente expresados entre cada par de condiciones.
+::: {.callout-note icon="false"}
+## Ejercicio 3
+2.  Usa `summary()` sobre los resultados para ver el número de genes diferencialmente expresados entre cada par de condiciones.
+:::
 
 ```{r}
 summary(res)
@@ -180,15 +196,20 @@ summary(res2)
 ```
 El factor que más afecta es la temperatura.
 
+::: {.callout-note icon="false"}
+## Ejercicio 3
 3.  ¿Cuál es la tasa de falsos positivos (FDR)?
+:::
+
 Se puede ver en summary, 0.1
 En la función results tenemos un parámetro llamado alpha, que es el umbral de significancia utilizado. Así podríamos modificarlo por ejemplo del 10% o al 5% si quisiéramos ser más exigentes.
+:::
 
 ## Gráficas
 ```{r}
 plotMA(res)
 ```
-Los genes con niveles de expresión más bajos producen resultados más ruidosos (la varianza es mayor). La función lfcShrink() contrae (*shrink*) las estimaciones de los efectos (*log fold change*) para reducir el ruido y hacer el resultado más realista:
+Los genes con niveles de expresión más bajos producen resultados más ruidosos (la varianza es mayor). La función `lfcShrink()` contrae (*shrink*) las estimaciones de los efectos (*log fold change*) para reducir el ruido y hacer el resultado más realista:
 
 ```{r}
 resShrink <- lfcShrink(dds1, coef = 'temp_high_vs_low',
@@ -196,8 +217,11 @@ resShrink <- lfcShrink(dds1, coef = 'temp_high_vs_low',
 plotMA(resShrink)
 ```
 
-**Ejercicio 4**
+::: {.callout-note icon="false"}
+## Ejercicio 4
 ¿Sabrías hacer una gráfica volcán?
+
+:::
 
 ```{r}
 library(ggplot2)
@@ -211,7 +235,7 @@ ggplot(res_df, aes(x = log2FoldChange, y = -log10(padj))) +
 ```
 
 ## Extraer datos transformados
-Aunque los datos de entrada no deben estar normalizados y la función DESeq() ya tiene en cuenta las diferencias de tamaño de genoteca entre muestras y la relación entre media y varianza, puede ser útil disponer de los datos normalizados para representarlos gráficamente. Para ello podemos usar las funciones vst() y assay():
+Aunque los datos de entrada no deben estar normalizados y la función `DESeq()` ya tiene en cuenta las diferencias de tamaño de genoteca entre muestras y la relación entre media y varianza, puede ser útil disponer de los datos normalizados para representarlos gráficamente. Para ello podemos usar las funciones `vst()` y `assay()`:
 
 ```{r}
 dds3 <- vst(dds1)
@@ -226,6 +250,8 @@ heatmap(NormCounts[c(head(row.names(res), 100),
         Rowv = NA, Colv = NA)
 ```
 
-**Ejercicio 5**
+::: {.callout-note icon="false"}
+## Ejercicio 5
 ¿Podrías explicar qué hace el bloque de código anterior?
+:::
 

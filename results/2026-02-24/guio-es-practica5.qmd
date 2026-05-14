@@ -342,8 +342,8 @@ poder representar gráficamente la longitud acumulada de todas las
 secuencias disponibles a medida que se han ido publicando?
 :::
 
-Para empezar, hay que clasificarlos por fecha de publicación y hay que obtener
-la longitud acumulada.
+Para empezar, hay que clasificarlos por fecha de publicación y hay que
+obtener la longitud acumulada.
 
 ```{r}
 # 1. Ordenar por fecha 
@@ -382,7 +382,6 @@ curl_download(URL, destfile = 'Adh.fasta')
 ## Ejercicio 4
 
 Intenta descargar esas mismas secuencias en formato EMBL.
-
 :::
 
 Para ello:
