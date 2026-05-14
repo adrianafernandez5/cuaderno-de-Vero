@@ -162,12 +162,13 @@ library('jsonlite')
 prettify(readLines("/home/veronica/cuaderno/data/ncbi_dataset/data/assembly_data_report.jsonl"))
 ```
 
-#Para que saliera habia que encontrar el archivo y cambiar la ruta donde
+Para que saliera habia que encontrar el archivo y cambiar la ruta donde
 esta. Para ello usamos file.choose y pegamos la ruta correcta. Volviendo
 a lo que nos interesa, vamos a cargar en un marco de datos de una sesión
 de R la anotación funcional del genoma escogido. Aunque existen
 funciones específicas para leer archivos GFF, usaremos la función básica
-`read.table()`, con alguna precaución. #Al igual que antes, modificamos
+`read.table()`, con alguna precaución. 
+Al igual que antes, modificamos
 la ruta y ponemos donde se encuentra nuestro archivo genomic.gff
 
 ```{r}
@@ -190,7 +191,7 @@ conviene revisar las dimensiones del marco de datos (`dim(gff)`) o
 incluso visualizar el principio (`head(gff)`) y el final (`tail(gff)`)
 del objeto, que es demasiado grande para mostrarlo en pantalla completo.
 
-# Las dimensiones son 42497 filas x 9 columnas. La cabecera nos muestra las 6 primeras lineas y los attributes. El final muestra de las filas 42492 a la 42497.
+Las dimensiones son 42497 filas x 9 columnas. La cabecera nos muestra las 6 primeras lineas y los attributes. El final muestra de las filas 42492 a la 42497.
 
 ## Seleccionar filas y columnas
 
@@ -198,7 +199,9 @@ En el objeto `gff` hay 5 valores diferentes de la variable `type`:
 "CDS", "exon", "gene", "mRNA" y "region". Puedes comprobarlo con
 `unique(gff$type)`, o con `table(gff$type)`. Podemos separar la tabla en
 cinco marcos de datos, que correspondan a esos cinco tipos de anotación
-funcional. \# Se obtienen 11304 de la variable CDS, 11304 de la variable
+funcional. 
+
+Se obtienen 11304 de la variable CDS, 11304 de la variable
 exon, 9768 de la variable gene, 10057 de la variable mRNA y 64 de la
 variable region.
 
@@ -216,10 +219,14 @@ region <- gff[gff$type == 'region', -3]
 # Alinear las órdenes nos ayuda a detectar posibles errores
 ```
 
-#Hasta aquí se ha ejecutado en clase. :::{.callout-note icon=false} \##
-Desafío Identifica en cada uno de estos marcos de datos qué columnas son
+Hasta aquí se ha ejecutado en clase. 
+
+:::{.callout-note icon=false} 
+## Desafío 
+Identifica en cada uno de estos marcos de datos qué columnas son
 invariables. Es decir, las columnas que tienen el mismo valor en todas
-las líneas. Y elimina esas columnas. :::
+las líneas. Y elimina esas columnas. 
+:::
 
 ## Agrupar, operar y resumir
 
@@ -233,8 +240,7 @@ nueva tabla. Por ejemplo, para regiones codificantes ("CDS"):
 
 ```{r}
 cds$longitud <- cds$end - cds$start + 1
-resumen <- data.frame(
-   tipo       = 'CDS',
+resumen <- data.frame(tipo       = 'CDS',
    número     = nrow(cds),
    long.Media = mean(cds$longitud),
    long.SD    = sd(cds$longitud)
@@ -313,8 +319,7 @@ resumen <- data.frame(
 kable(resumen,
       col.names = c('Tipo', 'Número', 'Longitud Media',
                     'Desviación estándar'),
-      row.names = FALSE) %>% 
-   kable_styling(full_width = FALSE)
+      row.names = FALSE) 
 ```
 
 Las operaciones de agrupar y resumir se pueden hacer también con
@@ -338,8 +343,7 @@ resumen <- gff %>% group_by(type) %>% summarise(
 kable(resumen,
       col.names = c('Tipo', 'Número', 'Longitud Media',
                     'Desviación estándar'),
-      row.names = FALSE) %>%
-   kable_styling(full_width = FALSE)
+      row.names = FALSE) 
 ```
 
 ::: {.callout-note icon="false"}
@@ -604,5 +608,5 @@ gene$gene_biotype <- sapply(atributos2, '[', 'gene_biotype')
 gene$locus_tag    <- sapply(atributos2, '[', 'locus_tag')
 
 f <- names(gene) != 'attributes'
-kable(gene[1:15, f]) %>% kable_styling()
+kable(gene[1:15, f]) 
 ```
