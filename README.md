@@ -2,7 +2,7 @@ Hola! Soy Verónica Martín.
 En este repositorio llamado "cuaderno" se encuentra el trabajo realizado durante las prácticas de la asignatura "Bioinformática", que se organiza en las siguientes carpetas:
 - doc
 - results
-    - 2026-01-29: README
+    - 2026-01-29: Práctica 1. Nociones de Bash y alineamientos básicos.
     - 2026-02-03: Práctica 2. Archivo de texto generado durante la práctica 2 en la que configuramos Git y la estructura del cuaderno.
     - 2026-02-10: Práctica 3. Mapeo de secuencias cortas.
     - 2026-02-17: Práctica 4. Trabajar con tablas o marcos de R.
